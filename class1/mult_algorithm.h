@@ -25,4 +25,10 @@ unsigned long long ipow(unsigned long long base, unsigned long long exp);
 std::string pad_zero(std::string num, int zeroc); 
 
 // karatsuba algorithm
-std::string karatsuba(const std::string &num1, const std::string &num2); 
+std::string karatsuba(std::string num1, std::string num2);
+
+// continuous cstd::string of numbers to vector
+std::vector<int> merge_sort(const std::vector<int> &unsorted_input); 
+
+// merge two sorted vectors
+std::vector<int> merge(const std::vector<int> &left, const std::vector<int> &right);

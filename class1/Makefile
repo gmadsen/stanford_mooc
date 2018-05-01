@@ -3,36 +3,21 @@
 CXX = g++
 CXXFLAGS = -Wall -Werror -pedantic --std=c++11 -g
 
-list_test_srcs = $(wildcard List_test*.cpp)
-list_test_exes = $(list_test_srcs:.cpp=.exe)
-stack_test_srcs = $(wildcard Stack_test*.cpp)
-stack_test_exes = $(stack_test_srcs:.cpp=.exe)
 
 all: test
 
-test: List_compile_check.exe List_tests.exe Stack_tests.exe calc.exe
-	./List_compile_check.exe
-	./List_tests.exe
+test: mult_algorithm_test.exe main.exe
+	./mult_algorithm_test.exe
+	./main.exe
 
-	./Stack_tests.exe
 
-	./calc.exe < calc_test00.in > calc_test00.out
-	diff -q calc_test00.out calc_test00.out.correct
+mult_algorithm_test.exe: mult_algorithm_test.cpp mult_algorithm.cpp unit_test_framework.cpp 
+	$(CXX) $(CXXFLAGS) $^ -o $@
 
-	./calc.exe < calc_test01.in > calc_test01.out
-	diff -q calc_test01.out calc_test01.out.correct
+main.exe: main.cpp mult_algorithm.cpp 
+	$(CXX) $(CXXFLAGS) $^ -o $@
 
-calc.exe: calc.cpp List.h Stack.h
-	$(CXX) $(CXXFLAGS) calc.cpp -o $@
 
-List_tests.exe: List_tests.cpp unit_test_framework.cpp List.h
-	$(CXX) $(CXXFLAGS) $< unit_test_framework.cpp -o $@
-
-List_compile_check.exe: List_compile_check.cpp List.h
-	$(CXX) $(CXXFLAGS) List_compile_check.cpp -o $@
-
-Stack_tests.exe: Stack_tests.cpp unit_test_framework.cpp List.h Stack.h
-	$(CXX) $(CXXFLAGS) $< unit_test_framework.cpp -o $@
 
 # disable built-in rules
 .SUFFIXES:
