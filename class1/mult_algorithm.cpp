@@ -177,3 +177,56 @@ vector<int> merge(const vector<int> &left, const vector<int> &right) {
   return merged_vector;
 }
 
+// sort an unsorted vector with merge sort algorithm
+vector<int> merge_sort(const vector<int> &input) {
+  if (input.size() <= 1) {
+    return input;
+  }
+  int half = input.size()/2;
+  vector<int>::const_iterator middle = input.begin() + half;
+  vector<int> left = merge_sort(vector<int> (input.begin(), middle));
+  vector<int> right = merge_sort(vector<int> (middle, input.end()));
+  return merge(left, right);
+}
+
+
+//EFFECTS: count inversions using merge 
+vector<int> inversion_merge(const vector<int> &left, const vector<int> &right, long long &count) {
+  vector<int> merged_vector;
+
+  // start iterators for both inputs
+  auto left_iter = left.begin();
+  auto right_iter = right.begin();
+
+  while (left_iter != left.end() && right_iter != right.end()) {
+    if (*left_iter < *right_iter) {
+      merged_vector.push_back(*left_iter);
+      ++left_iter;
+    } else {
+      merged_vector.push_back(*right_iter);
+      ++right_iter;
+      count += left.end() - left_iter;
+    }
+  }
+  while (left_iter != left.end()) {
+    merged_vector.push_back(*left_iter);
+    ++left_iter;
+  }
+  while (right_iter != right.end()) {
+    merged_vector.push_back(*right_iter);
+    ++right_iter;
+  }
+  return merged_vector;
+}
+
+// count the number of inversions in a vector using merge sort
+vector<int> inversion_count(const vector<int> &input, long long &count) {
+  if (input.size() <= 1) {
+    return input;
+  }
+  int half = input.size()/2;
+  vector<int>::const_iterator middle = input.begin() + half;
+  vector<int> left = inversion_count(vector<int> (input.begin(), middle), count);
+  vector<int> right = inversion_count(vector<int> (middle, input.end()), count);
+  return inversion_merge(left, right, count);
+}

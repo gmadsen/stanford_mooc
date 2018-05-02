@@ -45,4 +45,18 @@ TEST(test_merge_small) {
     ASSERT_EQUAL(expected, merge(left,right));
 }
 
+TEST(test_merge_sort_small) {
+    vector<int> input {1,3,2,5,7,4,6,8,9};
+    vector<int> expected {1,2,3,4,5,6,7,8,9};
+    ASSERT_EQUAL(expected, merge_sort(input));
+}
+
+TEST(test_inversion_count_small) {
+    vector<int> unsorted {1,2,3,5,6,7,4,8,9};
+    int expected = 3;
+    int actual = 0;
+    inversion_count(unsorted, actual);
+    ASSERT_EQUAL(expected, actual); 
+}
+
 TEST_MAIN()

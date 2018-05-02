@@ -32,3 +32,14 @@ std::vector<int> merge_sort(const std::vector<int> &unsorted_input);
 
 // merge two sorted vectors
 std::vector<int> merge(const std::vector<int> &left, const std::vector<int> &right);
+
+// sort an unsorted vector using merge_sort algorithm
+std::vector<int> merge_sort(const std::vector<int> &input);
+
+
+//EFFECTS: count inversions using merge 
+std::vector<int> inversion_merge(const std::vector<int> &left, const std::vector<int> &right, long long &count); 
+
+// count the number of inversions in a vector using merge sort
+std::vector<int> inversion_count(const std::vector<int> &input, long long &count); 
+
