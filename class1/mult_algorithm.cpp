@@ -7,6 +7,9 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include <cstdlib>
+#include <list>
+
 using namespace std;
 
 // main.exe num1 num2
@@ -149,7 +152,7 @@ string karatsuba(string num1, string num2) {
   return find_sum(find_sum(pad_zero(z2, m * 2), pad_zero(z1, m)), z0);
 }
 
-//EFFECTS: merge two sorted vectors
+// EFFECTS: merge two sorted vectors
 vector<int> merge(const vector<int> &left, const vector<int> &right) {
   vector<int> merged_vector;
 
@@ -182,16 +185,16 @@ vector<int> merge_sort(const vector<int> &input) {
   if (input.size() <= 1) {
     return input;
   }
-  int half = input.size()/2;
+  int half = input.size() / 2;
   vector<int>::const_iterator middle = input.begin() + half;
-  vector<int> left = merge_sort(vector<int> (input.begin(), middle));
-  vector<int> right = merge_sort(vector<int> (middle, input.end()));
+  vector<int> left = merge_sort(vector<int>(input.begin(), middle));
+  vector<int> right = merge_sort(vector<int>(middle, input.end()));
   return merge(left, right);
 }
 
-
-//EFFECTS: count inversions using merge 
-vector<int> inversion_merge(const vector<int> &left, const vector<int> &right, long long &count) {
+// EFFECTS: count inversions using merge
+vector<int> inversion_merge(const vector<int> &left, const vector<int> &right,
+                            long long &count) {
   vector<int> merged_vector;
 
   // start iterators for both inputs
@@ -224,9 +227,125 @@ vector<int> inversion_count(const vector<int> &input, long long &count) {
   if (input.size() <= 1) {
     return input;
   }
-  int half = input.size()/2;
+  int half = input.size() / 2;
   vector<int>::const_iterator middle = input.begin() + half;
-  vector<int> left = inversion_count(vector<int> (input.begin(), middle), count);
-  vector<int> right = inversion_count(vector<int> (middle, input.end()), count);
+  vector<int> left = inversion_count(vector<int>(input.begin(), middle), count);
+  vector<int> right = inversion_count(vector<int>(middle, input.end()), count);
   return inversion_merge(left, right, count);
+}
+
+// Effects: inplace partition a vector with a chosen partition element
+vector<int>::iterator vector_partition(vector<int>::iterator begin, vector<int>::iterator end,
+                 vector<int>::iterator pivot) {
+  if (begin != pivot) {
+    std::swap(*begin, *pivot);
+  }
+  vector<int>::iterator i = begin;
+  vector<int>::iterator j = begin + 1;
+
+  while (j != end) {
+    if (*j < *begin) {
+      std::swap(*j, *(i + 1));
+      ++i;
+    }
+    ++j;
+  }
+  std::swap(*begin, *i);
+  return i;
+}
+
+// Effects: find median of medians of a vector
+vector<int>::iterator med_of_med(vector<int>::iterator begin, vector<int>::iterator end) {
+  int size = end - begin;
+  vector<int>::iterator mid = end;
+  vector<int>::iterator last = end - 1;
+  if (size % 2 == 0) {
+     mid = begin + size/2 - 1;
+  }
+  else {
+    mid = begin + (size - 1)/2;
+  }
+
+vector<vector<int>::iterator> drie {begin,mid,last};
+std::sort(drie.begin(), drie.end(), [](vector<int>::iterator a, vector<int>::iterator b) {
+        return *a < *b;   
+    });
+return drie[1];
+}
+
+// Effects: sort a vector inplace with QuickSort algorithm
+void quicksort(vector<int>::iterator begin, vector<int>::iterator end,
+               long long int &comp_count) {
+  int size = end - begin;
+  // base case
+  if (size == 1 || size == 0) return;
+
+  comp_count += size - 1;
+  auto p = med_of_med(begin, end);
+  vector<int>::iterator pivot = vector_partition(begin, end, p);
+  // left
+  //cout << "pivot is: " << *pivot << endl;
+  quicksort(begin, pivot, comp_count);
+  // right
+  quicksort(pivot +  1, end, comp_count);
+}
+
+// find minimum cut based on repeated randomized contraction algorithm
+int min_cut_contraction (list<pair<int,list<int>>> graph) {
+  typedef list<pair<int, list<int>>> graph_t;
+  // choose vertex
+  int head_idx = 0;
+  int tail_idx = 0;
+  int n = graph.size();
+  // contract once
+  // find appropriate iterators pointing to head and tail inside of head list
+  graph_t::iterator head_iter = graph.begin(); 
+  advance(head_iter,head_idx);
+  int head_val = head_iter->first;
+  
+  auto tail_iter = head_iter->second.begin();
+  advance(tail_iter, tail_idx);
+  int tail_val = *tail_iter;
+  cout << "head value is: " << head_val << endl;
+  cout << "tail value is: " << tail_val << endl;
+
+  list<int> new_edges;
+
+  //find head vertices corresponding to edge choice
+  auto it = std::find_if( graph.begin(), graph.end(),
+    [&](const std::pair<int, list<int> > &element){ return element.first == tail_val;} );
+  const auto &head_verts = head_iter->second;
+  const auto &tail_verts = it->second;
+  // add all non tail/head edges to new list
+  for (const auto &i : head_verts) {
+    if (i != head_val && i != tail_val) {
+      new_edges.push_back(i);
+    }
+  }
+  for (const auto &i : tail_verts) {
+    if (i != tail_val && i != head_val) {
+      new_edges.push_back(i);
+    }
+  }
+
+  //remove tail and head vertices from list
+  graph.erase(it);
+  graph.erase(head_iter);
+
+  //update all other vertices
+  graph.push_back(make_pair(n+1, new_edges));
+  for (auto &i : graph) {
+    auto &ad_list = i.second;
+    replace_if(ad_list.begin(),ad_list.end(), [&] (int element) {return element == head_val || element == tail_val;}, n + 1);  
+  } 
+
+  // print
+  for (auto i : graph) {
+    cout << "vertex " << i.first << " has edges: ";
+    for (auto j : i.second) {
+      cout << j << " ";
+    }
+    cout << endl;
+  }
+return 0;
 }

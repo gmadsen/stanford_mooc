@@ -27,12 +27,12 @@ int main(int argc, char **argv) {
   start_count = chrono::system_clock::now();
   long long count = 0;
   std::cout << "hi from above" << endl;
-  inversion_count(input, count);
+  quicksort(input.begin(), input.end(), count);
   
   //end timer
   end_count = chrono::system_clock::now();
   chrono::duration<double> elapsed_seconds = end_count - start_count;
-  std::cout << "inversion count is: " << count <<  endl; 
+  std::cout << "quicksort comparision count is: " << count <<  endl; 
   std::cout << "\n computation took " << elapsed_seconds.count() << "s" << endl;
   return 0;
 }

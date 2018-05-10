@@ -54,9 +54,52 @@ TEST(test_merge_sort_small) {
 TEST(test_inversion_count_small) {
     vector<int> unsorted {1,2,3,5,6,7,4,8,9};
     int expected = 3;
-    int actual = 0;
+    long long int actual = 0;
     inversion_count(unsorted, actual);
     ASSERT_EQUAL(expected, actual); 
 }
+
+TEST(test_vector_partition_small) {
+    vector<int> unsorted {9,8,7,6,5,4,3,2,1};
+    vector<int> expected {1,5,4,3,2,6,9,8,7};
+    vector_partition(unsorted.begin(), unsorted.end(), unsorted.begin() + 3);
+    ASSERT_EQUAL(unsorted, expected);
+}
+
+TEST(test_vector_quicksort_small) {
+    vector<int> unsorted {4,3,2,1};
+    vector<int> expected {1,2,3,4};
+    long long int count = 0;
+    quicksort(unsorted.begin(), unsorted.end(), count);
+    cout << "count is: " << count << endl;
+    cout << "sorted vector is: ";
+    for (unsigned i = 0; i < unsorted.size(); ++i) {
+         cout << unsorted[i] << " ";
+     }
+    ASSERT_EQUAL(unsorted, expected);
+}
+
+TEST(test_quicksort_mid) {
+    vector<int> unsorted {20,12,13,11,14,18,19,17,16,15};
+    vector<int> expected {11,12,13,14,15,16,17,18,19,20};
+    long long count = 0;
+    quicksort(unsorted.begin(), unsorted.end(), count);
+    cout << "sorted vector is: ";
+    for (unsigned i = 0; i < unsorted.size(); ++i) {
+        cout << unsorted[i] << " ";
+    }
+    ASSERT_EQUAL(unsorted, expected);
+}
+
+TEST(test_min_cut_contraction) {
+    list<pair<int,list<int>>> graph;
+    graph.push_back(make_pair(1,list<int> {2,3}));
+    graph.push_back(make_pair(2,list<int> {1,3}));
+    graph.push_back(make_pair(3,list<int> {1,2}));
+    int value = min_cut_contraction(graph);
+    cout << "value is : " << value << endl;
+
+}
+
 
 TEST_MAIN()
