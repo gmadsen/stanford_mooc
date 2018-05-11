@@ -1,6673 +1,2806 @@
-filling took: 0.00968342s
-hi from above
-pivot is: 9269
-pivot is: 2148
-pivot is: 1283
-pivot is: 816
-pivot is: 229
-pivot is: 49
-pivot is: 36
-pivot is: 22
-pivot is: 16
-pivot is: 7
-pivot is: 1
-pivot is: 5
-pivot is: 4
-pivot is: 2
-pivot is: 15
-pivot is: 13
-pivot is: 8
-pivot is: 9
-pivot is: 11
-pivot is: 17
-pivot is: 20
-pivot is: 18
-pivot is: 35
-pivot is: 24
-pivot is: 28
-pivot is: 25
-pivot is: 27
-pivot is: 29
-pivot is: 34
-pivot is: 30
-pivot is: 31
-pivot is: 33
-pivot is: 38
-pivot is: 41
-pivot is: 39
-pivot is: 47
-pivot is: 45
-pivot is: 42
-pivot is: 43
-pivot is: 97
-pivot is: 60
-pivot is: 51
-pivot is: 52
-pivot is: 59
-pivot is: 57
-pivot is: 56
-pivot is: 54
-pivot is: 77
-pivot is: 75
-pivot is: 66
-pivot is: 61
-pivot is: 65
-pivot is: 63
-pivot is: 73
-pivot is: 71
-pivot is: 67
-pivot is: 68
-pivot is: 70
-pivot is: 81
-pivot is: 78
-pivot is: 79
-pivot is: 94
-pivot is: 89
-pivot is: 85
-pivot is: 84
-pivot is: 82
-pivot is: 88
-pivot is: 86
-pivot is: 90
-pivot is: 92
-pivot is: 96
-pivot is: 171
-pivot is: 107
-pivot is: 101
-pivot is: 98
-pivot is: 100
-pivot is: 105
-pivot is: 103
-pivot is: 145
-pivot is: 142
-pivot is: 140
-pivot is: 133
-pivot is: 111
-pivot is: 108
-pivot is: 109
-pivot is: 123
-pivot is: 112
-pivot is: 120
-pivot is: 116
-pivot is: 114
-pivot is: 118
-pivot is: 122
-pivot is: 130
-pivot is: 124
-pivot is: 128
-pivot is: 127
-pivot is: 126
-pivot is: 132
-pivot is: 134
-pivot is: 136
-pivot is: 138
-pivot is: 144
-pivot is: 155
-pivot is: 152
-pivot is: 151
-pivot is: 148
-pivot is: 146
-pivot is: 150
-pivot is: 153
-pivot is: 169
-pivot is: 164
-pivot is: 158
-pivot is: 156
-pivot is: 162
-pivot is: 159
-pivot is: 161
-pivot is: 167
-pivot is: 166
-pivot is: 188
-pivot is: 177
-pivot is: 175
-pivot is: 174
-pivot is: 172
-pivot is: 185
-pivot is: 181
-pivot is: 178
-pivot is: 179
-pivot is: 182
-pivot is: 184
-pivot is: 186
-pivot is: 200
-pivot is: 197
-pivot is: 193
-pivot is: 192
-pivot is: 190
-pivot is: 195
-pivot is: 199
-pivot is: 201
-pivot is: 220
-pivot is: 210
-pivot is: 202
-pivot is: 207
-pivot is: 203
-pivot is: 205
-pivot is: 208
-pivot is: 215
-pivot is: 212
-pivot is: 213
-pivot is: 219
-pivot is: 217
-pivot is: 221
-pivot is: 224
-pivot is: 223
-pivot is: 228
-pivot is: 226
-pivot is: 765
-pivot is: 280
-pivot is: 278
-pivot is: 252
-pivot is: 235
-pivot is: 234
-pivot is: 233
-pivot is: 231
-pivot is: 236
-pivot is: 242
-pivot is: 237
-pivot is: 239
-pivot is: 240
-pivot is: 244
-pivot is: 247
-pivot is: 245
-pivot is: 249
-pivot is: 251
-pivot is: 258
-pivot is: 256
-pivot is: 254
-pivot is: 267
-pivot is: 261
-pivot is: 259
-pivot is: 262
-pivot is: 263
-pivot is: 264
-pivot is: 265
-pivot is: 276
-pivot is: 268
-pivot is: 272
-pivot is: 269
-pivot is: 270
-pivot is: 275
-pivot is: 274
-pivot is: 445
-pivot is: 424
-pivot is: 300
-pivot is: 286
-pivot is: 283
-pivot is: 281
-pivot is: 284
-pivot is: 297
-pivot is: 292
-pivot is: 287
-pivot is: 290
-pivot is: 289
-pivot is: 295
-pivot is: 293
-pivot is: 298
-pivot is: 314
-pivot is: 313
-pivot is: 307
-pivot is: 304
-pivot is: 302
-pivot is: 306
-pivot is: 309
-pivot is: 311
-pivot is: 337
-pivot is: 326
-pivot is: 325
-pivot is: 320
-pivot is: 316
-pivot is: 317
-pivot is: 318
-pivot is: 323
-pivot is: 321
-pivot is: 327
-pivot is: 332
-pivot is: 330
-pivot is: 328
-pivot is: 333
-pivot is: 334
-pivot is: 336
-pivot is: 411
-pivot is: 376
-pivot is: 354
-pivot is: 340
-pivot is: 339
-pivot is: 344
-pivot is: 343
-pivot is: 342
-pivot is: 347
-pivot is: 345
-pivot is: 353
-pivot is: 348
-pivot is: 349
-pivot is: 351
-pivot is: 372
-pivot is: 356
-pivot is: 362
-pivot is: 358
-pivot is: 360
-pivot is: 363
-pivot is: 369
-pivot is: 364
-pivot is: 365
-pivot is: 366
-pivot is: 368
-pivot is: 371
-pivot is: 373
-pivot is: 374
-pivot is: 391
-pivot is: 384
-pivot is: 380
-pivot is: 379
-pivot is: 377
-pivot is: 382
-pivot is: 387
-pivot is: 386
-pivot is: 388
-pivot is: 389
-pivot is: 403
-pivot is: 394
-pivot is: 392
-pivot is: 401
-pivot is: 400
-pivot is: 396
-pivot is: 398
-pivot is: 404
-pivot is: 408
-pivot is: 406
-pivot is: 410
-pivot is: 413
-pivot is: 415
-pivot is: 422
-pivot is: 417
-pivot is: 419
-pivot is: 421
-pivot is: 433
-pivot is: 431
-pivot is: 429
-pivot is: 428
-pivot is: 426
-pivot is: 439
-pivot is: 438
-pivot is: 434
-pivot is: 436
-pivot is: 440
-pivot is: 441
-pivot is: 443
-pivot is: 534
-pivot is: 446
-pivot is: 523
-pivot is: 485
-pivot is: 476
-pivot is: 473
-pivot is: 467
-pivot is: 465
-pivot is: 454
-pivot is: 449
-pivot is: 447
-pivot is: 451
-pivot is: 452
-pivot is: 459
-pivot is: 457
-pivot is: 456
-pivot is: 462
-pivot is: 460
-pivot is: 463
-pivot is: 468
-pivot is: 472
-pivot is: 469
-pivot is: 470
-pivot is: 475
-pivot is: 480
-pivot is: 477
-pivot is: 479
-pivot is: 482
-pivot is: 483
-pivot is: 519
-pivot is: 500
-pivot is: 493
-pivot is: 489
-pivot is: 487
-pivot is: 490
-pivot is: 491
-pivot is: 495
-pivot is: 498
-pivot is: 496
-pivot is: 504
-pivot is: 502
-pivot is: 518
-pivot is: 509
-pivot is: 508
-pivot is: 507
-pivot is: 505
-pivot is: 516
-pivot is: 515
-pivot is: 510
-pivot is: 511
-pivot is: 513
-pivot is: 520
-pivot is: 521
-pivot is: 529
-pivot is: 528
-pivot is: 525
-pivot is: 526
-pivot is: 531
-pivot is: 533
-pivot is: 711
-pivot is: 590
-pivot is: 575
-pivot is: 539
-pivot is: 535
-pivot is: 538
-pivot is: 537
-pivot is: 563
-pivot is: 550
-pivot is: 545
-pivot is: 541
-pivot is: 542
-pivot is: 543
-pivot is: 546
-pivot is: 548
-pivot is: 553
-pivot is: 551
-pivot is: 554
-pivot is: 558
-pivot is: 557
-pivot is: 556
-pivot is: 559
-pivot is: 560
-pivot is: 561
-pivot is: 568
-pivot is: 566
-pivot is: 565
-pivot is: 569
-pivot is: 573
-pivot is: 570
-pivot is: 571
-pivot is: 585
-pivot is: 578
-pivot is: 577
-pivot is: 584
-pivot is: 580
-pivot is: 581
-pivot is: 582
-pivot is: 586
-pivot is: 589
-pivot is: 587
-pivot is: 703
-pivot is: 682
-pivot is: 665
-pivot is: 605
-pivot is: 594
-pivot is: 592
-pivot is: 598
-pivot is: 597
-pivot is: 596
-pivot is: 599
-pivot is: 601
-pivot is: 604
-pivot is: 602
-pivot is: 615
-pivot is: 609
-pivot is: 607
-pivot is: 614
-pivot is: 611
-pivot is: 613
-pivot is: 629
-pivot is: 624
-pivot is: 618
-pivot is: 617
-pivot is: 623
-pivot is: 622
-pivot is: 621
-pivot is: 619
-pivot is: 627
-pivot is: 625
-pivot is: 653
-pivot is: 632
-pivot is: 630
-pivot is: 633
-pivot is: 643
-pivot is: 637
-pivot is: 636
-pivot is: 634
-pivot is: 638
-pivot is: 639
-pivot is: 641
-pivot is: 646
-pivot is: 644
-pivot is: 651
-pivot is: 647
-pivot is: 649
-pivot is: 664
-pivot is: 658
-pivot is: 655
-pivot is: 657
-pivot is: 662
-pivot is: 659
-pivot is: 660
-pivot is: 670
-pivot is: 666
-pivot is: 668
-pivot is: 681
-pivot is: 672
-pivot is: 679
-pivot is: 677
-pivot is: 676
-pivot is: 675
-pivot is: 673
-pivot is: 688
-pivot is: 685
-pivot is: 683
-pivot is: 687
-pivot is: 690
-pivot is: 702
-pivot is: 691
-pivot is: 693
-pivot is: 697
-pivot is: 695
-pivot is: 701
-pivot is: 698
-pivot is: 700
-pivot is: 705
-pivot is: 709
-pivot is: 706
-pivot is: 708
-pivot is: 725
-pivot is: 712
-pivot is: 719
-pivot is: 718
-pivot is: 716
-pivot is: 715
-pivot is: 713
-pivot is: 724
-pivot is: 723
-pivot is: 720
-pivot is: 722
-pivot is: 761
-pivot is: 748
-pivot is: 734
-pivot is: 731
-pivot is: 727
-pivot is: 729
-pivot is: 732
-pivot is: 743
-pivot is: 737
-pivot is: 736
-pivot is: 738
-pivot is: 739
-pivot is: 740
-pivot is: 742
-pivot is: 746
-pivot is: 745
-pivot is: 749
-pivot is: 755
-pivot is: 750
-pivot is: 752
-pivot is: 754
-pivot is: 757
-pivot is: 759
-pivot is: 762
-pivot is: 764
-pivot is: 767
-pivot is: 770
-pivot is: 768
-pivot is: 786
-pivot is: 774
-pivot is: 771
-pivot is: 773
-pivot is: 777
-pivot is: 775
-pivot is: 778
-pivot is: 781
-pivot is: 779
-pivot is: 783
-pivot is: 785
-pivot is: 797
-pivot is: 795
-pivot is: 790
-pivot is: 787
-pivot is: 789
-pivot is: 793
-pivot is: 792
-pivot is: 813
-pivot is: 802
-pivot is: 798
-pivot is: 801
-pivot is: 800
-pivot is: 803
-pivot is: 812
-pivot is: 807
-pivot is: 806
-pivot is: 805
-pivot is: 808
-pivot is: 810
-pivot is: 814
-pivot is: 933
-pivot is: 874
-pivot is: 852
-pivot is: 826
-pivot is: 817
-pivot is: 824
-pivot is: 819
-pivot is: 821
-pivot is: 822
-pivot is: 837
-pivot is: 828
-pivot is: 836
-pivot is: 832
-pivot is: 829
-pivot is: 830
-pivot is: 833
-pivot is: 834
-pivot is: 845
-pivot is: 842
-pivot is: 840
-pivot is: 839
-pivot is: 843
-pivot is: 847
-pivot is: 848
-pivot is: 850
-pivot is: 872
-pivot is: 865
-pivot is: 858
-pivot is: 855
-pivot is: 853
-pivot is: 856
-pivot is: 863
-pivot is: 862
-pivot is: 859
-pivot is: 861
-pivot is: 870
-pivot is: 869
-pivot is: 866
-pivot is: 868
-pivot is: 896
-pivot is: 887
-pivot is: 875
-pivot is: 886
-pivot is: 879
-pivot is: 876
-pivot is: 877
-pivot is: 884
-pivot is: 883
-pivot is: 881
-pivot is: 890
-pivot is: 888
-pivot is: 891
-pivot is: 894
-pivot is: 893
-pivot is: 913
-pivot is: 897
-pivot is: 903
-pivot is: 900
-pivot is: 899
-pivot is: 902
-pivot is: 907
-pivot is: 906
-pivot is: 905
-pivot is: 911
-pivot is: 910
-pivot is: 908
-pivot is: 915
-pivot is: 928
-pivot is: 923
-pivot is: 922
-pivot is: 921
-pivot is: 919
-pivot is: 917
-pivot is: 924
-pivot is: 926
-pivot is: 930
-pivot is: 931
-pivot is: 1279
-pivot is: 1136
-pivot is: 1109
-pivot is: 1094
-pivot is: 1055
-pivot is: 948
-pivot is: 947
-pivot is: 945
-pivot is: 942
-pivot is: 936
-pivot is: 935
-pivot is: 938
-pivot is: 940
-pivot is: 943
-pivot is: 992
-pivot is: 964
-pivot is: 961
-pivot is: 950
-pivot is: 955
-pivot is: 953
-pivot is: 952
-pivot is: 959
-pivot is: 957
-pivot is: 963
-pivot is: 981
-pivot is: 976
-pivot is: 965
-pivot is: 973
-pivot is: 970
-pivot is: 968
-pivot is: 966
-pivot is: 972
-pivot is: 975
-pivot is: 979
-pivot is: 977
-pivot is: 988
-pivot is: 984
-pivot is: 983
-pivot is: 985
-pivot is: 987
-pivot is: 990
-pivot is: 1000
-pivot is: 997
-pivot is: 993
-pivot is: 994
-pivot is: 996
-pivot is: 998
-pivot is: 1009
-pivot is: 1007
-pivot is: 1003
-pivot is: 1002
-pivot is: 1006
-pivot is: 1004
-pivot is: 1012
-pivot is: 1010
-pivot is: 1036
-pivot is: 1018
-pivot is: 1016
-pivot is: 1015
-pivot is: 1014
-pivot is: 1028
-pivot is: 1026
-pivot is: 1024
-pivot is: 1022
-pivot is: 1021
-pivot is: 1020
-pivot is: 1029
-pivot is: 1030
-pivot is: 1032
-pivot is: 1034
-pivot is: 1053
-pivot is: 1043
-pivot is: 1040
-pivot is: 1038
-pivot is: 1042
-pivot is: 1049
-pivot is: 1047
-pivot is: 1044
-pivot is: 1045
-pivot is: 1052
-pivot is: 1050
-pivot is: 1089
-pivot is: 1087
-pivot is: 1072
-pivot is: 1062
-pivot is: 1061
-pivot is: 1060
-pivot is: 1059
-pivot is: 1057
-pivot is: 1067
-pivot is: 1064
-pivot is: 1065
-pivot is: 1069
-pivot is: 1071
-pivot is: 1082
-pivot is: 1074
-pivot is: 1078
-pivot is: 1076
-pivot is: 1080
-pivot is: 1083
-pivot is: 1085
-pivot is: 1093
-pivot is: 1091
-pivot is: 1103
-pivot is: 1099
-pivot is: 1097
-pivot is: 1096
-pivot is: 1102
-pivot is: 1100
-pivot is: 1105
-pivot is: 1106
-pivot is: 1108
-pivot is: 1129
-pivot is: 1118
-pivot is: 1115
-pivot is: 1111
-pivot is: 1112
-pivot is: 1114
-pivot is: 1116
-pivot is: 1123
-pivot is: 1120
-pivot is: 1121
-pivot is: 1124
-pivot is: 1126
-pivot is: 1128
-pivot is: 1130
-pivot is: 1131
-pivot is: 1135
-pivot is: 1134
-pivot is: 1133
-pivot is: 1258
-pivot is: 1239
-pivot is: 1225
-pivot is: 1179
-pivot is: 1145
-pivot is: 1142
-pivot is: 1141
-pivot is: 1138
-pivot is: 1140
-pivot is: 1143
-pivot is: 1175
-pivot is: 1163
-pivot is: 1161
-pivot is: 1151
-pivot is: 1148
-pivot is: 1146
-pivot is: 1149
-pivot is: 1157
-pivot is: 1154
-pivot is: 1153
-pivot is: 1156
-pivot is: 1160
-pivot is: 1158
-pivot is: 1168
-pivot is: 1165
-pivot is: 1167
-pivot is: 1170
-pivot is: 1172
-pivot is: 1173
-pivot is: 1176
-pivot is: 1178
-pivot is: 1196
-pivot is: 1180
-pivot is: 1186
-pivot is: 1184
-pivot is: 1183
-pivot is: 1181
-pivot is: 1190
-pivot is: 1187
-pivot is: 1189
-pivot is: 1192
-pivot is: 1195
-pivot is: 1194
-pivot is: 1199
-pivot is: 1197
-pivot is: 1216
-pivot is: 1214
-pivot is: 1204
-pivot is: 1201
-pivot is: 1202
-pivot is: 1206
-pivot is: 1211
-pivot is: 1210
-pivot is: 1208
-pivot is: 1212
-pivot is: 1221
-pivot is: 1217
-pivot is: 1218
-pivot is: 1219
-pivot is: 1222
-pivot is: 1224
-pivot is: 1228
-pivot is: 1227
-pivot is: 1234
-pivot is: 1232
-pivot is: 1231
-pivot is: 1229
-pivot is: 1237
-pivot is: 1236
-pivot is: 1247
-pivot is: 1242
-pivot is: 1240
-pivot is: 1246
-pivot is: 1243
-pivot is: 1244
-pivot is: 1252
-pivot is: 1248
-pivot is: 1249
-pivot is: 1251
-pivot is: 1255
-pivot is: 1253
-pivot is: 1256
-pivot is: 1264
-pivot is: 1260
-pivot is: 1262
-pivot is: 1272
-pivot is: 1266
-pivot is: 1267
-pivot is: 1271
-pivot is: 1269
-pivot is: 1275
-pivot is: 1273
-pivot is: 1276
-pivot is: 1278
-pivot is: 1282
-pivot is: 1281
-pivot is: 1948
-pivot is: 1561
-pivot is: 1506
-pivot is: 1328
-pivot is: 1323
-pivot is: 1306
-pivot is: 1290
-pivot is: 1288
-pivot is: 1284
-pivot is: 1287
-pivot is: 1286
-pivot is: 1294
-pivot is: 1292
-pivot is: 1301
-pivot is: 1296
-pivot is: 1300
-pivot is: 1299
-pivot is: 1298
-pivot is: 1302
-pivot is: 1305
-pivot is: 1304
-pivot is: 1308
-pivot is: 1312
-pivot is: 1309
-pivot is: 1311
-pivot is: 1321
-pivot is: 1319
-pivot is: 1318
-pivot is: 1313
-pivot is: 1315
-pivot is: 1316
-pivot is: 1327
-pivot is: 1325
-pivot is: 1440
-pivot is: 1332
-pivot is: 1331
-pivot is: 1329
-pivot is: 1420
-pivot is: 1351
-pivot is: 1350
-pivot is: 1337
-pivot is: 1334
-pivot is: 1335
-pivot is: 1346
-pivot is: 1340
-pivot is: 1339
-pivot is: 1341
-pivot is: 1344
-pivot is: 1343
-pivot is: 1349
-pivot is: 1347
-pivot is: 1360
-pivot is: 1356
-pivot is: 1352
-pivot is: 1353
-pivot is: 1354
-pivot is: 1359
-pivot is: 1358
-pivot is: 1411
-pivot is: 1385
-pivot is: 1372
-pivot is: 1363
-pivot is: 1361
-pivot is: 1369
-pivot is: 1364
-pivot is: 1366
-pivot is: 1368
-pivot is: 1371
-pivot is: 1383
-pivot is: 1380
-pivot is: 1375
-pivot is: 1373
-pivot is: 1377
-pivot is: 1379
-pivot is: 1381
-pivot is: 1399
-pivot is: 1396
-pivot is: 1392
-pivot is: 1386
-pivot is: 1389
-pivot is: 1387
-pivot is: 1390
-pivot is: 1393
-pivot is: 1395
-pivot is: 1398
-pivot is: 1401
-pivot is: 1402
-pivot is: 1409
-pivot is: 1403
-pivot is: 1404
-pivot is: 1406
-pivot is: 1407
-pivot is: 1419
-pivot is: 1412
-pivot is: 1414
-pivot is: 1415
-pivot is: 1416
-pivot is: 1418
-pivot is: 1428
-pivot is: 1426
-pivot is: 1424
-pivot is: 1421
-pivot is: 1423
-pivot is: 1429
-pivot is: 1434
-pivot is: 1430
-pivot is: 1432
-pivot is: 1439
-pivot is: 1437
-pivot is: 1436
-pivot is: 1502
-pivot is: 1470
-pivot is: 1447
-pivot is: 1442
-pivot is: 1445
-pivot is: 1443
-pivot is: 1461
-pivot is: 1448
-pivot is: 1457
-pivot is: 1455
-pivot is: 1449
-pivot is: 1453
-pivot is: 1451
-pivot is: 1459
-pivot is: 1464
-pivot is: 1462
-pivot is: 1467
-pivot is: 1466
-pivot is: 1468
-pivot is: 1480
-pivot is: 1477
-pivot is: 1474
-pivot is: 1471
-pivot is: 1473
-pivot is: 1476
-pivot is: 1478
-pivot is: 1493
-pivot is: 1484
-pivot is: 1483
-pivot is: 1482
-pivot is: 1492
-pivot is: 1487
-pivot is: 1485
-pivot is: 1488
-pivot is: 1490
-pivot is: 1498
-pivot is: 1497
-pivot is: 1495
-pivot is: 1499
-pivot is: 1500
-pivot is: 1503
-pivot is: 1505
-pivot is: 1531
-pivot is: 1513
-pivot is: 1507
-pivot is: 1508
-pivot is: 1510
-pivot is: 1512
-pivot is: 1523
-pivot is: 1521
-pivot is: 1516
-pivot is: 1514
-pivot is: 1520
-pivot is: 1518
-pivot is: 1527
-pivot is: 1524
-pivot is: 1526
-pivot is: 1529
-pivot is: 1551
-pivot is: 1540
-pivot is: 1532
-pivot is: 1536
-pivot is: 1534
-pivot is: 1539
-pivot is: 1538
-pivot is: 1547
-pivot is: 1542
-pivot is: 1546
-pivot is: 1545
-pivot is: 1543
-pivot is: 1548
-pivot is: 1550
-pivot is: 1555
-pivot is: 1553
-pivot is: 1558
-pivot is: 1556
-pivot is: 1560
-pivot is: 1667
-pivot is: 1575
-pivot is: 1571
-pivot is: 1570
-pivot is: 1565
-pivot is: 1562
-pivot is: 1564
-pivot is: 1569
-pivot is: 1567
-pivot is: 1574
-pivot is: 1573
-pivot is: 1620
-pivot is: 1617
-pivot is: 1601
-pivot is: 1583
-pivot is: 1581
-pivot is: 1578
-pivot is: 1577
-pivot is: 1580
-pivot is: 1591
-pivot is: 1589
-pivot is: 1585
-pivot is: 1587
-pivot is: 1596
-pivot is: 1595
-pivot is: 1594
-pivot is: 1593
-pivot is: 1598
-pivot is: 1599
-pivot is: 1607
-pivot is: 1604
-pivot is: 1603
-pivot is: 1606
-pivot is: 1614
-pivot is: 1610
-pivot is: 1609
-pivot is: 1613
-pivot is: 1612
-pivot is: 1615
-pivot is: 1618
-pivot is: 1664
-pivot is: 1655
-pivot is: 1624
-pivot is: 1621
-pivot is: 1622
-pivot is: 1645
-pivot is: 1628
-pivot is: 1625
-pivot is: 1627
-pivot is: 1639
-pivot is: 1637
-pivot is: 1631
-pivot is: 1630
-pivot is: 1632
-pivot is: 1633
-pivot is: 1635
-pivot is: 1644
-pivot is: 1640
-pivot is: 1643
-pivot is: 1642
-pivot is: 1650
-pivot is: 1647
-pivot is: 1648
-pivot is: 1654
-pivot is: 1651
-pivot is: 1653
-pivot is: 1657
-pivot is: 1661
-pivot is: 1658
-pivot is: 1660
-pivot is: 1662
-pivot is: 1666
-pivot is: 1749
-pivot is: 1702
-pivot is: 1700
-pivot is: 1687
-pivot is: 1674
-pivot is: 1670
-pivot is: 1668
-pivot is: 1673
-pivot is: 1672
-pivot is: 1682
-pivot is: 1675
-pivot is: 1681
-pivot is: 1676
-pivot is: 1678
-pivot is: 1679
-pivot is: 1684
-pivot is: 1686
-pivot is: 1696
-pivot is: 1694
-pivot is: 1689
-pivot is: 1690
-pivot is: 1691
-pivot is: 1692
-pivot is: 1697
-pivot is: 1699
-pivot is: 1734
-pivot is: 1711
-pivot is: 1707
-pivot is: 1706
-pivot is: 1704
-pivot is: 1710
-pivot is: 1708
-pivot is: 1717
-pivot is: 1715
-pivot is: 1713
-pivot is: 1724
-pivot is: 1723
-pivot is: 1720
-pivot is: 1719
-pivot is: 1722
-pivot is: 1731
-pivot is: 1729
-pivot is: 1726
-pivot is: 1727
-pivot is: 1733
-pivot is: 1748
-pivot is: 1742
-pivot is: 1740
-pivot is: 1738
-pivot is: 1736
-pivot is: 1743
-pivot is: 1744
-pivot is: 1746
-pivot is: 1892
-pivot is: 1753
-pivot is: 1752
-pivot is: 1750
-pivot is: 1877
-pivot is: 1821
-pivot is: 1781
-pivot is: 1760
-pivot is: 1755
-pivot is: 1757
-pivot is: 1759
-pivot is: 1768
-pivot is: 1763
-pivot is: 1762
-pivot is: 1765
-pivot is: 1766
-pivot is: 1771
-pivot is: 1770
-pivot is: 1773
-pivot is: 1777
-pivot is: 1776
-pivot is: 1774
-pivot is: 1779
-pivot is: 1794
-pivot is: 1782
-pivot is: 1785
-pivot is: 1784
-pivot is: 1786
-pivot is: 1788
-pivot is: 1791
-pivot is: 1789
-pivot is: 1792
-pivot is: 1814
-pivot is: 1812
-pivot is: 1797
-pivot is: 1795
-pivot is: 1806
-pivot is: 1804
-pivot is: 1802
-pivot is: 1801
-pivot is: 1800
-pivot is: 1798
-pivot is: 1811
-pivot is: 1809
-pivot is: 1808
-pivot is: 1816
-pivot is: 1817
-pivot is: 1820
-pivot is: 1819
-pivot is: 1876
-pivot is: 1833
-pivot is: 1827
-pivot is: 1823
-pivot is: 1825
-pivot is: 1831
-pivot is: 1828
-pivot is: 1830
-pivot is: 1843
-pivot is: 1835
-pivot is: 1840
-pivot is: 1839
-pivot is: 1837
-pivot is: 1841
-pivot is: 1853
-pivot is: 1844
-pivot is: 1850
-pivot is: 1845
-pivot is: 1849
-pivot is: 1848
-pivot is: 1847
-pivot is: 1852
-pivot is: 1874
-pivot is: 1866
-pivot is: 1859
-pivot is: 1854
-pivot is: 1858
-pivot is: 1855
-pivot is: 1856
-pivot is: 1863
-pivot is: 1861
-pivot is: 1865
-pivot is: 1867
-pivot is: 1873
-pivot is: 1869
-pivot is: 1872
-pivot is: 1870
-pivot is: 1884
-pivot is: 1881
-pivot is: 1879
-pivot is: 1882
-pivot is: 1889
-pivot is: 1887
-pivot is: 1885
-pivot is: 1891
-pivot is: 1896
-pivot is: 1895
-pivot is: 1894
-pivot is: 1928
-pivot is: 1919
-pivot is: 1902
-pivot is: 1901
-pivot is: 1899
-pivot is: 1897
-pivot is: 1916
-pivot is: 1911
-pivot is: 1906
-pivot is: 1904
-pivot is: 1909
-pivot is: 1908
-pivot is: 1913
-pivot is: 1915
-pivot is: 1918
-pivot is: 1924
-pivot is: 1921
-pivot is: 1922
-pivot is: 1926
-pivot is: 1931
-pivot is: 1930
-pivot is: 1934
-pivot is: 1932
-pivot is: 1937
-pivot is: 1935
-pivot is: 1944
-pivot is: 1939
-pivot is: 1943
-pivot is: 1940
-pivot is: 1941
-pivot is: 1945
-pivot is: 1947
-pivot is: 2037
-pivot is: 2018
-pivot is: 1967
-pivot is: 1963
-pivot is: 1959
-pivot is: 1949
-pivot is: 1950
-pivot is: 1956
-pivot is: 1952
-pivot is: 1955
-pivot is: 1954
-pivot is: 1958
-pivot is: 1961
-pivot is: 1964
-pivot is: 1965
-pivot is: 1997
-pivot is: 1972
-pivot is: 1968
-pivot is: 1971
-pivot is: 1969
-pivot is: 1995
-pivot is: 1988
-pivot is: 1984
-pivot is: 1973
-pivot is: 1976
-pivot is: 1975
-pivot is: 1983
-pivot is: 1978
-pivot is: 1980
-pivot is: 1982
-pivot is: 1986
-pivot is: 1989
-pivot is: 1991
-pivot is: 1994
-pivot is: 1992
-pivot is: 2010
-pivot is: 1999
-pivot is: 2002
-pivot is: 2001
-pivot is: 2004
-pivot is: 2005
-pivot is: 2007
-pivot is: 2009
-pivot is: 2014
-pivot is: 2011
-pivot is: 2013
-pivot is: 2017
-pivot is: 2015
-pivot is: 2027
-pivot is: 2023
-pivot is: 2022
-pivot is: 2020
-pivot is: 2025
-pivot is: 2030
-pivot is: 2028
-pivot is: 2032
-pivot is: 2034
-pivot is: 2036
-pivot is: 2058
-pivot is: 2053
-pivot is: 2038
-pivot is: 2052
-pivot is: 2051
-pivot is: 2039
-pivot is: 2049
-pivot is: 2042
-pivot is: 2040
-pivot is: 2043
-pivot is: 2048
-pivot is: 2044
-pivot is: 2046
-pivot is: 2054
-pivot is: 2056
-pivot is: 2104
-pivot is: 2078
-pivot is: 2068
-pivot is: 2066
-pivot is: 2059
-pivot is: 2065
-pivot is: 2063
-pivot is: 2061
-pivot is: 2072
-pivot is: 2069
-pivot is: 2071
-pivot is: 2076
-pivot is: 2074
-pivot is: 2090
-pivot is: 2086
-pivot is: 2083
-pivot is: 2081
-pivot is: 2080
-pivot is: 2084
-pivot is: 2088
-pivot is: 2102
-pivot is: 2093
-pivot is: 2091
-pivot is: 2094
-pivot is: 2101
-pivot is: 2099
-pivot is: 2098
-pivot is: 2097
-pivot is: 2095
-pivot is: 2139
-pivot is: 2130
-pivot is: 2122
-pivot is: 2119
-pivot is: 2107
-pivot is: 2105
-pivot is: 2117
-pivot is: 2115
-pivot is: 2108
-pivot is: 2109
-pivot is: 2114
-pivot is: 2112
-pivot is: 2110
-pivot is: 2121
-pivot is: 2129
-pivot is: 2123
-pivot is: 2127
-pivot is: 2126
-pivot is: 2124
-pivot is: 2134
-pivot is: 2133
-pivot is: 2132
-pivot is: 2136
-pivot is: 2137
-pivot is: 2147
-pivot is: 2140
-pivot is: 2142
-pivot is: 2143
-pivot is: 2144
-pivot is: 2145
-pivot is: 7692
-pivot is: 5792
-pivot is: 5740
-pivot is: 2461
-pivot is: 2417
-pivot is: 2357
-pivot is: 2225
-pivot is: 2201
-pivot is: 2179
-pivot is: 2154
-pivot is: 2153
-pivot is: 2150
-pivot is: 2151
-pivot is: 2168
-pivot is: 2167
-pivot is: 2163
-pivot is: 2162
-pivot is: 2159
-pivot is: 2158
-pivot is: 2155
-pivot is: 2157
-pivot is: 2160
-pivot is: 2165
-pivot is: 2176
-pivot is: 2169
-pivot is: 2175
-pivot is: 2174
-pivot is: 2171
-pivot is: 2173
-pivot is: 2177
-pivot is: 2182
-pivot is: 2180
-pivot is: 2192
-pivot is: 2187
-pivot is: 2183
-pivot is: 2186
-pivot is: 2184
-pivot is: 2189
-pivot is: 2190
-pivot is: 2195
-pivot is: 2193
-pivot is: 2196
-pivot is: 2200
-pivot is: 2198
-pivot is: 2203
-pivot is: 2204
-pivot is: 2208
-pivot is: 2205
-pivot is: 2207
-pivot is: 2223
-pivot is: 2218
-pivot is: 2212
-pivot is: 2211
-pivot is: 2209
-pivot is: 2213
-pivot is: 2215
-pivot is: 2216
-pivot is: 2219
-pivot is: 2221
-pivot is: 2309
-pivot is: 2226
-pivot is: 2249
-pivot is: 2239
-pivot is: 2237
-pivot is: 2229
-pivot is: 2228
-pivot is: 2235
-pivot is: 2232
-pivot is: 2230
-pivot is: 2234
-pivot is: 2245
-pivot is: 2241
-pivot is: 2243
-pivot is: 2246
-pivot is: 2247
-pivot is: 2283
-pivot is: 2254
-pivot is: 2253
-pivot is: 2251
-pivot is: 2276
-pivot is: 2268
-pivot is: 2257
-pivot is: 2255
-pivot is: 2263
-pivot is: 2262
-pivot is: 2259
-pivot is: 2261
-pivot is: 2265
-pivot is: 2267
-pivot is: 2270
-pivot is: 2275
-pivot is: 2271
-pivot is: 2272
-pivot is: 2274
-pivot is: 2278
-pivot is: 2281
-pivot is: 2279
-pivot is: 2286
-pivot is: 2285
-pivot is: 2305
-pivot is: 2287
-pivot is: 2291
-pivot is: 2290
-pivot is: 2289
-pivot is: 2292
-pivot is: 2297
-pivot is: 2294
-pivot is: 2296
-pivot is: 2302
-pivot is: 2298
-pivot is: 2300
-pivot is: 2304
-pivot is: 2307
-pivot is: 2344
-pivot is: 2337
-pivot is: 2328
-pivot is: 2323
-pivot is: 2313
-pivot is: 2312
-pivot is: 2310
-pivot is: 2315
-pivot is: 2320
-pivot is: 2316
-pivot is: 2319
-pivot is: 2317
-pivot is: 2321
-pivot is: 2325
-pivot is: 2327
-pivot is: 2336
-pivot is: 2333
-pivot is: 2330
-pivot is: 2332
-pivot is: 2334
-pivot is: 2340
-pivot is: 2339
-pivot is: 2341
-pivot is: 2343
-pivot is: 2347
-pivot is: 2346
-pivot is: 2350
-pivot is: 2349
-pivot is: 2352
-pivot is: 2353
-pivot is: 2354
-pivot is: 2355
-pivot is: 2363
-pivot is: 2360
-pivot is: 2359
-pivot is: 2362
-pivot is: 2395
-pivot is: 2390
-pivot is: 2388
-pivot is: 2374
-pivot is: 2372
-pivot is: 2364
-pivot is: 2371
-pivot is: 2369
-pivot is: 2367
-pivot is: 2365
-pivot is: 2378
-pivot is: 2376
-pivot is: 2381
-pivot is: 2379
-pivot is: 2385
-pivot is: 2384
-pivot is: 2382
-pivot is: 2386
-pivot is: 2394
-pivot is: 2391
-pivot is: 2392
-pivot is: 2404
-pivot is: 2398
-pivot is: 2396
-pivot is: 2402
-pivot is: 2400
-pivot is: 2410
-pivot is: 2405
-pivot is: 2406
-pivot is: 2407
-pivot is: 2408
-pivot is: 2413
-pivot is: 2411
-pivot is: 2416
-pivot is: 2414
-pivot is: 2453
-pivot is: 2419
-pivot is: 2424
-pivot is: 2420
-pivot is: 2423
-pivot is: 2421
-pivot is: 2426
-pivot is: 2432
-pivot is: 2427
-pivot is: 2431
-pivot is: 2430
-pivot is: 2429
-pivot is: 2438
-pivot is: 2437
-pivot is: 2433
-pivot is: 2436
-pivot is: 2435
-pivot is: 2451
-pivot is: 2440
-pivot is: 2445
-pivot is: 2441
-pivot is: 2442
-pivot is: 2444
-pivot is: 2449
-pivot is: 2446
-pivot is: 2448
-pivot is: 2458
-pivot is: 2454
-pivot is: 2456
-pivot is: 2459
-pivot is: 5466
-pivot is: 3782
-pivot is: 3318
-pivot is: 3174
-pivot is: 2696
-pivot is: 2661
-pivot is: 2502
-pivot is: 2475
-pivot is: 2470
-pivot is: 2462
-pivot is: 2469
-pivot is: 2464
-pivot is: 2466
-pivot is: 2468
-pivot is: 2471
-pivot is: 2472
-pivot is: 2474
-pivot is: 2500
-pivot is: 2491
-pivot is: 2490
-pivot is: 2487
-pivot is: 2481
-pivot is: 2479
-pivot is: 2476
-pivot is: 2478
-pivot is: 2485
-pivot is: 2482
-pivot is: 2483
-pivot is: 2488
-pivot is: 2492
-pivot is: 2495
-pivot is: 2494
-pivot is: 2497
-pivot is: 2499
-pivot is: 2509
-pivot is: 2508
-pivot is: 2505
-pivot is: 2503
-pivot is: 2507
-pivot is: 2546
-pivot is: 2518
-pivot is: 2515
-pivot is: 2514
-pivot is: 2511
-pivot is: 2512
-pivot is: 2516
-pivot is: 2531
-pivot is: 2525
-pivot is: 2520
-pivot is: 2524
-pivot is: 2522
-pivot is: 2530
-pivot is: 2526
-pivot is: 2528
-pivot is: 2532
-pivot is: 2545
-pivot is: 2540
-pivot is: 2534
-pivot is: 2535
-pivot is: 2539
-pivot is: 2537
-pivot is: 2544
-pivot is: 2542
-pivot is: 2645
-pivot is: 2610
-pivot is: 2565
-pivot is: 2549
-pivot is: 2548
-pivot is: 2556
-pivot is: 2554
-pivot is: 2552
-pivot is: 2550
-pivot is: 2558
-pivot is: 2559
-pivot is: 2564
-pivot is: 2560
-pivot is: 2563
-pivot is: 2562
-pivot is: 2566
-pivot is: 2597
-pivot is: 2579
-pivot is: 2577
-pivot is: 2574
-pivot is: 2570
-pivot is: 2568
-pivot is: 2571
-pivot is: 2573
-pivot is: 2575
-pivot is: 2581
-pivot is: 2585
-pivot is: 2582
-pivot is: 2583
-pivot is: 2596
-pivot is: 2586
-pivot is: 2587
-pivot is: 2593
-pivot is: 2589
-pivot is: 2590
-pivot is: 2591
-pivot is: 2594
-pivot is: 2598
-pivot is: 2601
-pivot is: 2600
-pivot is: 2609
-pivot is: 2606
-pivot is: 2604
-pivot is: 2603
-pivot is: 2608
-pivot is: 2641
-pivot is: 2632
-pivot is: 2619
-pivot is: 2613
-pivot is: 2612
-pivot is: 2616
-pivot is: 2614
-pivot is: 2617
-pivot is: 2623
-pivot is: 2620
-pivot is: 2621
-pivot is: 2629
-pivot is: 2625
-pivot is: 2627
-pivot is: 2630
-pivot is: 2634
-pivot is: 2635
-pivot is: 2636
-pivot is: 2638
-pivot is: 2640
-pivot is: 2644
-pivot is: 2643
-pivot is: 2657
-pivot is: 2654
-pivot is: 2650
-pivot is: 2648
-pivot is: 2646
-pivot is: 2651
-pivot is: 2652
-pivot is: 2656
-pivot is: 2660
-pivot is: 2658
-pivot is: 2688
-pivot is: 2678
-pivot is: 2667
-pivot is: 2662
-pivot is: 2666
-pivot is: 2664
-pivot is: 2674
-pivot is: 2669
-pivot is: 2670
-pivot is: 2671
-pivot is: 2673
-pivot is: 2677
-pivot is: 2675
-pivot is: 2687
-pivot is: 2682
-pivot is: 2681
-pivot is: 2680
-pivot is: 2686
-pivot is: 2684
-pivot is: 2691
-pivot is: 2690
-pivot is: 2692
-pivot is: 2694
-pivot is: 2761
-pivot is: 2713
-pivot is: 2700
-pivot is: 2698
-pivot is: 2709
-pivot is: 2708
-pivot is: 2707
-pivot is: 2705
-pivot is: 2704
-pivot is: 2703
-pivot is: 2701
-pivot is: 2711
-pivot is: 2736
-pivot is: 2724
-pivot is: 2717
-pivot is: 2714
-pivot is: 2715
-pivot is: 2718
-pivot is: 2721
-pivot is: 2719
-pivot is: 2722
-pivot is: 2734
-pivot is: 2727
-pivot is: 2725
-pivot is: 2733
-pivot is: 2731
-pivot is: 2730
-pivot is: 2728
-pivot is: 2742
-pivot is: 2740
-pivot is: 2737
-pivot is: 2739
-pivot is: 2749
-pivot is: 2746
-pivot is: 2744
-pivot is: 2747
-pivot is: 2758
-pivot is: 2752
-pivot is: 2750
-pivot is: 2756
-pivot is: 2755
-pivot is: 2753
-pivot is: 2760
-pivot is: 2919
-pivot is: 2805
-pivot is: 2776
-pivot is: 2765
-pivot is: 2762
-pivot is: 2764
-pivot is: 2768
-pivot is: 2767
-pivot is: 2772
-pivot is: 2769
-pivot is: 2770
-pivot is: 2774
-pivot is: 2786
-pivot is: 2779
-pivot is: 2777
-pivot is: 2785
-pivot is: 2784
-pivot is: 2783
-pivot is: 2782
-pivot is: 2780
-pivot is: 2803
-pivot is: 2791
-pivot is: 2788
-pivot is: 2790
-pivot is: 2795
-pivot is: 2794
-pivot is: 2792
-pivot is: 2797
-pivot is: 2800
-pivot is: 2798
-pivot is: 2801
-pivot is: 2832
-pivot is: 2812
-pivot is: 2809
-pivot is: 2807
-pivot is: 2810
-pivot is: 2814
-pivot is: 2825
-pivot is: 2823
-pivot is: 2817
-pivot is: 2815
-pivot is: 2819
-pivot is: 2822
-pivot is: 2820
-pivot is: 2830
-pivot is: 2826
-pivot is: 2827
-pivot is: 2829
-pivot is: 2855
-pivot is: 2849
-pivot is: 2834
-pivot is: 2837
-pivot is: 2836
-pivot is: 2841
-pivot is: 2839
-pivot is: 2844
-pivot is: 2843
-pivot is: 2848
-pivot is: 2846
-pivot is: 2854
-pivot is: 2850
-pivot is: 2852
-pivot is: 2883
-pivot is: 2878
-pivot is: 2860
-pivot is: 2856
-pivot is: 2857
-pivot is: 2858
-pivot is: 2872
-pivot is: 2868
-pivot is: 2864
-pivot is: 2863
-pivot is: 2862
-pivot is: 2865
-pivot is: 2867
-pivot is: 2869
-pivot is: 2870
-pivot is: 2876
-pivot is: 2874
-pivot is: 2881
-pivot is: 2880
-pivot is: 2896
-pivot is: 2893
-pivot is: 2891
-pivot is: 2890
-pivot is: 2885
-pivot is: 2889
-pivot is: 2887
-pivot is: 2895
-pivot is: 2914
-pivot is: 2912
-pivot is: 2904
-pivot is: 2903
-pivot is: 2898
-pivot is: 2901
-pivot is: 2899
-pivot is: 2905
-pivot is: 2908
-pivot is: 2907
-pivot is: 2910
-pivot is: 2916
-pivot is: 2917
-pivot is: 3141
-pivot is: 3017
-pivot is: 2944
-pivot is: 2930
-pivot is: 2921
-pivot is: 2923
-pivot is: 2929
-pivot is: 2928
-pivot is: 2925
-pivot is: 2927
-pivot is: 2941
-pivot is: 2940
-pivot is: 2935
-pivot is: 2931
-pivot is: 2933
-pivot is: 2936
-pivot is: 2939
-pivot is: 2938
-pivot is: 2942
-pivot is: 2959
-pivot is: 2950
-pivot is: 2949
-pivot is: 2946
-pivot is: 2947
-pivot is: 2952
-pivot is: 2954
-pivot is: 2956
-pivot is: 2958
-pivot is: 2979
-pivot is: 2961
-pivot is: 2966
-pivot is: 2965
-pivot is: 2963
-pivot is: 2976
-pivot is: 2971
-pivot is: 2968
-pivot is: 2969
-pivot is: 2972
-pivot is: 2975
-pivot is: 2974
-pivot is: 2978
-pivot is: 3007
-pivot is: 2992
-pivot is: 2987
-pivot is: 2980
-pivot is: 2986
-pivot is: 2982
-pivot is: 2984
-pivot is: 2989
-pivot is: 2990
-pivot is: 2996
-pivot is: 2994
-pivot is: 2997
-pivot is: 3004
-pivot is: 3001
-pivot is: 2998
-pivot is: 2999
-pivot is: 3002
-pivot is: 3006
-pivot is: 3013
-pivot is: 3011
-pivot is: 3010
-pivot is: 3008
-pivot is: 3015
-pivot is: 3122
-pivot is: 3019
-pivot is: 3033
-pivot is: 3021
-pivot is: 3029
-pivot is: 3025
-pivot is: 3022
-pivot is: 3023
-pivot is: 3028
-pivot is: 3027
-pivot is: 3032
-pivot is: 3030
-pivot is: 3085
-pivot is: 3055
-pivot is: 3041
-pivot is: 3040
-pivot is: 3034
-pivot is: 3038
-pivot is: 3036
-pivot is: 3043
-pivot is: 3047
-pivot is: 3046
-pivot is: 3044
-pivot is: 3050
-pivot is: 3049
-pivot is: 3051
-pivot is: 3053
-pivot is: 3058
-pivot is: 3057
-pivot is: 3064
-pivot is: 3063
-pivot is: 3062
-pivot is: 3059
-pivot is: 3060
-pivot is: 3071
-pivot is: 3065
-pivot is: 3068
-pivot is: 3066
-pivot is: 3069
-pivot is: 3078
-pivot is: 3072
-pivot is: 3077
-pivot is: 3076
-pivot is: 3073
-pivot is: 3075
-pivot is: 3084
-pivot is: 3081
-pivot is: 3080
-pivot is: 3082
-pivot is: 3111
-pivot is: 3108
-pivot is: 3094
-pivot is: 3090
-pivot is: 3089
-pivot is: 3086
-pivot is: 3088
-pivot is: 3091
-pivot is: 3093
-pivot is: 3095
-pivot is: 3101
-pivot is: 3099
-pivot is: 3098
-pivot is: 3096
-pivot is: 3103
-pivot is: 3105
-pivot is: 3107
-pivot is: 3109
-pivot is: 3113
-pivot is: 3121
-pivot is: 3118
-pivot is: 3114
-pivot is: 3116
-pivot is: 3120
-pivot is: 3127
-pivot is: 3125
-pivot is: 3123
-pivot is: 3129
-pivot is: 3138
-pivot is: 3132
-pivot is: 3131
-pivot is: 3137
-pivot is: 3136
-pivot is: 3133
-pivot is: 3135
-pivot is: 3139
-pivot is: 3162
-pivot is: 3158
-pivot is: 3157
-pivot is: 3153
-pivot is: 3143
-pivot is: 3146
-pivot is: 3145
-pivot is: 3147
-pivot is: 3150
-pivot is: 3148
-pivot is: 3152
-pivot is: 3155
-pivot is: 3159
-pivot is: 3160
-pivot is: 3168
-pivot is: 3163
-pivot is: 3166
-pivot is: 3164
-pivot is: 3171
-pivot is: 3169
-pivot is: 3173
-pivot is: 3242
-pivot is: 3209
-pivot is: 3207
-pivot is: 3179
-pivot is: 3177
-pivot is: 3176
-pivot is: 3194
-pivot is: 3190
-pivot is: 3183
-pivot is: 3182
-pivot is: 3181
-pivot is: 3188
-pivot is: 3184
-pivot is: 3186
-pivot is: 3191
-pivot is: 3192
-pivot is: 3206
-pivot is: 3196
-pivot is: 3198
-pivot is: 3205
-pivot is: 3204
-pivot is: 3199
-pivot is: 3203
-pivot is: 3202
-pivot is: 3201
-pivot is: 3215
-pivot is: 3214
-pivot is: 3212
-pivot is: 3211
-pivot is: 3216
-pivot is: 3234
-pivot is: 3228
-pivot is: 3223
-pivot is: 3220
-pivot is: 3218
-pivot is: 3221
-pivot is: 3224
-pivot is: 3226
-pivot is: 3229
-pivot is: 3230
-pivot is: 3231
-pivot is: 3233
-pivot is: 3240
-pivot is: 3237
-pivot is: 3235
-pivot is: 3239
-pivot is: 3282
-pivot is: 3275
-pivot is: 3263
-pivot is: 3248
-pivot is: 3246
-pivot is: 3243
-pivot is: 3244
-pivot is: 3258
-pivot is: 3254
-pivot is: 3249
-pivot is: 3251
-pivot is: 3253
-pivot is: 3255
-pivot is: 3256
-pivot is: 3260
-pivot is: 3261
-pivot is: 3268
-pivot is: 3267
-pivot is: 3264
-pivot is: 3265
-pivot is: 3274
-pivot is: 3271
-pivot is: 3269
-pivot is: 3272
-pivot is: 3281
-pivot is: 3278
-pivot is: 3276
-pivot is: 3280
-pivot is: 3304
-pivot is: 3286
-pivot is: 3283
-pivot is: 3284
-pivot is: 3291
-pivot is: 3287
-pivot is: 3289
-pivot is: 3293
-pivot is: 3296
-pivot is: 3295
-pivot is: 3300
-pivot is: 3297
-pivot is: 3298
-pivot is: 3302
-pivot is: 3311
-pivot is: 3309
-pivot is: 3308
-pivot is: 3305
-pivot is: 3307
-pivot is: 3315
-pivot is: 3312
-pivot is: 3314
-pivot is: 3317
-pivot is: 3400
-pivot is: 3322
-pivot is: 3320
-pivot is: 3363
-pivot is: 3342
-pivot is: 3325
-pivot is: 3324
-pivot is: 3333
-pivot is: 3328
-pivot is: 3327
-pivot is: 3332
-pivot is: 3331
-pivot is: 3329
-pivot is: 3337
-pivot is: 3336
-pivot is: 3334
-pivot is: 3341
-pivot is: 3339
-pivot is: 3347
-pivot is: 3343
-pivot is: 3345
-pivot is: 3353
-pivot is: 3350
-pivot is: 3348
-pivot is: 3352
-pivot is: 3359
-pivot is: 3354
-pivot is: 3355
-pivot is: 3358
-pivot is: 3356
-pivot is: 3361
-pivot is: 3399
-pivot is: 3384
-pivot is: 3379
-pivot is: 3365
-pivot is: 3367
-pivot is: 3372
-pivot is: 3370
-pivot is: 3369
-pivot is: 3378
-pivot is: 3377
-pivot is: 3376
-pivot is: 3374
-pivot is: 3382
-pivot is: 3381
-pivot is: 3391
-pivot is: 3387
-pivot is: 3385
-pivot is: 3388
-pivot is: 3390
-pivot is: 3395
-pivot is: 3393
-pivot is: 3398
-pivot is: 3397
-pivot is: 3490
-pivot is: 3462
-pivot is: 3409
-pivot is: 3407
-pivot is: 3404
-pivot is: 3402
-pivot is: 3406
-pivot is: 3446
-pivot is: 3420
-pivot is: 3417
-pivot is: 3415
-pivot is: 3413
-pivot is: 3411
-pivot is: 3419
-pivot is: 3426
-pivot is: 3423
-pivot is: 3422
-pivot is: 3425
-pivot is: 3444
-pivot is: 3438
-pivot is: 3435
-pivot is: 3433
-pivot is: 3427
-pivot is: 3432
-pivot is: 3430
-pivot is: 3429
-pivot is: 3436
-pivot is: 3439
-pivot is: 3441
-pivot is: 3442
-pivot is: 3450
-pivot is: 3448
-pivot is: 3461
-pivot is: 3451
-pivot is: 3457
-pivot is: 3455
-pivot is: 3452
-pivot is: 3454
-pivot is: 3460
-pivot is: 3459
-pivot is: 3484
-pivot is: 3477
-pivot is: 3474
-pivot is: 3468
-pivot is: 3466
-pivot is: 3465
-pivot is: 3464
-pivot is: 3472
-pivot is: 3469
-pivot is: 3471
-pivot is: 3476
-pivot is: 3478
-pivot is: 3481
-pivot is: 3479
-pivot is: 3482
-pivot is: 3485
-pivot is: 3488
-pivot is: 3487
-pivot is: 3667
-pivot is: 3513
-pivot is: 3498
-pivot is: 3495
-pivot is: 3491
-pivot is: 3494
-pivot is: 3493
-pivot is: 3497
-pivot is: 3502
-pivot is: 3499
-pivot is: 3500
-pivot is: 3510
-pivot is: 3507
-pivot is: 3504
-pivot is: 3506
-pivot is: 3509
-pivot is: 3512
-pivot is: 3566
-pivot is: 3564
-pivot is: 3517
-pivot is: 3515
-pivot is: 3560
-pivot is: 3531
-pivot is: 3518
-pivot is: 3530
-pivot is: 3522
-pivot is: 3520
-pivot is: 3527
-pivot is: 3523
-pivot is: 3526
-pivot is: 3524
-pivot is: 3529
-pivot is: 3547
-pivot is: 3534
-pivot is: 3533
-pivot is: 3543
-pivot is: 3541
-pivot is: 3536
-pivot is: 3538
-pivot is: 3539
-pivot is: 3544
-pivot is: 3545
-pivot is: 3549
-pivot is: 3557
-pivot is: 3552
-pivot is: 3551
-pivot is: 3554
-pivot is: 3556
-pivot is: 3558
-pivot is: 3562
-pivot is: 3617
-pivot is: 3590
-pivot is: 3586
-pivot is: 3569
-pivot is: 3568
-pivot is: 3581
-pivot is: 3574
-pivot is: 3571
-pivot is: 3572
-pivot is: 3577
-pivot is: 3575
-pivot is: 3579
-pivot is: 3584
-pivot is: 3583
-pivot is: 3588
-pivot is: 3603
-pivot is: 3601
-pivot is: 3596
-pivot is: 3592
-pivot is: 3595
-pivot is: 3593
-pivot is: 3599
-pivot is: 3597
-pivot is: 3614
-pivot is: 3612
-pivot is: 3609
-pivot is: 3607
-pivot is: 3605
-pivot is: 3611
-pivot is: 3616
-pivot is: 3636
-pivot is: 3629
-pivot is: 3624
-pivot is: 3622
-pivot is: 3619
-pivot is: 3620
-pivot is: 3627
-pivot is: 3626
-pivot is: 3630
-pivot is: 3631
-pivot is: 3634
-pivot is: 3633
-pivot is: 3639
-pivot is: 3637
-pivot is: 3649
-pivot is: 3648
-pivot is: 3641
-pivot is: 3644
-pivot is: 3643
-pivot is: 3647
-pivot is: 3646
-pivot is: 3658
-pivot is: 3653
-pivot is: 3650
-pivot is: 3652
-pivot is: 3657
-pivot is: 3656
-pivot is: 3654
-pivot is: 3663
-pivot is: 3660
-pivot is: 3662
-pivot is: 3664
-pivot is: 3665
-pivot is: 3710
-pivot is: 3687
-pivot is: 3672
-pivot is: 3671
-pivot is: 3669
-pivot is: 3686
-pivot is: 3673
-pivot is: 3678
-pivot is: 3677
-pivot is: 3675
-pivot is: 3682
-pivot is: 3679
-pivot is: 3680
-pivot is: 3685
-pivot is: 3683
-pivot is: 3690
-pivot is: 3688
-pivot is: 3705
-pivot is: 3696
-pivot is: 3694
-pivot is: 3691
-pivot is: 3692
-pivot is: 3703
-pivot is: 3700
-pivot is: 3697
-pivot is: 3698
-pivot is: 3701
-pivot is: 3709
-pivot is: 3706
-pivot is: 3707
-pivot is: 3748
-pivot is: 3732
-pivot is: 3715
-pivot is: 3713
-pivot is: 3711
-pivot is: 3720
-pivot is: 3716
-pivot is: 3718
-pivot is: 3730
-pivot is: 3721
-pivot is: 3726
-pivot is: 3725
-pivot is: 3722
-pivot is: 3724
-pivot is: 3727
-pivot is: 3729
-pivot is: 3737
-pivot is: 3736
-pivot is: 3733
-pivot is: 3735
-pivot is: 3746
-pivot is: 3745
-pivot is: 3744
-pivot is: 3738
-pivot is: 3741
-pivot is: 3739
-pivot is: 3743
-pivot is: 3753
-pivot is: 3751
-pivot is: 3749
-pivot is: 3754
-pivot is: 3758
-pivot is: 3755
-pivot is: 3756
-pivot is: 3779
-pivot is: 3761
-pivot is: 3760
-pivot is: 3771
-pivot is: 3768
-pivot is: 3766
-pivot is: 3762
-pivot is: 3763
-pivot is: 3764
-pivot is: 3770
-pivot is: 3774
-pivot is: 3772
-pivot is: 3775
-pivot is: 3778
-pivot is: 3777
-pivot is: 3780
-pivot is: 3911
-pivot is: 3878
-pivot is: 3787
-pivot is: 3784
-pivot is: 3785
-pivot is: 3812
-pivot is: 3789
-pivot is: 3810
-pivot is: 3801
-pivot is: 3798
-pivot is: 3792
-pivot is: 3791
-pivot is: 3796
-pivot is: 3795
-pivot is: 3793
-pivot is: 3800
-pivot is: 3809
-pivot is: 3806
-pivot is: 3802
-pivot is: 3804
-pivot is: 3808
-pivot is: 3820
-pivot is: 3817
-pivot is: 3816
-pivot is: 3814
-pivot is: 3819
-pivot is: 3840
-pivot is: 3828
-pivot is: 3822
-pivot is: 3827
-pivot is: 3825
-pivot is: 3823
-pivot is: 3829
-pivot is: 3831
-pivot is: 3834
-pivot is: 3832
-pivot is: 3836
-pivot is: 3839
-pivot is: 3837
-pivot is: 3854
-pivot is: 3849
-pivot is: 3847
-pivot is: 3844
-pivot is: 3843
-pivot is: 3842
-pivot is: 3845
-pivot is: 3850
-pivot is: 3853
-pivot is: 3851
-pivot is: 3859
-pivot is: 3855
-pivot is: 3857
-pivot is: 3867
-pivot is: 3866
-pivot is: 3864
-pivot is: 3861
-pivot is: 3862
-pivot is: 3871
-pivot is: 3868
-pivot is: 3869
-pivot is: 3872
-pivot is: 3877
-pivot is: 3875
-pivot is: 3873
-pivot is: 3908
-pivot is: 3890
-pivot is: 3882
-pivot is: 3880
-pivot is: 3887
-pivot is: 3886
-pivot is: 3883
-pivot is: 3885
-pivot is: 3888
-pivot is: 3900
-pivot is: 3894
-pivot is: 3892
-pivot is: 3897
-pivot is: 3895
-pivot is: 3899
-pivot is: 3904
-pivot is: 3901
-pivot is: 3902
-pivot is: 3905
-pivot is: 3907
-pivot is: 3910
-pivot is: 4934
-pivot is: 4616
-pivot is: 4578
-pivot is: 3915
-pivot is: 3912
-pivot is: 3913
-pivot is: 4368
-pivot is: 4244
-pivot is: 4147
-pivot is: 3993
-pivot is: 3948
-pivot is: 3921
-pivot is: 3919
-pivot is: 3918
-pivot is: 3916
-pivot is: 3944
-pivot is: 3936
-pivot is: 3926
-pivot is: 3922
-pivot is: 3925
-pivot is: 3923
-pivot is: 3930
-pivot is: 3929
-pivot is: 3927
-pivot is: 3932
-pivot is: 3933
-pivot is: 3935
-pivot is: 3941
-pivot is: 3940
-pivot is: 3939
-pivot is: 3938
-pivot is: 3943
-pivot is: 3946
-pivot is: 3950
-pivot is: 3981
-pivot is: 3958
-pivot is: 3955
-pivot is: 3953
-pivot is: 3951
-pivot is: 3957
-pivot is: 3963
-pivot is: 3959
-pivot is: 3961
-pivot is: 3976
-pivot is: 3971
-pivot is: 3967
-pivot is: 3964
-pivot is: 3965
-pivot is: 3969
-pivot is: 3975
-pivot is: 3973
-pivot is: 3979
-pivot is: 3977
-pivot is: 3983
-pivot is: 3991
-pivot is: 3986
-pivot is: 3984
-pivot is: 3989
-pivot is: 3987
-pivot is: 4011
-pivot is: 3999
-pivot is: 3996
-pivot is: 3994
-pivot is: 3998
-pivot is: 4001
-pivot is: 4007
-pivot is: 4002
-pivot is: 4005
-pivot is: 4003
-pivot is: 4010
-pivot is: 4009
-pivot is: 4019
-pivot is: 4012
-pivot is: 4015
-pivot is: 4013
-pivot is: 4016
-pivot is: 4017
-pivot is: 4113
-pivot is: 4034
-pivot is: 4020
-pivot is: 4030
-pivot is: 4028
-pivot is: 4027
-pivot is: 4025
-pivot is: 4021
-pivot is: 4023
-pivot is: 4031
-pivot is: 4032
-pivot is: 4055
-pivot is: 4040
-pivot is: 4035
-pivot is: 4038
-pivot is: 4037
-pivot is: 4050
-pivot is: 4047
-pivot is: 4042
-pivot is: 4045
-pivot is: 4044
-pivot is: 4048
-pivot is: 4051
-pivot is: 4052
-pivot is: 4053
-pivot is: 4086
-pivot is: 4080
-pivot is: 4065
-pivot is: 4063
-pivot is: 4059
-pivot is: 4058
-pivot is: 4057
-pivot is: 4061
-pivot is: 4078
-pivot is: 4071
-pivot is: 4070
-pivot is: 4066
-pivot is: 4069
-pivot is: 4067
-pivot is: 4076
-pivot is: 4075
-pivot is: 4073
-pivot is: 4083
-pivot is: 4081
-pivot is: 4084
-pivot is: 4098
-pivot is: 4097
-pivot is: 4087
-pivot is: 4096
-pivot is: 4090
-pivot is: 4088
-pivot is: 4092
-pivot is: 4095
-pivot is: 4094
-pivot is: 4100
-pivot is: 4101
-pivot is: 4108
-pivot is: 4103
-pivot is: 4105
-pivot is: 4106
-pivot is: 4111
-pivot is: 4110
-pivot is: 4125
-pivot is: 4122
-pivot is: 4114
-pivot is: 4117
-pivot is: 4116
-pivot is: 4118
-pivot is: 4120
-pivot is: 4123
-pivot is: 4145
-pivot is: 4135
-pivot is: 4127
-pivot is: 4130
-pivot is: 4128
-pivot is: 4134
-pivot is: 4131
-pivot is: 4132
-pivot is: 4143
-pivot is: 4138
-pivot is: 4137
-pivot is: 4141
-pivot is: 4139
-pivot is: 4149
-pivot is: 4158
-pivot is: 4153
-pivot is: 4152
-pivot is: 4151
-pivot is: 4157
-pivot is: 4155
-pivot is: 4194
-pivot is: 4165
-pivot is: 4160
-pivot is: 4164
-pivot is: 4162
-pivot is: 4178
-pivot is: 4171
-pivot is: 4170
-pivot is: 4166
-pivot is: 4167
-pivot is: 4168
-pivot is: 4176
-pivot is: 4172
-pivot is: 4175
-pivot is: 4174
-pivot is: 4187
-pivot is: 4183
-pivot is: 4182
-pivot is: 4181
-pivot is: 4180
-pivot is: 4185
-pivot is: 4188
-pivot is: 4192
-pivot is: 4191
-pivot is: 4190
-pivot is: 4196
-pivot is: 4217
-pivot is: 4208
-pivot is: 4201
-pivot is: 4200
-pivot is: 4198
-pivot is: 4207
-pivot is: 4206
-pivot is: 4203
-pivot is: 4205
-pivot is: 4212
-pivot is: 4211
-pivot is: 4209
-pivot is: 4213
-pivot is: 4214
-pivot is: 4216
-pivot is: 4218
-pivot is: 4237
-pivot is: 4235
-pivot is: 4234
-pivot is: 4220
-pivot is: 4231
-pivot is: 4226
-pivot is: 4224
-pivot is: 4222
-pivot is: 4230
-pivot is: 4229
-pivot is: 4227
-pivot is: 4233
-pivot is: 4243
-pivot is: 4238
-pivot is: 4241
-pivot is: 4239
-pivot is: 4352
-pivot is: 4286
-pivot is: 4248
-pivot is: 4246
-pivot is: 4279
-pivot is: 4253
-pivot is: 4252
-pivot is: 4249
-pivot is: 4250
-pivot is: 4273
-pivot is: 4261
-pivot is: 4257
-pivot is: 4254
-pivot is: 4255
-pivot is: 4258
-pivot is: 4259
-pivot is: 4268
-pivot is: 4262
-pivot is: 4264
-pivot is: 4266
-pivot is: 4271
-pivot is: 4269
-pivot is: 4275
-pivot is: 4278
-pivot is: 4277
-pivot is: 4284
-pivot is: 4282
-pivot is: 4281
-pivot is: 4293
-pivot is: 4290
-pivot is: 4289
-pivot is: 4288
-pivot is: 4292
-pivot is: 4303
-pivot is: 4300
-pivot is: 4295
-pivot is: 4296
-pivot is: 4298
-pivot is: 4302
-pivot is: 4307
-pivot is: 4305
-pivot is: 4347
-pivot is: 4324
-pivot is: 4321
-pivot is: 4316
-pivot is: 4314
-pivot is: 4311
-pivot is: 4309
-pivot is: 4313
-pivot is: 4319
-pivot is: 4318
-pivot is: 4323
-pivot is: 4334
-pivot is: 4326
-pivot is: 4330
-pivot is: 4329
-pivot is: 4327
-pivot is: 4332
-pivot is: 4343
-pivot is: 4340
-pivot is: 4335
-pivot is: 4339
-pivot is: 4337
-pivot is: 4341
-pivot is: 4344
-pivot is: 4346
-pivot is: 4350
-pivot is: 4348
-pivot is: 4353
-pivot is: 4362
-pivot is: 4360
-pivot is: 4359
-pivot is: 4354
-pivot is: 4355
-pivot is: 4356
-pivot is: 4358
-pivot is: 4365
-pivot is: 4364
-pivot is: 4367
-pivot is: 4472
-pivot is: 4461
-pivot is: 4395
-pivot is: 4384
-pivot is: 4373
-pivot is: 4372
-pivot is: 4369
-pivot is: 4370
-pivot is: 4376
-pivot is: 4374
-pivot is: 4377
-pivot is: 4380
-pivot is: 4379
-pivot is: 4382
-pivot is: 4390
-pivot is: 4389
-pivot is: 4385
-pivot is: 4387
-pivot is: 4393
-pivot is: 4391
-pivot is: 4450
-pivot is: 4407
-pivot is: 4401
-pivot is: 4396
-pivot is: 4397
-pivot is: 4398
-pivot is: 4399
-pivot is: 4402
-pivot is: 4404
-pivot is: 4406
-pivot is: 4432
-pivot is: 4417
-pivot is: 4409
-pivot is: 4413
-pivot is: 4412
-pivot is: 4410
-pivot is: 4414
-pivot is: 4415
-pivot is: 4430
-pivot is: 4427
-pivot is: 4420
-pivot is: 4419
-pivot is: 4425
-pivot is: 4424
-pivot is: 4421
-pivot is: 4422
-pivot is: 4428
-pivot is: 4438
-pivot is: 4433
-pivot is: 4434
-pivot is: 4436
-pivot is: 4449
-pivot is: 4443
-pivot is: 4442
-pivot is: 4439
-pivot is: 4440
-pivot is: 4445
-pivot is: 4446
-pivot is: 4448
-pivot is: 4452
-pivot is: 4453
-pivot is: 4460
-pivot is: 4455
-pivot is: 4456
-pivot is: 4458
-pivot is: 4468
-pivot is: 4467
-pivot is: 4465
-pivot is: 4464
-pivot is: 4462
-pivot is: 4470
-pivot is: 4515
-pivot is: 4493
-pivot is: 4473
-pivot is: 4485
-pivot is: 4483
-pivot is: 4480
-pivot is: 4478
-pivot is: 4474
-pivot is: 4477
-pivot is: 4476
-pivot is: 4482
-pivot is: 4488
-pivot is: 4486
-pivot is: 4490
-pivot is: 4491
-pivot is: 4505
-pivot is: 4496
-pivot is: 4495
-pivot is: 4502
-pivot is: 4501
-pivot is: 4500
-pivot is: 4497
-pivot is: 4499
-pivot is: 4503
-pivot is: 4510
-pivot is: 4506
-pivot is: 4507
-pivot is: 4508
-pivot is: 4511
-pivot is: 4514
-pivot is: 4512
-pivot is: 4523
-pivot is: 4518
-pivot is: 4517
-pivot is: 4520
-pivot is: 4521
-pivot is: 4533
-pivot is: 4524
-pivot is: 4529
-pivot is: 4526
-pivot is: 4528
-pivot is: 4531
-pivot is: 4556
-pivot is: 4551
-pivot is: 4538
-pivot is: 4534
-pivot is: 4536
-pivot is: 4549
-pivot is: 4540
-pivot is: 4544
-pivot is: 4543
-pivot is: 4541
-pivot is: 4547
-pivot is: 4546
-pivot is: 4555
-pivot is: 4553
-pivot is: 4568
-pivot is: 4565
-pivot is: 4558
-pivot is: 4562
-pivot is: 4561
-pivot is: 4560
-pivot is: 4563
-pivot is: 4566
-pivot is: 4573
-pivot is: 4570
-pivot is: 4572
-pivot is: 4577
-pivot is: 4576
-pivot is: 4575
-pivot is: 4590
-pivot is: 4587
-pivot is: 4582
-pivot is: 4580
-pivot is: 4583
-pivot is: 4586
-pivot is: 4584
-pivot is: 4589
-pivot is: 4598
-pivot is: 4594
-pivot is: 4592
-pivot is: 4595
-pivot is: 4596
-pivot is: 4602
-pivot is: 4599
-pivot is: 4600
-pivot is: 4603
-pivot is: 4609
-pivot is: 4605
-pivot is: 4608
-pivot is: 4607
-pivot is: 4615
-pivot is: 4613
-pivot is: 4611
-pivot is: 4771
-pivot is: 4676
-pivot is: 4653
-pivot is: 4641
-pivot is: 4618
-pivot is: 4638
-pivot is: 4622
-pivot is: 4619
-pivot is: 4621
-pivot is: 4637
-pivot is: 4623
-pivot is: 4629
-pivot is: 4628
-pivot is: 4624
-pivot is: 4626
-pivot is: 4632
-pivot is: 4630
-pivot is: 4636
-pivot is: 4634
-pivot is: 4639
-pivot is: 4648
-pivot is: 4645
-pivot is: 4644
-pivot is: 4643
-pivot is: 4647
-pivot is: 4650
-pivot is: 4651
-pivot is: 4655
-pivot is: 4667
-pivot is: 4664
-pivot is: 4657
-pivot is: 4663
-pivot is: 4658
-pivot is: 4661
-pivot is: 4659
-pivot is: 4665
-pivot is: 4672
-pivot is: 4669
-pivot is: 4671
-pivot is: 4675
-pivot is: 4674
-pivot is: 4725
-pivot is: 4713
-pivot is: 4694
-pivot is: 4686
-pivot is: 4680
-pivot is: 4678
-pivot is: 4682
-pivot is: 4684
-pivot is: 4693
-pivot is: 4692
-pivot is: 4690
-pivot is: 4687
-pivot is: 4688
-pivot is: 4711
-pivot is: 4708
-pivot is: 4695
-pivot is: 4701
-pivot is: 4698
-pivot is: 4697
-pivot is: 4699
-pivot is: 4707
-pivot is: 4705
-pivot is: 4702
-pivot is: 4703
-pivot is: 4710
-pivot is: 4719
-pivot is: 4717
-pivot is: 4714
-pivot is: 4715
-pivot is: 4723
-pivot is: 4720
-pivot is: 4721
-pivot is: 4752
-pivot is: 4746
-pivot is: 4734
-pivot is: 4732
-pivot is: 4726
-pivot is: 4729
-pivot is: 4728
-pivot is: 4730
-pivot is: 4740
-pivot is: 4735
-pivot is: 4736
-pivot is: 4739
-pivot is: 4737
-pivot is: 4745
-pivot is: 4743
-pivot is: 4741
-pivot is: 4750
-pivot is: 4747
-pivot is: 4749
-pivot is: 4765
-pivot is: 4764
-pivot is: 4756
-pivot is: 4755
-pivot is: 4754
-pivot is: 4758
-pivot is: 4762
-pivot is: 4760
-pivot is: 4766
-pivot is: 4769
-pivot is: 4767
-pivot is: 4890
-pivot is: 4882
-pivot is: 4858
-pivot is: 4799
-pivot is: 4773
-pivot is: 4782
-pivot is: 4776
-pivot is: 4774
-pivot is: 4780
-pivot is: 4779
-pivot is: 4778
-pivot is: 4784
-pivot is: 4787
-pivot is: 4786
-pivot is: 4792
-pivot is: 4789
-pivot is: 4791
-pivot is: 4796
-pivot is: 4795
-pivot is: 4794
-pivot is: 4798
-pivot is: 4811
-pivot is: 4809
-pivot is: 4804
-pivot is: 4803
-pivot is: 4802
-pivot is: 4800
-pivot is: 4807
-pivot is: 4806
-pivot is: 4818
-pivot is: 4814
-pivot is: 4813
-pivot is: 4816
-pivot is: 4841
-pivot is: 4825
-pivot is: 4822
-pivot is: 4820
-pivot is: 4823
-pivot is: 4830
-pivot is: 4827
-pivot is: 4828
-pivot is: 4831
-pivot is: 4832
-pivot is: 4837
-pivot is: 4834
-pivot is: 4835
-pivot is: 4840
-pivot is: 4839
-pivot is: 4852
-pivot is: 4846
-pivot is: 4844
-pivot is: 4842
-pivot is: 4850
-pivot is: 4847
-pivot is: 4848
-pivot is: 4855
-pivot is: 4854
-pivot is: 4857
-pivot is: 4873
-pivot is: 4870
-pivot is: 4861
-pivot is: 4859
-pivot is: 4866
-pivot is: 4865
-pivot is: 4862
-pivot is: 4864
-pivot is: 4868
-pivot is: 4871
-pivot is: 4881
-pivot is: 4880
-pivot is: 4878
-pivot is: 4875
-pivot is: 4876
-pivot is: 4886
-pivot is: 4885
-pivot is: 4884
-pivot is: 4889
-pivot is: 4888
-pivot is: 4915
-pivot is: 4899
-pivot is: 4893
-pivot is: 4892
-pivot is: 4896
-pivot is: 4895
-pivot is: 4898
-pivot is: 4905
-pivot is: 4904
-pivot is: 4901
-pivot is: 4902
-pivot is: 4914
-pivot is: 4912
-pivot is: 4909
-pivot is: 4907
-pivot is: 4911
-pivot is: 4921
-pivot is: 4916
-pivot is: 4919
-pivot is: 4918
-pivot is: 4933
-pivot is: 4923
-pivot is: 4925
-pivot is: 4927
-pivot is: 4931
-pivot is: 4928
-pivot is: 4930
-pivot is: 5269
-pivot is: 5214
-pivot is: 5055
-pivot is: 4986
-pivot is: 4955
-pivot is: 4944
-pivot is: 4942
-pivot is: 4940
-pivot is: 4938
-pivot is: 4935
-pivot is: 4937
-pivot is: 4950
-pivot is: 4945
-pivot is: 4946
-pivot is: 4947
-pivot is: 4949
-pivot is: 4952
-pivot is: 4954
-pivot is: 4984
-pivot is: 4966
-pivot is: 4956
-pivot is: 4961
-pivot is: 4957
-pivot is: 4958
-pivot is: 4960
-pivot is: 4963
-pivot is: 4964
-pivot is: 4973
-pivot is: 4969
-pivot is: 4967
-pivot is: 4970
-pivot is: 4971
-pivot is: 4978
-pivot is: 4975
-pivot is: 4977
-pivot is: 4979
-pivot is: 4983
-pivot is: 4980
-pivot is: 4982
-pivot is: 5026
-pivot is: 5009
-pivot is: 4997
-pivot is: 4996
-pivot is: 4993
-pivot is: 4988
-pivot is: 4991
-pivot is: 4989
-pivot is: 4995
-pivot is: 4998
-pivot is: 5008
-pivot is: 5005
-pivot is: 5002
-pivot is: 5000
-pivot is: 5003
-pivot is: 5007
-pivot is: 5023
-pivot is: 5012
-pivot is: 5011
-pivot is: 5014
-pivot is: 5016
-pivot is: 5022
-pivot is: 5018
-pivot is: 5021
-pivot is: 5020
-pivot is: 5025
-pivot is: 5046
-pivot is: 5037
-pivot is: 5034
-pivot is: 5031
-pivot is: 5029
-pivot is: 5027
-pivot is: 5032
-pivot is: 5036
-pivot is: 5039
-pivot is: 5043
-pivot is: 5042
-pivot is: 5040
-pivot is: 5044
-pivot is: 5054
-pivot is: 5047
-pivot is: 5051
-pivot is: 5048
-pivot is: 5049
-pivot is: 5052
-pivot is: 5112
-pivot is: 5085
-pivot is: 5064
-pivot is: 5056
-pivot is: 5059
-pivot is: 5057
-pivot is: 5062
-pivot is: 5060
-pivot is: 5068
-pivot is: 5067
-pivot is: 5065
-pivot is: 5074
-pivot is: 5073
-pivot is: 5072
-pivot is: 5069
-pivot is: 5070
-pivot is: 5082
-pivot is: 5080
-pivot is: 5079
-pivot is: 5075
-pivot is: 5077
-pivot is: 5084
-pivot is: 5099
-pivot is: 5087
-pivot is: 5094
-pivot is: 5090
-pivot is: 5088
-pivot is: 5093
-pivot is: 5091
-pivot is: 5096
-pivot is: 5097
-pivot is: 5108
-pivot is: 5101
-pivot is: 5106
-pivot is: 5103
-pivot is: 5105
-pivot is: 5110
-pivot is: 5183
-pivot is: 5152
-pivot is: 5131
-pivot is: 5118
-pivot is: 5114
-pivot is: 5115
-pivot is: 5117
-pivot is: 5119
-pivot is: 5125
-pivot is: 5120
-pivot is: 5123
-pivot is: 5121
-pivot is: 5129
-pivot is: 5127
-pivot is: 5133
-pivot is: 5141
-pivot is: 5137
-pivot is: 5136
-pivot is: 5135
-pivot is: 5138
-pivot is: 5139
-pivot is: 5144
-pivot is: 5142
-pivot is: 5147
-pivot is: 5146
-pivot is: 5150
-pivot is: 5149
-pivot is: 5179
-pivot is: 5157
-pivot is: 5153
-pivot is: 5154
-pivot is: 5155
-pivot is: 5161
-pivot is: 5159
-pivot is: 5165
-pivot is: 5162
-pivot is: 5164
-pivot is: 5175
-pivot is: 5172
-pivot is: 5170
-pivot is: 5169
-pivot is: 5168
-pivot is: 5167
-pivot is: 5173
-pivot is: 5178
-pivot is: 5177
-pivot is: 5180
-pivot is: 5182
-pivot is: 5195
-pivot is: 5184
-pivot is: 5190
-pivot is: 5185
-pivot is: 5186
-pivot is: 5187
-pivot is: 5189
-pivot is: 5193
-pivot is: 5191
-pivot is: 5201
-pivot is: 5196
-pivot is: 5197
-pivot is: 5199
-pivot is: 5212
-pivot is: 5204
-pivot is: 5203
-pivot is: 5209
-pivot is: 5208
-pivot is: 5206
-pivot is: 5211
-pivot is: 5248
-pivot is: 5226
-pivot is: 5223
-pivot is: 5215
-pivot is: 5221
-pivot is: 5220
-pivot is: 5219
-pivot is: 5218
-pivot is: 5217
-pivot is: 5225
-pivot is: 5237
-pivot is: 5231
-pivot is: 5228
-pivot is: 5230
-pivot is: 5235
-pivot is: 5232
-pivot is: 5233
-pivot is: 5243
-pivot is: 5242
-pivot is: 5239
-pivot is: 5240
-pivot is: 5245
-pivot is: 5246
-pivot is: 5250
-pivot is: 5265
-pivot is: 5257
-pivot is: 5252
-pivot is: 5254
-pivot is: 5255
-pivot is: 5262
-pivot is: 5259
-pivot is: 5260
-pivot is: 5264
-pivot is: 5266
-pivot is: 5268
-pivot is: 5464
-pivot is: 5389
-pivot is: 5282
-pivot is: 5272
-pivot is: 5270
-pivot is: 5273
-pivot is: 5274
-pivot is: 5281
-pivot is: 5279
-pivot is: 5276
-pivot is: 5278
-pivot is: 5368
-pivot is: 5284
-pivot is: 5355
-pivot is: 5328
-pivot is: 5318
-pivot is: 5313
-pivot is: 5300
-pivot is: 5288
-pivot is: 5286
-pivot is: 5289
-pivot is: 5294
-pivot is: 5290
-pivot is: 5291
-pivot is: 5293
-pivot is: 5299
-pivot is: 5295
-pivot is: 5298
-pivot is: 5296
-pivot is: 5307
-pivot is: 5302
-pivot is: 5306
-pivot is: 5303
-pivot is: 5304
-pivot is: 5310
-pivot is: 5308
-pivot is: 5311
-pivot is: 5315
-pivot is: 5316
-pivot is: 5319
-pivot is: 5327
-pivot is: 5323
-pivot is: 5322
-pivot is: 5321
-pivot is: 5326
-pivot is: 5325
-pivot is: 5351
-pivot is: 5338
-pivot is: 5337
-pivot is: 5334
-pivot is: 5330
-pivot is: 5331
-pivot is: 5332
-pivot is: 5335
-pivot is: 5349
-pivot is: 5341
-pivot is: 5339
-pivot is: 5346
-pivot is: 5343
-pivot is: 5344
-pivot is: 5347
-pivot is: 5353
-pivot is: 5359
-pivot is: 5358
-pivot is: 5356
-pivot is: 5365
-pivot is: 5362
-pivot is: 5361
-pivot is: 5363
-pivot is: 5366
-pivot is: 5375
-pivot is: 5372
-pivot is: 5370
-pivot is: 5373
-pivot is: 5376
-pivot is: 5380
-pivot is: 5378
-pivot is: 5388
-pivot is: 5386
-pivot is: 5382
-pivot is: 5385
-pivot is: 5383
-pivot is: 5445
-pivot is: 5433
-pivot is: 5411
-pivot is: 5398
-pivot is: 5396
-pivot is: 5395
-pivot is: 5393
-pivot is: 5392
-pivot is: 5390
-pivot is: 5400
-pivot is: 5409
-pivot is: 5402
-pivot is: 5407
-pivot is: 5403
-pivot is: 5406
-pivot is: 5404
-pivot is: 5418
-pivot is: 5416
-pivot is: 5413
-pivot is: 5415
-pivot is: 5425
-pivot is: 5424
-pivot is: 5422
-pivot is: 5420
-pivot is: 5431
-pivot is: 5426
-pivot is: 5429
-pivot is: 5427
-pivot is: 5437
-pivot is: 5435
-pivot is: 5440
-pivot is: 5438
-pivot is: 5444
-pivot is: 5441
-pivot is: 5443
-pivot is: 5456
-pivot is: 5452
-pivot is: 5447
-pivot is: 5450
-pivot is: 5449
-pivot is: 5455
-pivot is: 5454
-pivot is: 5460
-pivot is: 5459
-pivot is: 5457
-pivot is: 5461
-pivot is: 5462
-pivot is: 5475
-pivot is: 5468
-pivot is: 5471
-pivot is: 5469
-pivot is: 5473
-pivot is: 5661
-pivot is: 5544
-pivot is: 5524
-pivot is: 5523
-pivot is: 5518
-pivot is: 5480
-pivot is: 5478
-pivot is: 5476
-pivot is: 5500
-pivot is: 5494
-pivot is: 5484
-pivot is: 5483
-pivot is: 5482
-pivot is: 5486
-pivot is: 5488
-pivot is: 5492
-pivot is: 5491
-pivot is: 5489
-pivot is: 5496
-pivot is: 5498
-pivot is: 5512
-pivot is: 5503
-pivot is: 5501
-pivot is: 5508
-pivot is: 5507
-pivot is: 5506
-pivot is: 5505
-pivot is: 5509
-pivot is: 5510
-pivot is: 5515
-pivot is: 5514
-pivot is: 5516
-pivot is: 5520
-pivot is: 5522
-pivot is: 5536
-pivot is: 5529
-pivot is: 5528
-pivot is: 5526
-pivot is: 5530
-pivot is: 5534
-pivot is: 5531
-pivot is: 5533
-pivot is: 5540
-pivot is: 5537
-pivot is: 5538
-pivot is: 5541
-pivot is: 5542
-pivot is: 5555
-pivot is: 5552
-pivot is: 5549
-pivot is: 5546
-pivot is: 5548
-pivot is: 5550
-pivot is: 5554
-pivot is: 5648
-pivot is: 5617
-pivot is: 5602
-pivot is: 5597
-pivot is: 5596
-pivot is: 5564
-pivot is: 5561
-pivot is: 5560
-pivot is: 5559
-pivot is: 5556
-pivot is: 5558
-pivot is: 5562
-pivot is: 5568
-pivot is: 5565
-pivot is: 5566
-pivot is: 5574
-pivot is: 5573
-pivot is: 5570
-pivot is: 5572
-pivot is: 5594
-pivot is: 5583
-pivot is: 5576
-pivot is: 5577
-pivot is: 5580
-pivot is: 5579
-pivot is: 5581
-pivot is: 5592
-pivot is: 5585
-pivot is: 5588
-pivot is: 5587
-pivot is: 5589
-pivot is: 5590
-pivot is: 5600
-pivot is: 5599
-pivot is: 5605
-pivot is: 5604
-pivot is: 5608
-pivot is: 5607
-pivot is: 5615
-pivot is: 5612
-pivot is: 5610
-pivot is: 5613
-pivot is: 5624
-pivot is: 5620
-pivot is: 5618
-pivot is: 5621
-pivot is: 5622
-pivot is: 5634
-pivot is: 5630
-pivot is: 5627
-pivot is: 5625
-pivot is: 5628
-pivot is: 5631
-pivot is: 5633
-pivot is: 5644
-pivot is: 5643
-pivot is: 5639
-pivot is: 5637
-pivot is: 5635
-pivot is: 5640
-pivot is: 5642
-pivot is: 5647
-pivot is: 5645
-pivot is: 5657
-pivot is: 5654
-pivot is: 5650
-pivot is: 5651
-pivot is: 5653
-pivot is: 5655
-pivot is: 5658
-pivot is: 5659
-pivot is: 5717
-pivot is: 5700
-pivot is: 5689
-pivot is: 5662
-pivot is: 5680
-pivot is: 5670
-pivot is: 5664
-pivot is: 5666
-pivot is: 5669
-pivot is: 5667
-pivot is: 5676
-pivot is: 5672
-pivot is: 5674
-pivot is: 5678
-pivot is: 5685
-pivot is: 5681
-pivot is: 5684
-pivot is: 5682
-pivot is: 5688
-pivot is: 5686
-pivot is: 5697
-pivot is: 5690
-pivot is: 5694
-pivot is: 5692
-pivot is: 5696
-pivot is: 5698
-pivot is: 5716
-pivot is: 5713
-pivot is: 5703
-pivot is: 5701
-pivot is: 5710
-pivot is: 5706
-pivot is: 5705
-pivot is: 5709
-pivot is: 5707
-pivot is: 5712
-pivot is: 5714
-pivot is: 5731
-pivot is: 5725
-pivot is: 5718
-pivot is: 5719
-pivot is: 5724
-pivot is: 5722
-pivot is: 5720
-pivot is: 5730
-pivot is: 5726
-pivot is: 5729
-pivot is: 5728
-pivot is: 5738
-pivot is: 5732
-pivot is: 5737
-pivot is: 5735
-pivot is: 5733
-pivot is: 5790
-pivot is: 5786
-pivot is: 5767
-pivot is: 5760
-pivot is: 5754
-pivot is: 5748
-pivot is: 5742
-pivot is: 5746
-pivot is: 5744
-pivot is: 5753
-pivot is: 5751
-pivot is: 5749
-pivot is: 5756
-pivot is: 5757
-pivot is: 5758
-pivot is: 5761
-pivot is: 5766
-pivot is: 5762
-pivot is: 5763
-pivot is: 5764
-pivot is: 5783
-pivot is: 5779
-pivot is: 5776
-pivot is: 5771
-pivot is: 5769
-pivot is: 5772
-pivot is: 5773
-pivot is: 5775
-pivot is: 5778
-pivot is: 5782
-pivot is: 5781
-pivot is: 5784
-pivot is: 5788
-pivot is: 6782
-pivot is: 6067
-pivot is: 6003
-pivot is: 5889
-pivot is: 5869
-pivot is: 5850
-pivot is: 5803
-pivot is: 5799
-pivot is: 5796
-pivot is: 5795
-pivot is: 5794
-pivot is: 5797
-pivot is: 5801
-pivot is: 5825
-pivot is: 5822
-pivot is: 5811
-pivot is: 5809
-pivot is: 5807
-pivot is: 5805
-pivot is: 5819
-pivot is: 5813
-pivot is: 5814
-pivot is: 5816
-pivot is: 5817
-pivot is: 5820
-pivot is: 5824
-pivot is: 5837
-pivot is: 5832
-pivot is: 5831
-pivot is: 5827
-pivot is: 5828
-pivot is: 5830
-pivot is: 5835
-pivot is: 5834
-pivot is: 5841
-pivot is: 5840
-pivot is: 5838
-pivot is: 5843
-pivot is: 5844
-pivot is: 5846
-pivot is: 5849
-pivot is: 5848
-pivot is: 5859
-pivot is: 5851
-pivot is: 5855
-pivot is: 5854
-pivot is: 5852
-pivot is: 5857
-pivot is: 5865
-pivot is: 5860
-pivot is: 5862
-pivot is: 5863
-pivot is: 5868
-pivot is: 5867
-pivot is: 5872
-pivot is: 5871
-pivot is: 5883
-pivot is: 5874
-pivot is: 5876
-pivot is: 5882
-pivot is: 5880
-pivot is: 5877
-pivot is: 5878
-pivot is: 5884
-pivot is: 5885
-pivot is: 5888
-pivot is: 5886
-pivot is: 5998
-pivot is: 5976
-pivot is: 5962
-pivot is: 5940
-pivot is: 5906
-pivot is: 5904
-pivot is: 5894
-pivot is: 5892
-pivot is: 5890
-pivot is: 5897
-pivot is: 5896
-pivot is: 5899
-pivot is: 5903
-pivot is: 5900
-pivot is: 5902
-pivot is: 5922
-pivot is: 5919
-pivot is: 5912
-pivot is: 5908
-pivot is: 5911
-pivot is: 5910
-pivot is: 5914
-pivot is: 5917
-pivot is: 5915
-pivot is: 5920
-pivot is: 5923
-pivot is: 5926
-pivot is: 5925
-pivot is: 5935
-pivot is: 5934
-pivot is: 5929
-pivot is: 5928
-pivot is: 5930
-pivot is: 5933
-pivot is: 5931
-pivot is: 5936
-pivot is: 5937
-pivot is: 5939
-pivot is: 5960
-pivot is: 5954
-pivot is: 5944
-pivot is: 5941
-pivot is: 5943
-pivot is: 5952
-pivot is: 5945
-pivot is: 5948
-pivot is: 5946
-pivot is: 5950
-pivot is: 5959
-pivot is: 5958
-pivot is: 5956
-pivot is: 5972
-pivot is: 5969
-pivot is: 5965
-pivot is: 5963
-pivot is: 5967
-pivot is: 5971
-pivot is: 5973
-pivot is: 5974
-pivot is: 5987
-pivot is: 5986
-pivot is: 5983
-pivot is: 5977
-pivot is: 5978
-pivot is: 5982
-pivot is: 5979
-pivot is: 5981
-pivot is: 5985
-pivot is: 5992
-pivot is: 5989
-pivot is: 5991
-pivot is: 5994
-pivot is: 5995
-pivot is: 5996
-pivot is: 6002
-pivot is: 6001
-pivot is: 6000
-pivot is: 6041
-pivot is: 6017
-pivot is: 6007
-pivot is: 6004
-pivot is: 6006
-pivot is: 6015
-pivot is: 6010
-pivot is: 6008
-pivot is: 6014
-pivot is: 6013
-pivot is: 6012
-pivot is: 6020
-pivot is: 6018
-pivot is: 6040
-pivot is: 6022
-pivot is: 6027
-pivot is: 6026
-pivot is: 6023
-pivot is: 6024
-pivot is: 6039
-pivot is: 6035
-pivot is: 6029
-pivot is: 6033
-pivot is: 6032
-pivot is: 6030
-pivot is: 6036
-pivot is: 6038
-pivot is: 6065
-pivot is: 6061
-pivot is: 6053
-pivot is: 6045
-pivot is: 6042
-pivot is: 6043
-pivot is: 6048
-pivot is: 6046
-pivot is: 6051
-pivot is: 6049
-pivot is: 6056
-pivot is: 6054
-pivot is: 6059
-pivot is: 6057
-pivot is: 6064
-pivot is: 6062
-pivot is: 6496
-pivot is: 6136
-pivot is: 6101
-pivot is: 6073
-pivot is: 6072
-pivot is: 6071
-pivot is: 6068
-pivot is: 6069
-pivot is: 6077
-pivot is: 6074
-pivot is: 6075
-pivot is: 6099
-pivot is: 6089
-pivot is: 6080
-pivot is: 6079
-pivot is: 6087
-pivot is: 6085
-pivot is: 6081
-pivot is: 6082
-pivot is: 6084
-pivot is: 6090
-pivot is: 6094
-pivot is: 6091
-pivot is: 6092
-pivot is: 6095
-pivot is: 6096
-pivot is: 6097
-pivot is: 6135
-pivot is: 6106
-pivot is: 6104
-pivot is: 6103
-pivot is: 6117
-pivot is: 6112
-pivot is: 6110
-pivot is: 6107
-pivot is: 6108
-pivot is: 6113
-pivot is: 6116
-pivot is: 6115
-pivot is: 6131
-pivot is: 6121
-pivot is: 6118
-pivot is: 6120
-pivot is: 6130
-pivot is: 6127
-pivot is: 6124
-pivot is: 6123
-pivot is: 6126
-pivot is: 6128
-pivot is: 6133
-pivot is: 6142
-pivot is: 6141
-pivot is: 6137
-pivot is: 6139
-pivot is: 6223
-pivot is: 6176
-pivot is: 6164
-pivot is: 6146
-pivot is: 6144
-pivot is: 6160
-pivot is: 6147
-pivot is: 6159
-pivot is: 6158
-pivot is: 6150
-pivot is: 6149
-pivot is: 6151
-pivot is: 6155
-pivot is: 6153
-pivot is: 6156
-pivot is: 6161
-pivot is: 6163
-pivot is: 6165
-pivot is: 6173
-pivot is: 6170
-pivot is: 6167
-pivot is: 6168
-pivot is: 6172
-pivot is: 6174
-pivot is: 6218
-pivot is: 6184
-pivot is: 6177
-pivot is: 6182
-pivot is: 6179
-pivot is: 6181
-pivot is: 6195
-pivot is: 6187
-pivot is: 6186
-pivot is: 6191
-pivot is: 6188
-pivot is: 6189
-pivot is: 6192
-pivot is: 6194
-pivot is: 6211
-pivot is: 6198
-pivot is: 6196
-pivot is: 6202
-pivot is: 6199
-pivot is: 6200
-pivot is: 6204
-pivot is: 6210
-pivot is: 6207
-pivot is: 6206
-pivot is: 6209
-pivot is: 6214
-pivot is: 6213
-pivot is: 6215
-pivot is: 6216
-pivot is: 6222
-pivot is: 6221
-pivot is: 6219
-pivot is: 6327
-pivot is: 6274
-pivot is: 6249
-pivot is: 6247
-pivot is: 6229
-pivot is: 6225
-pivot is: 6228
-pivot is: 6227
-pivot is: 6231
-pivot is: 6244
-pivot is: 6238
-pivot is: 6235
-pivot is: 6234
-pivot is: 6232
-pivot is: 6236
-pivot is: 6241
-pivot is: 6240
-pivot is: 6243
-pivot is: 6245
-pivot is: 6272
-pivot is: 6262
-pivot is: 6258
-pivot is: 6257
-pivot is: 6252
-pivot is: 6251
-pivot is: 6256
-pivot is: 6253
-pivot is: 6255
-pivot is: 6261
-pivot is: 6259
-pivot is: 6270
-pivot is: 6265
-pivot is: 6264
-pivot is: 6267
-pivot is: 6268
-pivot is: 6285
-pivot is: 6277
-pivot is: 6275
-pivot is: 6279
-pivot is: 6283
-pivot is: 6281
-pivot is: 6300
-pivot is: 6292
-pivot is: 6286
-pivot is: 6289
-pivot is: 6288
-pivot is: 6291
-pivot is: 6297
-pivot is: 6293
-pivot is: 6296
-pivot is: 6294
-pivot is: 6298
-pivot is: 6325
-pivot is: 6317
-pivot is: 6315
-pivot is: 6313
-pivot is: 6310
-pivot is: 6301
-pivot is: 6305
-pivot is: 6304
-pivot is: 6303
-pivot is: 6308
-pivot is: 6306
-pivot is: 6311
-pivot is: 6324
-pivot is: 6322
-pivot is: 6319
-pivot is: 6321
-pivot is: 6437
-pivot is: 6340
-pivot is: 6329
-pivot is: 6330
-pivot is: 6339
-pivot is: 6333
-pivot is: 6331
-pivot is: 6338
-pivot is: 6337
-pivot is: 6334
-pivot is: 6335
-pivot is: 6429
-pivot is: 6371
-pivot is: 6365
-pivot is: 6349
-pivot is: 6346
-pivot is: 6343
-pivot is: 6341
-pivot is: 6345
-pivot is: 6347
-pivot is: 6357
-pivot is: 6350
-pivot is: 6351
-pivot is: 6353
-pivot is: 6355
-pivot is: 6359
-pivot is: 6361
-pivot is: 6364
-pivot is: 6362
-pivot is: 6370
-pivot is: 6367
-pivot is: 6369
-pivot is: 6398
-pivot is: 6383
-pivot is: 6380
-pivot is: 6378
-pivot is: 6374
-pivot is: 6372
-pivot is: 6376
-pivot is: 6381
-pivot is: 6395
-pivot is: 6394
-pivot is: 6390
-pivot is: 6386
-pivot is: 6385
-pivot is: 6387
-pivot is: 6389
-pivot is: 6391
-pivot is: 6393
-pivot is: 6396
-pivot is: 6419
-pivot is: 6418
-pivot is: 6415
-pivot is: 6413
-pivot is: 6408
-pivot is: 6402
-pivot is: 6400
-pivot is: 6405
-pivot is: 6403
-pivot is: 6407
-pivot is: 6411
-pivot is: 6409
-pivot is: 6416
-pivot is: 6424
-pivot is: 6421
-pivot is: 6422
-pivot is: 6428
-pivot is: 6427
-pivot is: 6425
-pivot is: 6433
-pivot is: 6432
-pivot is: 6430
-pivot is: 6436
-pivot is: 6434
-pivot is: 6478
-pivot is: 6438
-pivot is: 6454
-pivot is: 6451
-pivot is: 6444
-pivot is: 6439
-pivot is: 6440
-pivot is: 6441
-pivot is: 6443
-pivot is: 6446
-pivot is: 6448
-pivot is: 6449
-pivot is: 6453
-pivot is: 6462
-pivot is: 6457
-pivot is: 6456
-pivot is: 6458
-pivot is: 6460
-pivot is: 6472
-pivot is: 6468
-pivot is: 6466
-pivot is: 6465
-pivot is: 6464
-pivot is: 6471
-pivot is: 6469
-pivot is: 6473
-pivot is: 6477
-pivot is: 6474
-pivot is: 6476
-pivot is: 6490
-pivot is: 6481
-pivot is: 6479
-pivot is: 6489
-pivot is: 6488
-pivot is: 6483
-pivot is: 6484
-pivot is: 6485
-pivot is: 6486
-pivot is: 6493
-pivot is: 6492
-pivot is: 6494
-pivot is: 6745
-pivot is: 6656
-pivot is: 6566
-pivot is: 6525
-pivot is: 6522
-pivot is: 6518
-pivot is: 6514
-pivot is: 6509
-pivot is: 6500
-pivot is: 6497
-pivot is: 6499
-pivot is: 6508
-pivot is: 6504
-pivot is: 6503
-pivot is: 6501
-pivot is: 6506
-pivot is: 6513
-pivot is: 6511
-pivot is: 6516
-pivot is: 6519
-pivot is: 6521
-pivot is: 6524
-pivot is: 6556
-pivot is: 6536
-pivot is: 6527
-pivot is: 6529
-pivot is: 6535
-pivot is: 6532
-pivot is: 6531
-pivot is: 6534
-pivot is: 6546
-pivot is: 6537
-pivot is: 6539
-pivot is: 6541
-pivot is: 6543
-pivot is: 6545
-pivot is: 6555
-pivot is: 6552
-pivot is: 6548
-pivot is: 6549
-pivot is: 6550
-pivot is: 6554
-pivot is: 6564
-pivot is: 6561
-pivot is: 6559
-pivot is: 6558
-pivot is: 6563
-pivot is: 6644
-pivot is: 6636
-pivot is: 6628
-pivot is: 6576
-pivot is: 6570
-pivot is: 6567
-pivot is: 6568
-pivot is: 6573
-pivot is: 6571
-pivot is: 6575
-pivot is: 6624
-pivot is: 6615
-pivot is: 6601
-pivot is: 6585
-pivot is: 6580
-pivot is: 6577
-pivot is: 6579
-pivot is: 6581
-pivot is: 6583
-pivot is: 6599
-pivot is: 6595
-pivot is: 6592
-pivot is: 6587
-pivot is: 6589
-pivot is: 6591
-pivot is: 6593
-pivot is: 6597
-pivot is: 6613
-pivot is: 6608
-pivot is: 6606
-pivot is: 6603
-pivot is: 6605
-pivot is: 6612
-pivot is: 6609
-pivot is: 6610
-pivot is: 6623
-pivot is: 6619
-pivot is: 6616
-pivot is: 6617
-pivot is: 6620
-pivot is: 6621
-pivot is: 6626
-pivot is: 6633
-pivot is: 6632
-pivot is: 6629
-pivot is: 6631
-pivot is: 6635
-pivot is: 6642
-pivot is: 6640
-pivot is: 6639
-pivot is: 6637
-pivot is: 6652
-pivot is: 6646
-pivot is: 6649
-pivot is: 6647
-pivot is: 6650
-pivot is: 6653
-pivot is: 6654
-pivot is: 6694
-pivot is: 6680
-pivot is: 6669
-pivot is: 6663
-pivot is: 6660
-pivot is: 6657
-pivot is: 6658
-pivot is: 6662
-pivot is: 6664
-pivot is: 6668
-pivot is: 6667
-pivot is: 6665
-pivot is: 6672
-pivot is: 6670
-pivot is: 6678
-pivot is: 6676
-pivot is: 6675
-pivot is: 6673
-pivot is: 6681
-pivot is: 6684
-pivot is: 6683
-pivot is: 6693
-pivot is: 6690
-pivot is: 6689
-pivot is: 6685
-pivot is: 6686
-pivot is: 6688
-pivot is: 6692
-pivot is: 6699
-pivot is: 6696
-pivot is: 6698
-pivot is: 6720
-pivot is: 6709
-pivot is: 6706
-pivot is: 6704
-pivot is: 6702
-pivot is: 6701
-pivot is: 6708
-pivot is: 6719
-pivot is: 6715
-pivot is: 6712
-pivot is: 6711
-pivot is: 6713
-pivot is: 6718
-pivot is: 6717
-pivot is: 6740
-pivot is: 6728
-pivot is: 6727
-pivot is: 6722
-pivot is: 6725
-pivot is: 6724
-pivot is: 6737
-pivot is: 6729
-pivot is: 6730
-pivot is: 6734
-pivot is: 6732
-pivot is: 6736
-pivot is: 6738
-pivot is: 6741
-pivot is: 6743
-pivot is: 6780
-pivot is: 6767
-pivot is: 6750
-pivot is: 6747
-pivot is: 6748
-pivot is: 6764
-pivot is: 6761
-pivot is: 6754
-pivot is: 6752
-pivot is: 6755
-pivot is: 6760
-pivot is: 6759
-pivot is: 6757
-pivot is: 6763
-pivot is: 6765
-pivot is: 6768
-pivot is: 6775
-pivot is: 6774
-pivot is: 6773
-pivot is: 6770
-pivot is: 6772
-pivot is: 6776
-pivot is: 6779
-pivot is: 6778
-pivot is: 7276
-pivot is: 7266
-pivot is: 7188
-pivot is: 7063
-pivot is: 6896
-pivot is: 6860
-pivot is: 6794
-pivot is: 6789
-pivot is: 6788
-pivot is: 6785
-pivot is: 6783
-pivot is: 6786
-pivot is: 6793
-pivot is: 6792
-pivot is: 6791
-pivot is: 6825
-pivot is: 6817
-pivot is: 6804
-pivot is: 6801
-pivot is: 6795
-pivot is: 6799
-pivot is: 6798
-pivot is: 6796
-pivot is: 6802
-pivot is: 6810
-pivot is: 6805
-pivot is: 6809
-pivot is: 6806
-pivot is: 6807
-pivot is: 6812
-pivot is: 6813
-pivot is: 6816
-pivot is: 6814
-pivot is: 6821
-pivot is: 6818
-pivot is: 6819
-pivot is: 6822
-pivot is: 6824
-pivot is: 6832
-pivot is: 6827
-pivot is: 6831
-pivot is: 6829
-pivot is: 6845
-pivot is: 6844
-pivot is: 6837
-pivot is: 6834
-pivot is: 6835
-pivot is: 6839
-pivot is: 6841
-pivot is: 6843
-pivot is: 6851
-pivot is: 6847
-pivot is: 6848
-pivot is: 6849
-pivot is: 6854
-pivot is: 6852
-pivot is: 6859
-pivot is: 6855
-pivot is: 6858
-pivot is: 6856
-pivot is: 6891
-pivot is: 6872
-pivot is: 6868
-pivot is: 6864
-pivot is: 6863
-pivot is: 6861
-pivot is: 6867
-pivot is: 6865
-pivot is: 6871
-pivot is: 6870
-pivot is: 6889
-pivot is: 6881
-pivot is: 6877
-pivot is: 6873
-pivot is: 6876
-pivot is: 6874
-pivot is: 6880
-pivot is: 6878
-pivot is: 6887
-pivot is: 6882
-pivot is: 6886
-pivot is: 6883
-pivot is: 6884
-pivot is: 6893
-pivot is: 6895
-pivot is: 7016
-pivot is: 6911
-pivot is: 6898
-pivot is: 6901
-pivot is: 6900
-pivot is: 6902
-pivot is: 6910
-pivot is: 6909
-pivot is: 6904
-pivot is: 6906
-pivot is: 6907
-pivot is: 6914
-pivot is: 6912
-pivot is: 6926
-pivot is: 6919
-pivot is: 6915
-pivot is: 6916
-pivot is: 6918
-pivot is: 6922
-pivot is: 6921
-pivot is: 6925
-pivot is: 6924
-pivot is: 7012
-pivot is: 6946
-pivot is: 6932
-pivot is: 6931
-pivot is: 6927
-pivot is: 6930
-pivot is: 6929
-pivot is: 6936
-pivot is: 6934
-pivot is: 6940
-pivot is: 6939
-pivot is: 6937
-pivot is: 6941
-pivot is: 6944
-pivot is: 6943
-pivot is: 6994
-pivot is: 6985
-pivot is: 6983
-pivot is: 6972
-pivot is: 6964
-pivot is: 6953
-pivot is: 6948
-pivot is: 6950
-pivot is: 6951
-pivot is: 6959
-pivot is: 6956
-pivot is: 6954
-pivot is: 6957
-pivot is: 6963
-pivot is: 6962
-pivot is: 6961
-pivot is: 6971
-pivot is: 6967
-pivot is: 6966
-pivot is: 6968
-pivot is: 6970
-pivot is: 6982
-pivot is: 6974
-pivot is: 6975
-pivot is: 6977
-pivot is: 6981
-pivot is: 6980
-pivot is: 6978
-pivot is: 6993
-pivot is: 6992
-pivot is: 6990
-pivot is: 6988
-pivot is: 6986
-pivot is: 7007
-pivot is: 7004
-pivot is: 7002
-pivot is: 6995
-pivot is: 6999
-pivot is: 6996
-pivot is: 6998
-pivot is: 7000
-pivot is: 7005
-pivot is: 7009
-pivot is: 7011
-pivot is: 7015
-pivot is: 7013
-pivot is: 7062
-pivot is: 7036
-pivot is: 7017
-pivot is: 7028
-pivot is: 7023
-pivot is: 7020
-pivot is: 7019
-pivot is: 7022
-pivot is: 7025
-pivot is: 7026
-pivot is: 7029
-pivot is: 7031
-pivot is: 7035
-pivot is: 7032
-pivot is: 7034
-pivot is: 7047
-pivot is: 7041
-pivot is: 7037
-pivot is: 7040
-pivot is: 7039
-pivot is: 7046
-pivot is: 7044
-pivot is: 7043
-pivot is: 7060
-pivot is: 7053
-pivot is: 7052
-pivot is: 7050
-pivot is: 7048
-pivot is: 7055
-pivot is: 7059
-pivot is: 7056
-pivot is: 7057
-pivot is: 7101
-pivot is: 7090
-pivot is: 7081
-pivot is: 7072
-pivot is: 7070
-pivot is: 7067
-pivot is: 7066
-pivot is: 7064
-pivot is: 7068
-pivot is: 7079
-pivot is: 7073
-pivot is: 7076
-pivot is: 7074
-pivot is: 7077
-pivot is: 7083
-pivot is: 7088
-pivot is: 7084
-pivot is: 7085
-pivot is: 7087
-pivot is: 7095
-pivot is: 7093
-pivot is: 7091
-pivot is: 7097
-pivot is: 7100
-pivot is: 7099
-pivot is: 7126
-pivot is: 7115
-pivot is: 7103
-pivot is: 7109
-pivot is: 7105
-pivot is: 7108
-pivot is: 7107
-pivot is: 7114
-pivot is: 7110
-pivot is: 7112
-pivot is: 7118
-pivot is: 7117
-pivot is: 7120
-pivot is: 7123
-pivot is: 7122
-pivot is: 7125
-pivot is: 7159
-pivot is: 7136
-pivot is: 7134
-pivot is: 7128
-pivot is: 7131
-pivot is: 7130
-pivot is: 7132
-pivot is: 7138
-pivot is: 7146
-pivot is: 7144
-pivot is: 7143
-pivot is: 7141
-pivot is: 7140
-pivot is: 7155
-pivot is: 7154
-pivot is: 7147
-pivot is: 7150
-pivot is: 7149
-pivot is: 7153
-pivot is: 7152
-pivot is: 7156
-pivot is: 7157
-pivot is: 7161
-pivot is: 7170
-pivot is: 7169
-pivot is: 7162
-pivot is: 7166
-pivot is: 7165
-pivot is: 7163
-pivot is: 7167
-pivot is: 7178
-pivot is: 7174
-pivot is: 7171
-pivot is: 7173
-pivot is: 7177
-pivot is: 7176
-pivot is: 7186
-pivot is: 7179
-pivot is: 7183
-pivot is: 7181
-pivot is: 7184
-pivot is: 7247
-pivot is: 7215
-pivot is: 7189
-pivot is: 7191
-pivot is: 7203
-pivot is: 7202
-pivot is: 7196
-pivot is: 7192
-pivot is: 7194
-pivot is: 7200
-pivot is: 7199
-pivot is: 7197
-pivot is: 7211
-pivot is: 7204
-pivot is: 7206
-pivot is: 7209
-pivot is: 7208
-pivot is: 7214
-pivot is: 7213
-pivot is: 7236
-pivot is: 7220
-pivot is: 7219
-pivot is: 7216
-pivot is: 7218
-pivot is: 7232
-pivot is: 7229
-pivot is: 7222
-pivot is: 7227
-pivot is: 7226
-pivot is: 7224
-pivot is: 7230
-pivot is: 7233
-pivot is: 7234
-pivot is: 7242
-pivot is: 7239
-pivot is: 7237
-pivot is: 7241
-pivot is: 7246
-pivot is: 7245
-pivot is: 7243
-pivot is: 7264
-pivot is: 7262
-pivot is: 7250
-pivot is: 7248
-pivot is: 7259
-pivot is: 7251
-pivot is: 7255
-pivot is: 7253
-pivot is: 7258
-pivot is: 7257
-pivot is: 7260
-pivot is: 7267
-pivot is: 7270
-pivot is: 7269
-pivot is: 7275
-pivot is: 7272
-pivot is: 7273
-pivot is: 7487
-pivot is: 7369
-pivot is: 7364
-pivot is: 7356
-pivot is: 7318
-pivot is: 7279
-pivot is: 7278
-pivot is: 7296
-pivot is: 7282
-pivot is: 7280
-pivot is: 7287
-pivot is: 7283
-pivot is: 7284
-pivot is: 7286
-pivot is: 7293
-pivot is: 7288
-pivot is: 7291
-pivot is: 7290
-pivot is: 7295
-pivot is: 7300
-pivot is: 7298
-pivot is: 7317
-pivot is: 7315
-pivot is: 7309
-pivot is: 7303
-pivot is: 7301
-pivot is: 7306
-pivot is: 7305
-pivot is: 7307
-pivot is: 7312
-pivot is: 7311
-pivot is: 7313
-pivot is: 7345
-pivot is: 7327
-pivot is: 7323
-pivot is: 7321
-pivot is: 7319
-pivot is: 7325
-pivot is: 7333
-pivot is: 7331
-pivot is: 7328
-pivot is: 7330
-pivot is: 7342
-pivot is: 7341
-pivot is: 7336
-pivot is: 7335
-pivot is: 7338
-pivot is: 7339
-pivot is: 7344
-pivot is: 7348
-pivot is: 7346
-pivot is: 7354
-pivot is: 7352
-pivot is: 7351
-pivot is: 7349
-pivot is: 7357
-pivot is: 7363
-pivot is: 7358
-pivot is: 7360
-pivot is: 7361
-pivot is: 7365
-pivot is: 7366
-pivot is: 7368
-pivot is: 7376
-pivot is: 7371
-pivot is: 7374
-pivot is: 7373
-pivot is: 7478
-pivot is: 7382
-pivot is: 7378
-pivot is: 7381
-pivot is: 7380
-pivot is: 7400
-pivot is: 7383
-pivot is: 7386
-pivot is: 7385
-pivot is: 7397
-pivot is: 7389
-pivot is: 7387
-pivot is: 7395
-pivot is: 7394
-pivot is: 7390
-pivot is: 7393
-pivot is: 7392
-pivot is: 7398
-pivot is: 7466
-pivot is: 7443
-pivot is: 7429
-pivot is: 7406
-pivot is: 7402
-pivot is: 7403
-pivot is: 7405
-pivot is: 7425
-pivot is: 7412
-pivot is: 7411
-pivot is: 7409
-pivot is: 7407
-pivot is: 7418
-pivot is: 7414
-pivot is: 7417
-pivot is: 7416
-pivot is: 7424
-pivot is: 7420
-pivot is: 7421
-pivot is: 7422
-pivot is: 7427
-pivot is: 7438
-pivot is: 7437
-pivot is: 7436
-pivot is: 7430
-pivot is: 7434
-pivot is: 7432
-pivot is: 7442
-pivot is: 7439
-pivot is: 7441
-pivot is: 7448
-pivot is: 7446
-pivot is: 7444
-pivot is: 7455
-pivot is: 7452
-pivot is: 7450
-pivot is: 7453
-pivot is: 7465
-pivot is: 7456
-pivot is: 7461
-pivot is: 7458
-pivot is: 7460
-pivot is: 7462
-pivot is: 7463
-pivot is: 7474
-pivot is: 7472
-pivot is: 7468
-pivot is: 7470
-pivot is: 7477
-pivot is: 7476
-pivot is: 7480
-pivot is: 7482
-pivot is: 7486
-pivot is: 7483
-pivot is: 7484
-pivot is: 7494
-pivot is: 7493
-pivot is: 7492
-pivot is: 7490
-pivot is: 7489
-pivot is: 7667
-pivot is: 7517
-pivot is: 7514
-pivot is: 7507
-pivot is: 7497
-pivot is: 7495
-pivot is: 7502
-pivot is: 7500
-pivot is: 7498
-pivot is: 7506
-pivot is: 7504
-pivot is: 7513
-pivot is: 7512
-pivot is: 7509
-pivot is: 7511
-pivot is: 7515
-pivot is: 7545
-pivot is: 7518
-pivot is: 7530
-pivot is: 7519
-pivot is: 7529
-pivot is: 7528
-pivot is: 7527
-pivot is: 7523
-pivot is: 7522
-pivot is: 7521
-pivot is: 7525
-pivot is: 7532
-pivot is: 7538
-pivot is: 7533
-pivot is: 7534
-pivot is: 7537
-pivot is: 7535
-pivot is: 7543
-pivot is: 7539
-pivot is: 7541
-pivot is: 7641
-pivot is: 7605
-pivot is: 7568
-pivot is: 7562
-pivot is: 7561
-pivot is: 7560
-pivot is: 7559
-pivot is: 7556
-pivot is: 7552
-pivot is: 7546
-pivot is: 7549
-pivot is: 7547
-pivot is: 7551
-pivot is: 7553
-pivot is: 7555
-pivot is: 7558
-pivot is: 7563
-pivot is: 7566
-pivot is: 7565
-pivot is: 7593
-pivot is: 7575
-pivot is: 7574
-pivot is: 7571
-pivot is: 7569
-pivot is: 7573
-pivot is: 7592
-pivot is: 7577
-pivot is: 7582
-pivot is: 7581
-pivot is: 7579
-pivot is: 7590
-pivot is: 7589
-pivot is: 7584
-pivot is: 7586
-pivot is: 7587
-pivot is: 7595
-pivot is: 7604
-pivot is: 7597
-pivot is: 7602
-pivot is: 7598
-pivot is: 7601
-pivot is: 7600
-pivot is: 7619
-pivot is: 7614
-pivot is: 7606
-pivot is: 7609
-pivot is: 7607
-pivot is: 7611
-pivot is: 7612
-pivot is: 7618
-pivot is: 7615
-pivot is: 7616
-pivot is: 7634
-pivot is: 7625
-pivot is: 7624
-pivot is: 7622
-pivot is: 7620
-pivot is: 7630
-pivot is: 7626
-pivot is: 7629
-pivot is: 7627
-pivot is: 7631
-pivot is: 7632
-pivot is: 7635
-pivot is: 7640
-pivot is: 7639
-pivot is: 7636
-pivot is: 7637
-pivot is: 7655
-pivot is: 7645
-pivot is: 7643
-pivot is: 7649
-pivot is: 7647
-pivot is: 7651
-pivot is: 7654
-pivot is: 7653
-pivot is: 7656
-pivot is: 7659
-pivot is: 7657
-pivot is: 7665
-pivot is: 7660
-pivot is: 7661
-pivot is: 7662
-pivot is: 7663
-pivot is: 7687
-pivot is: 7684
-pivot is: 7679
-pivot is: 7669
-pivot is: 7677
-pivot is: 7675
-pivot is: 7672
-pivot is: 7670
-pivot is: 7674
-pivot is: 7681
-pivot is: 7682
-pivot is: 7685
-pivot is: 7691
-pivot is: 7688
-pivot is: 7689
-pivot is: 8199
-pivot is: 8182
-pivot is: 8003
-pivot is: 7918
-pivot is: 7700
-pivot is: 7698
-pivot is: 7694
-pivot is: 7697
-pivot is: 7695
-pivot is: 7856
-pivot is: 7817
-pivot is: 7701
-pivot is: 7725
-pivot is: 7712
-pivot is: 7704
-pivot is: 7702
-pivot is: 7707
-pivot is: 7705
-pivot is: 7708
-pivot is: 7709
-pivot is: 7710
-pivot is: 7714
-pivot is: 7720
-pivot is: 7717
-pivot is: 7715
-pivot is: 7718
-pivot is: 7721
-pivot is: 7723
-pivot is: 7794
-pivot is: 7770
-pivot is: 7766
-pivot is: 7745
-pivot is: 7726
-pivot is: 7730
-pivot is: 7728
-pivot is: 7742
-pivot is: 7741
-pivot is: 7737
-pivot is: 7732
-pivot is: 7734
-pivot is: 7735
-pivot is: 7739
-pivot is: 7744
-pivot is: 7764
-pivot is: 7748
-pivot is: 7746
-pivot is: 7763
-pivot is: 7755
-pivot is: 7751
-pivot is: 7750
-pivot is: 7754
-pivot is: 7753
-pivot is: 7760
-pivot is: 7758
-pivot is: 7756
-pivot is: 7761
-pivot is: 7768
-pivot is: 7771
-pivot is: 7793
-pivot is: 7787
-pivot is: 7784
-pivot is: 7778
-pivot is: 7776
-pivot is: 7774
-pivot is: 7773
-pivot is: 7783
-pivot is: 7779
-pivot is: 7782
-pivot is: 7780
-pivot is: 7786
-pivot is: 7792
-pivot is: 7790
-pivot is: 7788
-pivot is: 7804
-pivot is: 7800
-pivot is: 7799
-pivot is: 7795
-pivot is: 7797
-pivot is: 7801
-pivot is: 7803
-pivot is: 7816
-pivot is: 7805
-pivot is: 7809
-pivot is: 7808
-pivot is: 7806
-pivot is: 7815
-pivot is: 7814
-pivot is: 7812
-pivot is: 7810
-pivot is: 7823
-pivot is: 7818
-pivot is: 7821
-pivot is: 7820
-pivot is: 7848
-pivot is: 7840
-pivot is: 7824
-pivot is: 7839
-pivot is: 7832
-pivot is: 7826
-pivot is: 7827
-pivot is: 7828
-pivot is: 7829
-pivot is: 7830
-pivot is: 7833
-pivot is: 7835
-pivot is: 7837
-pivot is: 7846
-pivot is: 7841
-pivot is: 7845
-pivot is: 7843
-pivot is: 7854
-pivot is: 7849
-pivot is: 7853
-pivot is: 7851
-pivot is: 7889
-pivot is: 7857
-pivot is: 7863
-pivot is: 7859
-pivot is: 7860
-pivot is: 7862
-pivot is: 7867
-pivot is: 7865
-pivot is: 7872
-pivot is: 7871
-pivot is: 7868
-pivot is: 7870
-pivot is: 7882
-pivot is: 7873
-pivot is: 7875
-pivot is: 7877
-pivot is: 7878
-pivot is: 7881
-pivot is: 7880
-pivot is: 7888
-pivot is: 7887
-pivot is: 7886
-pivot is: 7884
-pivot is: 7891
-pivot is: 7895
-pivot is: 7893
-pivot is: 7917
-pivot is: 7911
-pivot is: 7900
-pivot is: 7899
-pivot is: 7897
-pivot is: 7910
-pivot is: 7906
-pivot is: 7903
-pivot is: 7901
-pivot is: 7905
-pivot is: 7907
-pivot is: 7908
-pivot is: 7915
-pivot is: 7913
-pivot is: 7956
-pivot is: 7940
-pivot is: 7925
-pivot is: 7924
-pivot is: 7923
-pivot is: 7922
-pivot is: 7920
-pivot is: 7932
-pivot is: 7927
-pivot is: 7930
-pivot is: 7929
-pivot is: 7939
-pivot is: 7936
-pivot is: 7934
-pivot is: 7937
-pivot is: 7953
-pivot is: 7943
-pivot is: 7941
-pivot is: 7944
-pivot is: 7947
-pivot is: 7945
-pivot is: 7949
-pivot is: 7951
-pivot is: 7954
-pivot is: 7978
-pivot is: 7971
-pivot is: 7970
-pivot is: 7967
-pivot is: 7959
-pivot is: 7958
-pivot is: 7962
-pivot is: 7960
-pivot is: 7966
-pivot is: 7964
-pivot is: 7969
-pivot is: 7977
-pivot is: 7975
-pivot is: 7973
-pivot is: 7999
-pivot is: 7982
-pivot is: 7980
-pivot is: 7985
-pivot is: 7983
-pivot is: 7988
-pivot is: 7987
-pivot is: 7998
-pivot is: 7991
-pivot is: 7990
-pivot is: 7996
-pivot is: 7993
-pivot is: 7994
-pivot is: 8000
-pivot is: 8001
-pivot is: 8105
-pivot is: 8079
-pivot is: 8071
-pivot is: 8058
-pivot is: 8039
-pivot is: 8029
-pivot is: 8021
-pivot is: 8012
-pivot is: 8007
-pivot is: 8005
-pivot is: 8011
-pivot is: 8009
-pivot is: 8020
-pivot is: 8017
-pivot is: 8016
-pivot is: 8015
-pivot is: 8014
-pivot is: 8019
-pivot is: 8027
-pivot is: 8024
-pivot is: 8023
-pivot is: 8026
-pivot is: 8034
-pivot is: 8032
-pivot is: 8031
-pivot is: 8038
-pivot is: 8036
-pivot is: 8044
-pivot is: 8040
-pivot is: 8043
-pivot is: 8041
-pivot is: 8054
-pivot is: 8050
-pivot is: 8045
-pivot is: 8047
-pivot is: 8049
-pivot is: 8051
-pivot is: 8053
-pivot is: 8057
-pivot is: 8055
-pivot is: 8062
-pivot is: 8059
-pivot is: 8060
-pivot is: 8067
-pivot is: 8065
-pivot is: 8063
-pivot is: 8070
-pivot is: 8068
-pivot is: 8075
-pivot is: 8073
-pivot is: 8078
-pivot is: 8076
-pivot is: 8087
-pivot is: 8082
-pivot is: 8080
-pivot is: 8083
-pivot is: 8084
-pivot is: 8085
-pivot is: 8102
-pivot is: 8093
-pivot is: 8091
-pivot is: 8089
-pivot is: 8097
-pivot is: 8094
-pivot is: 8095
-pivot is: 8101
-pivot is: 8100
-pivot is: 8099
-pivot is: 8103
-pivot is: 8151
-pivot is: 8106
-pivot is: 8124
-pivot is: 8113
-pivot is: 8107
-pivot is: 8110
-pivot is: 8109
-pivot is: 8111
-pivot is: 8114
-pivot is: 8122
-pivot is: 8119
-pivot is: 8118
-pivot is: 8116
-pivot is: 8121
-pivot is: 8131
-pivot is: 8130
-pivot is: 8125
-pivot is: 8129
-pivot is: 8126
-pivot is: 8127
-pivot is: 8138
-pivot is: 8136
-pivot is: 8134
-pivot is: 8133
-pivot is: 8149
-pivot is: 8141
-pivot is: 8140
-pivot is: 8143
-pivot is: 8146
-pivot is: 8145
-pivot is: 8148
-pivot is: 8166
-pivot is: 8159
-pivot is: 8158
-pivot is: 8152
-pivot is: 8153
-pivot is: 8156
-pivot is: 8154
-pivot is: 8165
-pivot is: 8164
-pivot is: 8163
-pivot is: 8160
-pivot is: 8161
-pivot is: 8179
-pivot is: 8175
-pivot is: 8169
-pivot is: 8168
-pivot is: 8174
-pivot is: 8172
-pivot is: 8171
-pivot is: 8177
-pivot is: 8180
-pivot is: 8197
-pivot is: 8196
-pivot is: 8191
-pivot is: 8184
-pivot is: 8186
-pivot is: 8187
-pivot is: 8188
-pivot is: 8190
-pivot is: 8194
-pivot is: 8192
-pivot is: 8318
-pivot is: 8259
-pivot is: 8244
-pivot is: 8203
-pivot is: 8200
-pivot is: 8202
-pivot is: 8219
-pivot is: 8207
-pivot is: 8206
-pivot is: 8205
-pivot is: 8215
-pivot is: 8211
-pivot is: 8209
-pivot is: 8213
-pivot is: 8217
-pivot is: 8233
-pivot is: 8225
-pivot is: 8220
-pivot is: 8221
-pivot is: 8223
-pivot is: 8232
-pivot is: 8228
-pivot is: 8227
-pivot is: 8229
-pivot is: 8230
-pivot is: 8236
-pivot is: 8235
-pivot is: 8237
-pivot is: 8243
-pivot is: 8241
-pivot is: 8239
-pivot is: 8254
-pivot is: 8245
-pivot is: 8247
-pivot is: 8251
-pivot is: 8249
-pivot is: 8252
-pivot is: 8258
-pivot is: 8256
-pivot is: 8260
-pivot is: 8278
-pivot is: 8262
-pivot is: 8272
-pivot is: 8269
-pivot is: 8267
-pivot is: 8264
-pivot is: 8265
-pivot is: 8270
-pivot is: 8274
-pivot is: 8277
-pivot is: 8275
-pivot is: 8285
-pivot is: 8281
-pivot is: 8279
-pivot is: 8283
-pivot is: 8287
-pivot is: 8309
-pivot is: 8292
-pivot is: 8291
-pivot is: 8288
-pivot is: 8290
-pivot is: 8293
-pivot is: 8297
-pivot is: 8294
-pivot is: 8296
-pivot is: 8303
-pivot is: 8299
-pivot is: 8302
-pivot is: 8301
-pivot is: 8307
-pivot is: 8305
-pivot is: 8311
-pivot is: 8316
-pivot is: 8315
-pivot is: 8313
-pivot is: 8351
-pivot is: 8340
-pivot is: 8327
-pivot is: 8324
-pivot is: 8321
-pivot is: 8320
-pivot is: 8323
-pivot is: 8325
-pivot is: 8337
-pivot is: 8336
-pivot is: 8329
-pivot is: 8331
-pivot is: 8332
-pivot is: 8335
-pivot is: 8334
-pivot is: 8338
-pivot is: 8350
-pivot is: 8342
-pivot is: 8344
-pivot is: 8346
-pivot is: 8349
-pivot is: 8347
-pivot is: 8779
-pivot is: 8685
-pivot is: 8633
-pivot is: 8557
-pivot is: 8418
-pivot is: 8373
-pivot is: 8368
-pivot is: 8364
-pivot is: 8355
-pivot is: 8352
-pivot is: 8353
-pivot is: 8363
-pivot is: 8362
-pivot is: 8359
-pivot is: 8357
-pivot is: 8361
-pivot is: 8366
-pivot is: 8371
-pivot is: 8370
-pivot is: 8396
-pivot is: 8390
-pivot is: 8385
-pivot is: 8377
-pivot is: 8375
-pivot is: 8384
-pivot is: 8380
-pivot is: 8378
-pivot is: 8381
-pivot is: 8382
-pivot is: 8387
-pivot is: 8389
-pivot is: 8394
-pivot is: 8391
-pivot is: 8392
-pivot is: 8410
-pivot is: 8397
-pivot is: 8398
-pivot is: 8407
-pivot is: 8402
-pivot is: 8401
-pivot is: 8399
-pivot is: 8406
-pivot is: 8403
-pivot is: 8404
-pivot is: 8408
-pivot is: 8416
-pivot is: 8414
-pivot is: 8411
-pivot is: 8412
-pivot is: 8491
-pivot is: 8438
-pivot is: 8421
-pivot is: 8419
-pivot is: 8434
-pivot is: 8429
-pivot is: 8427
-pivot is: 8426
-pivot is: 8422
-pivot is: 8424
-pivot is: 8432
-pivot is: 8430
-pivot is: 8436
-pivot is: 8481
-pivot is: 8477
-pivot is: 8458
-pivot is: 8456
-pivot is: 8441
-pivot is: 8440
-pivot is: 8451
-pivot is: 8443
-pivot is: 8445
-pivot is: 8448
-pivot is: 8446
-pivot is: 8449
-pivot is: 8453
-pivot is: 8454
-pivot is: 8459
-pivot is: 8460
-pivot is: 8469
-pivot is: 8461
-pivot is: 8468
-pivot is: 8462
-pivot is: 8467
-pivot is: 8466
-pivot is: 8464
-pivot is: 8470
-pivot is: 8472
-pivot is: 8476
-pivot is: 8475
-pivot is: 8473
-pivot is: 8478
-pivot is: 8480
-pivot is: 8489
-pivot is: 8487
-pivot is: 8483
-pivot is: 8485
-pivot is: 8537
-pivot is: 8518
-pivot is: 8494
-pivot is: 8493
-pivot is: 8500
-pivot is: 8495
-pivot is: 8499
-pivot is: 8498
-pivot is: 8496
-pivot is: 8505
-pivot is: 8504
-pivot is: 8501
-pivot is: 8502
-pivot is: 8510
-pivot is: 8507
-pivot is: 8509
-pivot is: 8514
-pivot is: 8512
-pivot is: 8515
-pivot is: 8516
-pivot is: 8530
-pivot is: 8525
-pivot is: 8520
-pivot is: 8523
-pivot is: 8521
-pivot is: 8529
-pivot is: 8528
-pivot is: 8526
-pivot is: 8536
-pivot is: 8531
-pivot is: 8534
-pivot is: 8532
-pivot is: 8552
-pivot is: 8545
-pivot is: 8538
-pivot is: 8541
-pivot is: 8540
-pivot is: 8544
-pivot is: 8542
-pivot is: 8551
-pivot is: 8550
-pivot is: 8548
-pivot is: 8546
-pivot is: 8555
-pivot is: 8554
-pivot is: 8582
-pivot is: 8559
-pivot is: 8564
-pivot is: 8561
-pivot is: 8562
-pivot is: 8576
-pivot is: 8566
-pivot is: 8573
-pivot is: 8567
-pivot is: 8571
-pivot is: 8569
-pivot is: 8575
-pivot is: 8577
-pivot is: 8581
-pivot is: 8578
-pivot is: 8579
-pivot is: 8599
-pivot is: 8589
-pivot is: 8587
-pivot is: 8584
-pivot is: 8586
-pivot is: 8593
-pivot is: 8591
-pivot is: 8594
-pivot is: 8598
-pivot is: 8596
-pivot is: 8601
-pivot is: 8617
-pivot is: 8616
-pivot is: 8606
-pivot is: 8604
-pivot is: 8603
-pivot is: 8609
-pivot is: 8607
-pivot is: 8614
-pivot is: 8612
-pivot is: 8611
-pivot is: 8619
-pivot is: 8630
-pivot is: 8622
-pivot is: 8621
-pivot is: 8625
-pivot is: 8624
-pivot is: 8627
-pivot is: 8629
-pivot is: 8632
-pivot is: 8640
-pivot is: 8637
-pivot is: 8634
-pivot is: 8635
-pivot is: 8638
-pivot is: 8664
-pivot is: 8657
-pivot is: 8641
-pivot is: 8654
-pivot is: 8650
-pivot is: 8642
-pivot is: 8644
-pivot is: 8645
-pivot is: 8647
-pivot is: 8649
-pivot is: 8653
-pivot is: 8651
-pivot is: 8655
-pivot is: 8659
-pivot is: 8660
-pivot is: 8663
-pivot is: 8662
-pivot is: 8668
-pivot is: 8667
-pivot is: 8666
-pivot is: 8681
-pivot is: 8679
-pivot is: 8673
-pivot is: 8670
-pivot is: 8671
-pivot is: 8677
-pivot is: 8674
-pivot is: 8675
-pivot is: 8683
-pivot is: 8764
-pivot is: 8757
-pivot is: 8695
-pivot is: 8691
-pivot is: 8689
-pivot is: 8688
-pivot is: 8687
-pivot is: 8694
-pivot is: 8693
-pivot is: 8736
-pivot is: 8716
-pivot is: 8702
-pivot is: 8697
-pivot is: 8700
-pivot is: 8698
-pivot is: 8714
-pivot is: 8704
-pivot is: 8705
-pivot is: 8708
-pivot is: 8706
-pivot is: 8709
-pivot is: 8712
-pivot is: 8710
-pivot is: 8722
-pivot is: 8720
-pivot is: 8718
-pivot is: 8734
-pivot is: 8729
-pivot is: 8723
-pivot is: 8727
-pivot is: 8726
-pivot is: 8724
-pivot is: 8730
-pivot is: 8732
-pivot is: 8751
-pivot is: 8749
-pivot is: 8739
-pivot is: 8737
-pivot is: 8748
-pivot is: 8741
-pivot is: 8747
-pivot is: 8746
-pivot is: 8745
-pivot is: 8744
-pivot is: 8743
-pivot is: 8755
-pivot is: 8752
-pivot is: 8753
-pivot is: 8763
-pivot is: 8758
-pivot is: 8761
-pivot is: 8760
-pivot is: 8774
-pivot is: 8773
-pivot is: 8766
-pivot is: 8771
-pivot is: 8770
-pivot is: 8769
-pivot is: 8767
-pivot is: 8778
-pivot is: 8777
-pivot is: 8776
-pivot is: 9094
-pivot is: 8880
-pivot is: 8800
-pivot is: 8793
-pivot is: 8788
-pivot is: 8780
-pivot is: 8785
-pivot is: 8781
-pivot is: 8782
-pivot is: 8784
-pivot is: 8786
-pivot is: 8792
-pivot is: 8791
-pivot is: 8789
-pivot is: 8799
-pivot is: 8796
-pivot is: 8794
-pivot is: 8798
-pivot is: 8807
-pivot is: 8802
-pivot is: 8803
-pivot is: 8804
-pivot is: 8805
-pivot is: 8852
-pivot is: 8809
-pivot is: 8830
-pivot is: 8828
-pivot is: 8827
-pivot is: 8825
-pivot is: 8821
-pivot is: 8818
-pivot is: 8817
-pivot is: 8812
-pivot is: 8811
-pivot is: 8814
-pivot is: 8816
-pivot is: 8819
-pivot is: 8824
-pivot is: 8822
-pivot is: 8838
-pivot is: 8834
-pivot is: 8831
-pivot is: 8832
-pivot is: 8836
-pivot is: 8848
-pivot is: 8845
-pivot is: 8841
-pivot is: 8839
-pivot is: 8843
-pivot is: 8846
-pivot is: 8851
-pivot is: 8849
-pivot is: 8872
-pivot is: 8857
-pivot is: 8855
-pivot is: 8853
-pivot is: 8860
-pivot is: 8859
-pivot is: 8866
-pivot is: 8862
-pivot is: 8865
-pivot is: 8864
-pivot is: 8871
-pivot is: 8867
-pivot is: 8868
-pivot is: 8869
-pivot is: 8878
-pivot is: 8877
-pivot is: 8874
-pivot is: 8876
-pivot is: 9020
-pivot is: 8896
-pivot is: 8891
-pivot is: 8887
-pivot is: 8884
-pivot is: 8882
-pivot is: 8886
-pivot is: 8889
-pivot is: 8895
-pivot is: 8893
-pivot is: 8988
-pivot is: 8935
-pivot is: 8915
-pivot is: 8897
-pivot is: 8899
-pivot is: 8904
-pivot is: 8901
-pivot is: 8902
-pivot is: 8914
-pivot is: 8909
-pivot is: 8907
-pivot is: 8905
-pivot is: 8913
-pivot is: 8911
-pivot is: 8918
-pivot is: 8917
-pivot is: 8932
-pivot is: 8924
-pivot is: 8919
-pivot is: 8923
-pivot is: 8921
-pivot is: 8929
-pivot is: 8928
-pivot is: 8926
-pivot is: 8930
-pivot is: 8934
-pivot is: 8980
-pivot is: 8971
-pivot is: 8959
-pivot is: 8939
-pivot is: 8937
-pivot is: 8956
-pivot is: 8955
-pivot is: 8950
-pivot is: 8945
-pivot is: 8944
-pivot is: 8940
-pivot is: 8942
-pivot is: 8948
-pivot is: 8947
-pivot is: 8951
-pivot is: 8954
-pivot is: 8953
-pivot is: 8957
-pivot is: 8961
-pivot is: 8965
-pivot is: 8964
-pivot is: 8963
-pivot is: 8968
-pivot is: 8966
-pivot is: 8969
-pivot is: 8973
-pivot is: 8974
-pivot is: 8975
-pivot is: 8978
-pivot is: 8976
-pivot is: 8987
-pivot is: 8983
-pivot is: 8981
-pivot is: 8986
-pivot is: 8984
-pivot is: 8992
-pivot is: 8991
-pivot is: 8990
-pivot is: 9011
-pivot is: 8993
-pivot is: 9005
-pivot is: 9004
-pivot is: 9003
-pivot is: 8999
-pivot is: 8997
-pivot is: 8995
-pivot is: 9000
-pivot is: 9001
-pivot is: 9008
-pivot is: 9007
-pivot is: 9009
-pivot is: 9012
-pivot is: 9015
-pivot is: 9014
-pivot is: 9016
-pivot is: 9018
-pivot is: 9053
-pivot is: 9049
-pivot is: 9032
-pivot is: 9023
-pivot is: 9021
-pivot is: 9027
-pivot is: 9025
-pivot is: 9029
-pivot is: 9031
-pivot is: 9038
-pivot is: 9034
-pivot is: 9035
-pivot is: 9036
-pivot is: 9047
-pivot is: 9044
-pivot is: 9040
-pivot is: 9042
-pivot is: 9046
-pivot is: 9051
-pivot is: 9079
-pivot is: 9054
-pivot is: 9070
-pivot is: 9062
-pivot is: 9056
-pivot is: 9061
-pivot is: 9060
-pivot is: 9059
-pivot is: 9058
-pivot is: 9067
-pivot is: 9065
-pivot is: 9064
-pivot is: 9069
-pivot is: 9074
-pivot is: 9071
-pivot is: 9072
-pivot is: 9078
-pivot is: 9075
-pivot is: 9077
-pivot is: 9083
-pivot is: 9080
-pivot is: 9082
-pivot is: 9089
-pivot is: 9087
-pivot is: 9086
-pivot is: 9084
-pivot is: 9090
-pivot is: 9091
-pivot is: 9092
-pivot is: 9167
-pivot is: 9158
-pivot is: 9096
-pivot is: 9127
-pivot is: 9099
-pivot is: 9097
-pivot is: 9110
-pivot is: 9106
-pivot is: 9105
-pivot is: 9102
-pivot is: 9100
-pivot is: 9103
-pivot is: 9108
-pivot is: 9125
-pivot is: 9114
-pivot is: 9111
-pivot is: 9112
-pivot is: 9121
-pivot is: 9119
-pivot is: 9116
-pivot is: 9118
-pivot is: 9124
-pivot is: 9123
-pivot is: 9137
-pivot is: 9128
-pivot is: 9131
-pivot is: 9129
-pivot is: 9133
-pivot is: 9135
-pivot is: 9157
-pivot is: 9139
-pivot is: 9141
-pivot is: 9142
-pivot is: 9146
-pivot is: 9143
-pivot is: 9144
-pivot is: 9149
-pivot is: 9148
-pivot is: 9151
-pivot is: 9153
-pivot is: 9155
-pivot is: 9162
-pivot is: 9159
-pivot is: 9161
-pivot is: 9163
-pivot is: 9165
-pivot is: 9261
-pivot is: 9200
-pivot is: 9177
-pivot is: 9169
-pivot is: 9175
-pivot is: 9174
-pivot is: 9170
-pivot is: 9171
-pivot is: 9172
-pivot is: 9194
-pivot is: 9192
-pivot is: 9181
-pivot is: 9180
-pivot is: 9179
-pivot is: 9182
-pivot is: 9188
-pivot is: 9186
-pivot is: 9183
-pivot is: 9185
-pivot is: 9191
-pivot is: 9190
-pivot is: 9199
-pivot is: 9196
-pivot is: 9198
-pivot is: 9246
-pivot is: 9230
-pivot is: 9222
-pivot is: 9219
-pivot is: 9209
-pivot is: 9208
-pivot is: 9202
-pivot is: 9207
-pivot is: 9203
-pivot is: 9205
-pivot is: 9216
-pivot is: 9210
-pivot is: 9214
-pivot is: 9211
-pivot is: 9213
-pivot is: 9217
-pivot is: 9220
-pivot is: 9227
-pivot is: 9223
-pivot is: 9224
-pivot is: 9226
-pivot is: 9228
-pivot is: 9232
-pivot is: 9243
-pivot is: 9240
-pivot is: 9234
-pivot is: 9235
-pivot is: 9236
-pivot is: 9239
-pivot is: 9238
-pivot is: 9241
-pivot is: 9245
-pivot is: 9249
-pivot is: 9247
-pivot is: 9253
-pivot is: 9252
-pivot is: 9251
-pivot is: 9255
-pivot is: 9258
-pivot is: 9257
-pivot is: 9259
-pivot is: 9262
-pivot is: 9267
-pivot is: 9263
-pivot is: 9266
-pivot is: 9265
-pivot is: 9833
-pivot is: 9514
-pivot is: 9482
-pivot is: 9454
-pivot is: 9398
-pivot is: 9389
-pivot is: 9322
-pivot is: 9297
-pivot is: 9271
-pivot is: 9283
-pivot is: 9279
-pivot is: 9275
-pivot is: 9273
-pivot is: 9276
-pivot is: 9278
-pivot is: 9281
-pivot is: 9285
-pivot is: 9286
-pivot is: 9288
-pivot is: 9292
-pivot is: 9290
-pivot is: 9294
-pivot is: 9295
-pivot is: 9302
-pivot is: 9300
-pivot is: 9299
-pivot is: 9315
-pivot is: 9314
-pivot is: 9308
-pivot is: 9303
-pivot is: 9304
-pivot is: 9307
-pivot is: 9306
-pivot is: 9312
-pivot is: 9309
-pivot is: 9311
-pivot is: 9316
-pivot is: 9318
-pivot is: 9320
-pivot is: 9381
-pivot is: 9343
-pivot is: 9330
-pivot is: 9326
-pivot is: 9325
-pivot is: 9324
-pivot is: 9328
-pivot is: 9339
-pivot is: 9332
-pivot is: 9335
-pivot is: 9333
-pivot is: 9338
-pivot is: 9336
-pivot is: 9342
-pivot is: 9340
-pivot is: 9376
-pivot is: 9363
-pivot is: 9356
-pivot is: 9346
-pivot is: 9345
-pivot is: 9350
-pivot is: 9347
-pivot is: 9349
-pivot is: 9355
-pivot is: 9354
-pivot is: 9352
-pivot is: 9362
-pivot is: 9359
-pivot is: 9358
-pivot is: 9361
-pivot is: 9365
-pivot is: 9370
-pivot is: 9366
-pivot is: 9368
-pivot is: 9373
-pivot is: 9372
-pivot is: 9375
-pivot is: 9377
-pivot is: 9380
-pivot is: 9379
-pivot is: 9388
-pivot is: 9382
-pivot is: 9387
-pivot is: 9386
-pivot is: 9383
-pivot is: 9385
-pivot is: 9397
-pivot is: 9394
-pivot is: 9391
-pivot is: 9393
-pivot is: 9396
-pivot is: 9448
-pivot is: 9401
-pivot is: 9399
-pivot is: 9426
-pivot is: 9412
-pivot is: 9406
-pivot is: 9405
-pivot is: 9403
-pivot is: 9411
-pivot is: 9410
-pivot is: 9408
-pivot is: 9415
-pivot is: 9414
-pivot is: 9419
-pivot is: 9417
-pivot is: 9423
-pivot is: 9420
-pivot is: 9422
-pivot is: 9425
-pivot is: 9442
-pivot is: 9432
-pivot is: 9430
-pivot is: 9428
-pivot is: 9439
-pivot is: 9436
-pivot is: 9433
-pivot is: 9434
-pivot is: 9437
-pivot is: 9441
-pivot is: 9446
-pivot is: 9445
-pivot is: 9443
-pivot is: 9451
-pivot is: 9450
-pivot is: 9452
-pivot is: 9455
-pivot is: 9458
-pivot is: 9456
-pivot is: 9479
-pivot is: 9469
-pivot is: 9460
-pivot is: 9466
-pivot is: 9462
-pivot is: 9463
-pivot is: 9465
-pivot is: 9467
-pivot is: 9477
-pivot is: 9473
-pivot is: 9471
-pivot is: 9475
-pivot is: 9481
-pivot is: 9490
-pivot is: 9483
-pivot is: 9484
-pivot is: 9487
-pivot is: 9485
-pivot is: 9488
-pivot is: 9504
-pivot is: 9499
-pivot is: 9498
-pivot is: 9492
-pivot is: 9497
-pivot is: 9496
-pivot is: 9494
-pivot is: 9502
-pivot is: 9501
-pivot is: 9508
-pivot is: 9506
-pivot is: 9513
-pivot is: 9512
-pivot is: 9511
-pivot is: 9509
-pivot is: 9656
-pivot is: 9564
-pivot is: 9561
-pivot is: 9515
-pivot is: 9533
-pivot is: 9519
-pivot is: 9518
-pivot is: 9517
-pivot is: 9522
-pivot is: 9520
-pivot is: 9526
-pivot is: 9524
-pivot is: 9530
-pivot is: 9527
-pivot is: 9528
-pivot is: 9531
-pivot is: 9549
-pivot is: 9546
-pivot is: 9544
-pivot is: 9542
-pivot is: 9541
-pivot is: 9535
-pivot is: 9539
-pivot is: 9538
-pivot is: 9537
-pivot is: 9548
-pivot is: 9557
-pivot is: 9551
-pivot is: 9552
-pivot is: 9555
-pivot is: 9553
-pivot is: 9560
-pivot is: 9559
-pivot is: 9563
-pivot is: 9594
-pivot is: 9571
-pivot is: 9567
-pivot is: 9566
-pivot is: 9570
-pivot is: 9569
-pivot is: 9575
-pivot is: 9574
-pivot is: 9572
-pivot is: 9581
-pivot is: 9577
-pivot is: 9580
-pivot is: 9578
-pivot is: 9587
-pivot is: 9585
-pivot is: 9584
-pivot is: 9582
-pivot is: 9589
-pivot is: 9592
-pivot is: 9591
-pivot is: 9617
-pivot is: 9605
-pivot is: 9599
-pivot is: 9598
-pivot is: 9597
-pivot is: 9595
-pivot is: 9604
-pivot is: 9603
-pivot is: 9602
-pivot is: 9601
-pivot is: 9612
-pivot is: 9607
-pivot is: 9609
-pivot is: 9610
-pivot is: 9614
-pivot is: 9616
-pivot is: 9635
-pivot is: 9623
-pivot is: 9622
-pivot is: 9618
-pivot is: 9621
-pivot is: 9619
-pivot is: 9630
-pivot is: 9624
-pivot is: 9625
-pivot is: 9626
-pivot is: 9627
-pivot is: 9628
-pivot is: 9632
-pivot is: 9634
-pivot is: 9655
-pivot is: 9644
-pivot is: 9639
-pivot is: 9636
-pivot is: 9637
-pivot is: 9641
-pivot is: 9643
-pivot is: 9649
-pivot is: 9646
-pivot is: 9648
-pivot is: 9654
-pivot is: 9652
-pivot is: 9650
-pivot is: 9749
-pivot is: 9731
-pivot is: 9710
-pivot is: 9686
-pivot is: 9665
-pivot is: 9664
-pivot is: 9660
-pivot is: 9657
-pivot is: 9658
-pivot is: 9662
-pivot is: 9671
-pivot is: 9667
-pivot is: 9668
-pivot is: 9669
-pivot is: 9674
-pivot is: 9673
-pivot is: 9678
-pivot is: 9676
-pivot is: 9679
-pivot is: 9683
-pivot is: 9680
-pivot is: 9682
-pivot is: 9684
-pivot is: 9687
-pivot is: 9694
-pivot is: 9688
-pivot is: 9692
-pivot is: 9689
-pivot is: 9691
-pivot is: 9697
-pivot is: 9695
-pivot is: 9706
-pivot is: 9701
-pivot is: 9700
-pivot is: 9698
-pivot is: 9702
-pivot is: 9703
-pivot is: 9705
-pivot is: 9709
-pivot is: 9708
-pivot is: 9722
-pivot is: 9713
-pivot is: 9711
-pivot is: 9719
-pivot is: 9714
-pivot is: 9717
-pivot is: 9715
-pivot is: 9720
-pivot is: 9729
-pivot is: 9728
-pivot is: 9725
-pivot is: 9724
-pivot is: 9727
-pivot is: 9732
-pivot is: 9741
-pivot is: 9739
-pivot is: 9736
-pivot is: 9735
-pivot is: 9733
-pivot is: 9738
-pivot is: 9745
-pivot is: 9744
-pivot is: 9743
-pivot is: 9746
-pivot is: 9748
-pivot is: 9804
-pivot is: 9769
-pivot is: 9760
-pivot is: 9751
-pivot is: 9759
-pivot is: 9753
-pivot is: 9755
-pivot is: 9757
-pivot is: 9768
-pivot is: 9763
-pivot is: 9761
-pivot is: 9767
-pivot is: 9765
-pivot is: 9778
-pivot is: 9777
-pivot is: 9774
-pivot is: 9771
-pivot is: 9773
-pivot is: 9776
-pivot is: 9781
-pivot is: 9780
-pivot is: 9796
-pivot is: 9794
-pivot is: 9791
-pivot is: 9787
-pivot is: 9786
-pivot is: 9784
-pivot is: 9783
-pivot is: 9789
-pivot is: 9793
-pivot is: 9798
-pivot is: 9799
-pivot is: 9800
-pivot is: 9801
-pivot is: 9803
-pivot is: 9816
-pivot is: 9812
-pivot is: 9809
-pivot is: 9805
-pivot is: 9806
-pivot is: 9808
-pivot is: 9811
-pivot is: 9815
-pivot is: 9814
-pivot is: 9818
-pivot is: 9825
-pivot is: 9824
-pivot is: 9821
-pivot is: 9820
-pivot is: 9823
-pivot is: 9830
-pivot is: 9826
-pivot is: 9828
-pivot is: 9831
-pivot is: 9839
-pivot is: 9837
-pivot is: 9834
-pivot is: 9836
-pivot is: 9951
-pivot is: 9928
-pivot is: 9849
-pivot is: 9841
-pivot is: 9847
-pivot is: 9846
-pivot is: 9844
-pivot is: 9842
-pivot is: 9871
-pivot is: 9857
-pivot is: 9856
-pivot is: 9852
-pivot is: 9851
-pivot is: 9853
-pivot is: 9855
-pivot is: 9863
-pivot is: 9862
-pivot is: 9859
-pivot is: 9861
-pivot is: 9865
-pivot is: 9869
-pivot is: 9868
-pivot is: 9866
-pivot is: 9890
-pivot is: 9880
-pivot is: 9879
-pivot is: 9878
-pivot is: 9873
-pivot is: 9874
-pivot is: 9875
-pivot is: 9877
-pivot is: 9881
-pivot is: 9882
-pivot is: 9888
-pivot is: 9886
-pivot is: 9883
-pivot is: 9884
-pivot is: 9896
-pivot is: 9895
-pivot is: 9891
-pivot is: 9893
-pivot is: 9901
-pivot is: 9898
-pivot is: 9900
-pivot is: 9909
-pivot is: 9905
-pivot is: 9904
-pivot is: 9902
-pivot is: 9907
-pivot is: 9920
-pivot is: 9915
-pivot is: 9914
-pivot is: 9911
-pivot is: 9912
-pivot is: 9916
-pivot is: 9919
-pivot is: 9917
-pivot is: 9921
-pivot is: 9923
-pivot is: 9924
-pivot is: 9926
-pivot is: 9936
-pivot is: 9933
-pivot is: 9929
-pivot is: 9930
-pivot is: 9931
-pivot is: 9934
-pivot is: 9938
-pivot is: 9950
-pivot is: 9942
-pivot is: 9941
-pivot is: 9940
-pivot is: 9948
-pivot is: 9947
-pivot is: 9946
-pivot is: 9945
-pivot is: 9943
-pivot is: 9971
-pivot is: 9964
-pivot is: 9957
-pivot is: 9956
-pivot is: 9955
-pivot is: 9953
-pivot is: 9958
-pivot is: 9963
-pivot is: 9959
-pivot is: 9962
-pivot is: 9960
-pivot is: 9970
-pivot is: 9967
-pivot is: 9966
-pivot is: 9968
-pivot is: 9979
-pivot is: 9974
-pivot is: 9972
-pivot is: 9977
-pivot is: 9975
-pivot is: 9997
-pivot is: 9993
-pivot is: 9987
-pivot is: 9981
-pivot is: 9983
-pivot is: 9984
-pivot is: 9986
-pivot is: 9990
-pivot is: 9989
-pivot is: 9992
-pivot is: 9994
-pivot is: 9996
-pivot is: 10000
-pivot is: 9998
+current vertex is: 1
+corresponding adjacencies are: 37 79 164 155 32 87 39 113 15 18 78 175 140 200 4 160 97 191 100 91 20 69 198 196 
+current vertex is: 2
+corresponding adjacencies are: 123 134 10 141 13 12 43 47 3 177 101 179 77 182 117 116 36 103 51 154 162 128 30 
+current vertex is: 3
+corresponding adjacencies are: 48 123 134 109 41 17 159 49 136 16 130 141 29 176 2 190 66 153 157 70 114 65 173 104 194 54 
+current vertex is: 4
+corresponding adjacencies are: 91 171 118 125 158 76 107 18 73 140 42 193 127 100 84 121 60 81 99 80 150 55 1 35 23 93 
+current vertex is: 5
+corresponding adjacencies are: 193 156 102 118 175 39 124 119 19 99 160 75 20 112 37 23 145 135 146 73 35 
+current vertex is: 6
+corresponding adjacencies are: 155 56 52 120 131 160 124 119 14 196 144 25 75 76 166 35 87 26 20 32 23 
+current vertex is: 7
+corresponding adjacencies are: 156 185 178 79 27 52 144 107 78 22 71 26 31 15 56 76 112 39 8 113 93 
+current vertex is: 8
+corresponding adjacencies are: 185 155 171 178 108 64 164 53 140 25 100 133 9 52 191 46 20 150 144 39 62 131 42 119 127 31 7 
+current vertex is: 9
+corresponding adjacencies are: 91 155 8 160 107 132 195 26 20 133 39 76 100 78 122 127 38 156 191 196 115 
+current vertex is: 10
+corresponding adjacencies are: 190 184 154 49 2 182 173 170 161 47 189 101 153 50 30 109 177 148 179 16 163 116 13 90 185 
+current vertex is: 11
+corresponding adjacencies are: 123 134 163 41 12 28 130 13 101 83 77 109 114 21 82 88 74 24 94 48 33 
+current vertex is: 12
+corresponding adjacencies are: 161 109 169 21 24 36 65 50 2 101 159 148 54 192 88 47 11 142 43 70 182 177 179 189 194 33 
+current vertex is: 13
+corresponding adjacencies are: 161 141 157 44 83 90 181 41 2 176 10 29 116 134 182 170 165 173 190 159 47 82 111 142 72 154 110 21 103 130 11 33 138 152 
+current vertex is: 14
+corresponding adjacencies are: 91 156 58 122 62 113 107 73 137 25 19 40 6 139 150 46 37 76 39 127 
+current vertex is: 15
+corresponding adjacencies are: 149 58 68 52 39 67 121 191 1 45 100 18 118 174 40 85 196 122 42 193 119 139 26 127 145 135 57 38 7 
+current vertex is: 16
+corresponding adjacencies are: 48 10 36 187 43 3 114 173 111 142 129 88 189 117 128 147 141 194 180 106 167 179 66 74 136 51 59 
+current vertex is: 17
+corresponding adjacencies are: 48 123 134 36 163 3 44 117 167 161 152 95 170 83 180 77 65 72 109 47 43 88 159 197 28 194 181 49 
+current vertex is: 18
+corresponding adjacencies are: 193 149 56 62 15 160 67 191 140 52 178 96 107 132 1 145 89 198 4 26 73 151 126 34 115 
+current vertex is: 19
+corresponding adjacencies are: 156 80 178 164 108 84 71 174 40 62 113 22 89 45 91 126 195 144 5 14 172 
+current vertex is: 20
+corresponding adjacencies are: 185 122 171 56 8 52 73 191 67 126 9 119 1 89 79 107 96 31 75 55 5 6 34 23 
+current vertex is: 21
+corresponding adjacencies are: 188 187 12 173 180 197 138 167 63 111 95 13 192 116 94 114 105 49 177 51 130 90 11 50 66 157 176 
+current vertex is: 22
+corresponding adjacencies are: 156 27 32 131 7 56 53 81 149 23 100 146 115 26 175 121 96 75 57 39 119 71 132 19 150 140 93 
+current vertex is: 23
+corresponding adjacencies are: 91 122 124 22 200 195 145 5 69 125 55 68 156 20 58 191 4 57 149 6 
+current vertex is: 24
+corresponding adjacencies are: 123 134 161 163 169 72 116 167 30 33 77 162 143 159 187 63 184 130 28 50 153 12 148 11 53 
+current vertex is: 25
+corresponding adjacencies are: 193 185 79 108 8 158 87 73 81 115 39 64 178 132 27 68 127 84 14 52 200 97 6 93 
+current vertex is: 26
+corresponding adjacencies are: 193 58 27 108 52 144 160 18 84 81 22 75 139 166 15 107 198 131 7 9 133 6 
+current vertex is: 27
+corresponding adjacencies are: 156 139 144 166 112 100 26 174 31 42 75 158 122 81 22 7 58 73 89 115 39 25 200 69 169 
+current vertex is: 28
+corresponding adjacencies are: 134 188 24 184 159 29 72 114 152 116 169 173 141 17 111 61 192 90 11 177 179 77 33 66 83 136 
+current vertex is: 29
+corresponding adjacencies are: 48 134 188 13 47 88 3 82 92 28 194 50 192 189 123 199 177 147 43 106 148 197 77 103 129 181 
+current vertex is: 30
+corresponding adjacencies are: 165 123 10 24 41 187 47 168 92 148 197 101 50 2 179 111 130 77 153 199 70 
+current vertex is: 31
+corresponding adjacencies are: 27 171 56 131 146 139 191 89 20 108 38 71 75 69 196 149 97 8 86 98 7 
+current vertex is: 32
+corresponding adjacencies are: 156 149 171 62 22 185 35 124 56 38 158 97 53 121 160 1 191 58 89 127 87 120 39 99 84 60 151 174 6 
+current vertex is: 33
+corresponding adjacencies are: 48 161 109 141 24 187 47 88 168 183 110 103 95 116 28 12 11 13 83 134 63 
+current vertex is: 34
+corresponding adjacencies are: 37 122 171 118 76 131 166 137 40 46 97 87 80 164 127 18 62 52 20 139 
+current vertex is: 35
+corresponding adjacencies are: 79 164 125 32 107 137 75 121 85 55 69 45 193 132 4 5 200 135 76 139 198 6 
+current vertex is: 36
+corresponding adjacencies are: 165 188 17 106 88 16 177 110 147 154 159 179 136 41 50 141 66 162 152 168 184 12 43 72 180 190 77 2 170 61 122 
+current vertex is: 37
+corresponding adjacencies are: 193 149 39 121 191 115 146 52 127 79 198 58 125 38 34 1 76 89 164 97 86 178 108 87 84 124 98 174 195 14 5 57 196 186 
+current vertex is: 38
+corresponding adjacencies are: 193 37 86 32 76 107 73 85 127 100 46 89 31 57 96 158 99 160 45 15 9 
+current vertex is: 39
+corresponding adjacencies are: 193 37 122 102 8 158 32 87 85 81 200 60 5 27 155 1 58 150 15 113 76 84 22 25 151 139 100 14 145 9 7 
+current vertex is: 40
+corresponding adjacencies are: 91 156 122 79 118 125 52 175 87 15 81 166 132 121 19 14 160 34 78 71 
+current vertex is: 41
+corresponding adjacencies are: 36 169 184 116 163 106 189 11 104 61 30 123 129 111 3 47 49 154 161 152 13 153 65 92 183 177 162 95 54 70 108 
+current vertex is: 42
+corresponding adjacencies are: 178 79 27 53 171 164 102 52 87 113 15 191 131 91 62 193 8 122 89 56 4 127 145 112 
+current vertex is: 43
+corresponding adjacencies are: 165 161 12 70 199 54 17 190 16 153 141 36 47 44 194 110 82 189 2 148 183 29 130 94 170 51 61 59 
+current vertex is: 44
+corresponding adjacencies are: 188 163 169 17 13 43 114 173 142 154 103 129 181 105 157 148 182 101 110 66 176 49 
+current vertex is: 45
+corresponding adjacencies are: 156 80 149 58 178 53 108 68 56 125 15 93 75 135 174 198 81 166 113 100 19 89 35 97 38 
+current vertex is: 46
+corresponding adjacencies are: 193 58 86 122 155 8 175 160 99 127 67 14 150 144 126 146 34 131 55 38 196 
+current vertex is: 47
+corresponding adjacencies are: 123 10 109 41 17 12 43 116 59 33 13 2 187 165 88 117 29 30 176 147 180 101 130 194 50 94 152 70 
+current vertex is: 48
+corresponding adjacencies are: 180 128 188 197 105 51 94 190 116 29 183 114 153 33 16 49 3 63 184 17 141 168 179 162 11 66 83 193 
+current vertex is: 49
+corresponding adjacencies are: 48 123 10 186 141 41 168 3 148 142 179 21 136 109 44 117 17 103 187 74 
+current vertex is: 50
+corresponding adjacencies are: 165 123 10 188 36 169 24 187 12 65 29 167 47 21 134 130 111 168 77 116 138 106 66 30 
+current vertex is: 51
+corresponding adjacencies are: 165 48 109 141 163 159 92 190 143 2 21 138 43 59 192 117 16 184 104 169 
+current vertex is: 52
+corresponding adjacencies are: 37 178 8 6 15 200 133 80 102 96 40 119 164 166 127 151 20 42 7 26 76 18 73 99 78 25 132 139 191 150 34 
+current vertex is: 53
+corresponding adjacencies are: 156 122 102 193 137 133 42 62 45 64 60 78 160 132 155 56 144 131 196 178 125 8 32 113 22 98 121 198 24 
+current vertex is: 54
+corresponding adjacencies are: 123 187 12 43 168 65 129 130 147 95 41 61 59 141 3 138 114 199 66 110 
+current vertex is: 55
+corresponding adjacencies are: 68 56 125 113 73 78 200 46 131 85 107 89 185 60 84 4 35 99 171 71 20 23 
+current vertex is: 56
+corresponding adjacencies are: 193 122 53 108 45 55 18 125 86 171 79 6 85 133 80 140 96 31 107 20 32 87 120 42 73 84 22 112 196 7 
+current vertex is: 57
+corresponding adjacencies are: 79 155 158 76 84 22 75 121 85 191 100 97 15 37 102 69 38 64 195 145 23 
+current vertex is: 58
+corresponding adjacencies are: 15 146 107 193 140 84 144 86 14 150 26 60 46 166 80 87 139 195 126 45 37 27 102 62 32 175 39 124 23 93 188 
+current vertex is: 59
+corresponding adjacencies are: 186 163 187 47 168 92 143 147 157 54 51 61 199 43 103 63 184 16 188 197 
+current vertex is: 60
+corresponding adjacencies are: 58 86 178 53 171 125 39 144 146 73 124 4 93 32 99 158 132 80 91 96 75 174 55 196 
+current vertex is: 61
+corresponding adjacencies are: 188 116 41 114 183 28 77 54 36 163 187 147 179 65 63 190 43 186 59 189 
+current vertex is: 62
+corresponding adjacencies are: 193 185 79 53 171 102 146 84 198 14 58 137 8 166 175 32 113 18 115 196 42 200 132 121 19 112 133 172 34 
+current vertex is: 63
+corresponding adjacencies are: 48 24 116 183 111 167 21 162 90 181 147 105 106 101 33 123 153 184 128 168 61 59 
+current vertex is: 64
+corresponding adjacencies are: 91 149 122 53 8 120 113 124 119 25 132 131 193 121 144 68 185 108 175 107 57 
+current vertex is: 65
+corresponding adjacencies are: 186 17 12 114 82 3 66 159 167 197 50 101 176 94 54 134 41 165 157 194 180 77 103 74 61 
+current vertex is: 66
+corresponding adjacencies are: 188 36 116 3 65 183 72 180 77 16 136 177 82 159 28 95 48 50 187 21 44 54 176 
+current vertex is: 67
+corresponding adjacencies are: 91 156 102 68 175 131 144 15 18 146 119 20 200 46 112 139 75 80 86 137 
+current vertex is: 68
+corresponding adjacencies are: 122 171 55 78 175 96 75 71 93 118 195 115 67 79 45 158 15 120 155 193 87 146 81 25 64 23 
+current vertex is: 69
+corresponding adjacencies are: 91 108 125 131 81 75 85 174 145 89 27 200 35 156 1 98 86 23 191 127 31 57 
+current vertex is: 70
+corresponding adjacencies are: 165 123 163 153 12 43 168 3 114 82 148 190 129 74 176 47 110 181 41 30 
+current vertex is: 71
+corresponding adjacencies are: 193 79 171 68 124 98 120 73 75 93 151 108 89 155 19 96 22 119 7 125 85 127 40 55 140 31 
+current vertex is: 72
+corresponding adjacencies are: 109 169 24 116 17 114 182 190 141 186 192 28 104 13 66 165 162 36 159 77 110 129 130 181 
+current vertex is: 73
+corresponding adjacencies are: 91 80 27 160 4 20 100 56 193 60 38 18 25 172 76 14 55 52 149 96 78 71 195 127 5 112 97 93 
+current vertex is: 74
+corresponding adjacencies are: 88 104 197 111 130 95 11 138 123 77 159 65 179 94 165 70 141 16 153 136 83 49 
+current vertex is: 75
+corresponding adjacencies are: 91 79 27 171 68 158 87 81 22 119 71 166 57 60 35 160 69 175 26 193 45 127 67 126 89 20 5 31 198 6 
+current vertex is: 76
+corresponding adjacencies are: 37 178 175 120 122 57 52 34 4 156 98 115 133 131 171 149 85 38 174 39 73 99 14 140 35 135 172 9 7 6 
+current vertex is: 77
+corresponding adjacencies are: 24 116 17 72 190 110 36 173 143 94 65 29 61 154 2 161 90 66 159 28 128 117 11 50 138 74 30 
+current vertex is: 78
+corresponding adjacencies are: 156 80 53 164 68 131 144 107 73 195 55 175 1 126 7 149 171 81 91 52 124 40 9 
+current vertex is: 79
+corresponding adjacencies are: 80 37 158 40 75 108 198 25 62 42 7 86 57 102 122 145 175 71 1 35 164 68 118 56 144 200 139 20 112 135 172 163 
+current vertex is: 80
+corresponding adjacencies are: 91 144 100 118 45 78 139 112 149 98 113 87 195 124 85 73 119 19 79 99 58 56 52 146 81 4 60 137 67 126 145 97 34 134 
+current vertex is: 81
+corresponding adjacencies are: 86 27 120 39 131 40 132 25 69 96 26 127 108 75 68 135 98 80 115 149 78 22 4 45 172 
+current vertex is: 82
+corresponding adjacencies are: 161 186 109 153 43 159 114 101 104 70 29 197 192 116 148 65 152 184 13 154 92 110 130 11 147 66 176 
+current vertex is: 83
+corresponding adjacencies are: 17 13 153 88 111 90 117 95 11 33 147 28 109 199 48 74 167 182 154 101 
+current vertex is: 84
+corresponding adjacencies are: 149 58 86 178 171 62 175 113 26 135 96 198 39 19 57 144 37 118 32 56 119 4 98 25 200 150 55 
+current vertex is: 85
+corresponding adjacencies are: 156 80 185 155 102 56 158 39 76 15 69 38 150 175 118 137 71 35 120 57 55 135 
+current vertex is: 86
+corresponding adjacencies are: 58 84 120 81 112 37 60 46 185 193 38 125 118 175 149 99 108 126 133 102 79 56 144 67 69 31 109 
+current vertex is: 87
+corresponding adjacencies are: 80 149 58 118 25 75 126 115 68 178 37 200 32 40 164 56 42 193 107 1 39 113 145 89 172 6 34 93 
+current vertex is: 88
+corresponding adjacencies are: 36 116 12 47 165 168 29 83 159 154 74 148 92 176 180 33 110 194 167 17 114 173 16 11 
+current vertex is: 89
+corresponding adjacencies are: 37 27 102 32 42 18 99 71 151 19 55 75 98 131 69 45 31 38 195 87 20 135 115 
+current vertex is: 90
+corresponding adjacencies are: 163 116 13 173 28 110 190 77 129 117 130 10 179 92 134 194 21 63 83 157 94 152 199 
+current vertex is: 91
+corresponding adjacencies are: 126 14 75 135 107 80 102 67 160 158 144 23 64 155 4 198 40 9 73 69 193 185 149 164 42 78 60 98 19 1 165 
+current vertex is: 92
+corresponding adjacencies are: 161 109 163 187 88 186 141 51 117 197 59 173 192 82 29 143 116 41 30 111 148 129 90 194 152 170 
+current vertex is: 93
+corresponding adjacencies are: 68 99 71 60 45 150 145 98 25 87 122 178 185 7 144 4 22 73 58 112 
+current vertex is: 94
+corresponding adjacencies are: 48 163 65 173 182 154 77 21 117 11 147 74 189 43 114 47 177 192 104 90 
+current vertex is: 95
+corresponding adjacencies are: 123 141 169 17 168 114 179 21 33 165 167 177 41 103 83 199 129 182 188 74 66 157 152 54 176 
+current vertex is: 96
+corresponding adjacencies are: 171 164 68 56 52 18 73 84 81 124 22 71 60 126 150 20 97 38 149 158 196 115 
+current vertex is: 97
+corresponding adjacencies are: 185 149 37 178 122 108 118 32 131 1 31 140 73 34 45 25 80 133 57 96 
+current vertex is: 98
+corresponding adjacencies are: 80 171 164 158 120 76 99 81 71 37 91 151 144 172 140 150 160 121 84 53 139 89 69 31 133 93 
+current vertex is: 99
+corresponding adjacencies are: 80 86 178 122 118 125 52 193 32 174 46 113 98 93 89 150 102 76 100 124 4 60 55 5 38 196 
+current vertex is: 100
+corresponding adjacencies are: 80 185 149 27 8 113 131 15 73 99 22 4 200 45 102 172 57 164 38 39 1 112 9 
+current vertex is: 101
+corresponding adjacencies are: 165 10 188 109 141 163 187 12 168 82 65 148 180 47 167 2 162 169 192 30 179 11 44 83 170 63 
+current vertex is: 102
+corresponding adjacencies are: 91 86 79 53 171 155 67 113 39 137 158 196 166 120 42 89 58 5 119 85 62 52 146 99 121 100 57 
+current vertex is: 103
+corresponding adjacencies are: 161 188 186 184 153 159 167 189 2 168 13 29 104 142 33 65 197 117 148 44 95 181 59 49 
+current vertex is: 104
+corresponding adjacencies are: 134 188 186 141 184 41 187 168 114 82 148 192 194 154 74 3 190 161 105 163 72 103 94 170 51 
+current vertex is: 105
+corresponding adjacencies are: 165 48 161 116 159 104 21 129 63 44 169 106 142 190 181 143 179 157 173 188 199 176 
+current vertex is: 106
+corresponding adjacencies are: 36 163 169 184 41 159 29 197 111 16 179 162 105 138 148 50 165 63 173 109 
+current vertex is: 107
+corresponding adjacencies are: 91 58 56 125 158 87 191 133 9 38 122 164 175 135 4 35 14 7 185 78 18 146 151 26 64 126 55 20 112 198 172 
+current vertex is: 108
+corresponding adjacencies are: 86 178 79 164 37 25 195 144 120 198 26 56 19 132 69 193 115 45 172 97 155 8 81 71 166 139 174 64 31 41 
+current vertex is: 109
+corresponding adjacencies are: 10 47 116 12 128 51 167 180 179 33 123 101 142 92 143 199 154 3 72 82 141 17 168 114 173 183 148 189 11 181 106 83 152 49 86 
+current vertex is: 110
+corresponding adjacencies are: 165 186 36 163 169 43 88 168 33 138 147 13 167 189 184 134 72 90 188 82 77 44 54 70 
+current vertex is: 111
+corresponding adjacencies are: 41 92 114 162 188 129 187 170 152 83 142 74 157 16 13 138 186 106 63 184 28 21 50 30 192 
+current vertex is: 112
+corresponding adjacencies are: 193 80 86 27 137 174 67 5 79 198 132 127 42 131 100 73 107 56 135 62 7 93 
+current vertex is: 113
+corresponding adjacencies are: 156 80 149 171 102 62 39 133 84 87 198 1 53 64 55 172 122 100 42 14 160 99 124 137 45 19 145 7 
+current vertex is: 114
+corresponding adjacencies are: 48 104 136 16 61 72 181 128 82 88 138 109 129 70 192 3 153 65 95 44 111 28 21 11 94 54 
+current vertex is: 115
+corresponding adjacencies are: 185 37 27 108 68 62 87 120 76 81 22 25 151 139 191 140 9 89 96 18 
+current vertex is: 116
+corresponding adjacencies are: 48 188 109 24 157 61 41 181 128 66 88 63 152 189 168 90 105 72 77 10 13 47 82 173 92 142 28 180 2 21 117 50 33 136 164 
+current vertex is: 117
+corresponding adjacencies are: 17 47 92 16 179 2 103 90 194 189 192 94 143 170 162 83 116 129 184 77 138 152 51 49 
+current vertex is: 118
+corresponding adjacencies are: 193 156 80 86 155 68 196 145 40 4 97 79 5 99 87 149 174 34 137 166 131 15 160 84 121 85 
+current vertex is: 119
+corresponding adjacencies are: 80 178 102 52 160 124 84 185 6 22 67 174 8 121 133 5 75 64 15 150 71 151 145 20 
+current vertex is: 120
+corresponding adjacencies are: 185 86 171 108 102 68 200 193 126 64 160 32 150 6 115 98 81 56 191 76 124 71 139 85 195 135 
+current vertex is: 121
+corresponding adjacencies are: 156 185 37 32 15 146 22 119 4 98 151 57 62 126 53 139 40 102 35 118 64 135 133 
+current vertex is: 122
+corresponding adjacencies are: 156 146 23 99 196 46 14 56 53 175 164 20 68 39 195 126 97 40 34 64 79 27 155 113 76 131 15 42 107 166 151 9 93 36 
+current vertex is: 123
+corresponding adjacencies are: 165 194 50 70 95 11 153 30 24 17 49 47 54 2 189 147 199 3 188 197 186 109 41 29 129 130 128 74 136 63 156 
+current vertex is: 124
+corresponding adjacencies are: 193 80 125 32 146 99 23 5 60 113 120 191 6 58 64 119 71 37 78 96 137 
+current vertex is: 125
+corresponding adjacencies are: 37 86 56 4 133 69 178 132 53 172 45 60 151 40 198 55 35 107 99 124 71 137 127 23 
+current vertex is: 126
+corresponding adjacencies are: 91 58 86 122 155 87 120 146 78 200 121 19 80 20 137 75 96 107 18 156 46 135 
+current vertex is: 127
+corresponding adjacencies are: 37 178 32 52 131 160 81 4 25 191 125 38 71 15 8 42 75 46 174 73 14 69 112 172 9 34 
+current vertex is: 128
+corresponding adjacencies are: 48 134 161 109 116 187 114 183 16 179 189 130 181 142 123 138 2 136 77 152 63 
+current vertex is: 129
+corresponding adjacencies are: 165 184 41 153 114 148 111 177 16 180 44 29 123 54 173 72 92 70 199 105 90 117 95 157 
+current vertex is: 130
+corresponding adjacencies are: 186 169 24 3 154 189 21 136 72 82 74 190 11 47 13 173 54 181 43 123 90 128 50 138 30 176 
+current vertex is: 131
+corresponding adjacencies are: 193 53 76 78 22 69 97 118 178 122 140 81 34 164 8 100 127 67 31 6 42 146 200 195 26 64 46 55 89 112 
+current vertex is: 132
+corresponding adjacencies are: 185 149 53 171 108 125 18 81 60 25 139 191 178 64 52 9 62 22 40 164 35 112 
+current vertex is: 133
+corresponding adjacencies are: 86 53 56 125 8 52 113 76 107 119 195 97 156 98 121 62 140 26 175 9 
+current vertex is: 134
+corresponding adjacencies are: 153 11 17 182 165 197 138 173 24 28 104 128 29 2 167 152 183 3 162 154 186 13 65 142 110 90 50 33 157 80 
+current vertex is: 135
+corresponding adjacencies are: 91 171 164 107 84 81 45 5 35 112 120 15 151 85 76 79 178 121 126 89 
+current vertex is: 136
+corresponding adjacencies are: 165 36 187 3 114 173 190 130 128 66 74 152 123 154 116 28 49 153 16 169 
+current vertex is: 137
+corresponding adjacencies are: 156 185 53 155 102 118 62 166 175 200 151 112 113 14 124 80 146 35 125 34 85 67 126 145 172 
+current vertex is: 138
+corresponding adjacencies are: 134 186 153 114 111 142 110 179 21 128 130 117 197 169 77 13 74 51 180 50 106 54 
+current vertex is: 139
+corresponding adjacencies are: 80 58 27 164 132 121 108 115 140 31 79 98 15 160 52 26 171 39 195 120 67 14 35 196 34 
+current vertex is: 140
+corresponding adjacencies are: 185 58 56 8 175 131 144 18 4 166 98 139 1 195 22 156 71 76 178 115 97 133 
+current vertex is: 141
+corresponding adjacencies are: 109 104 184 2 143 188 51 49 33 197 48 176 95 159 148 101 154 13 170 190 36 43 3 92 72 16 28 167 180 147 74 54 178 
+current vertex is: 142
+corresponding adjacencies are: 161 109 169 12 183 111 163 187 162 180 16 165 116 184 138 44 13 49 134 143 177 103 128 181 105 192 
+current vertex is: 143
+corresponding adjacencies are: 165 161 109 141 24 184 168 92 142 154 180 51 147 179 176 183 189 59 159 167 77 117 105 152 
+current vertex is: 144
+corresponding adjacencies are: 91 80 58 178 27 53 164 108 8 158 60 79 67 155 78 140 7 86 26 174 84 98 64 19 46 145 6 93 
+current vertex is: 145
+corresponding adjacencies are: 178 79 155 118 18 151 69 39 113 42 119 93 80 144 87 15 137 23 158 166 5 57 172 
+current vertex is: 146
+corresponding adjacencies are: 149 58 37 122 62 60 68 107 31 67 172 195 121 131 102 185 174 124 126 80 22 137 46 5 
+current vertex is: 147
+corresponding adjacencies are: 123 186 36 47 183 29 182 197 16 167 110 143 168 83 82 141 63 94 54 59 157 170 61 
+current vertex is: 148
+corresponding adjacencies are: 10 188 186 141 163 12 43 88 82 109 192 70 161 30 129 24 92 49 177 29 104 197 154 101 103 162 181 106 44 176 
+current vertex is: 149
+corresponding adjacencies are: 156 80 200 146 15 185 87 91 100 45 37 178 18 32 64 132 97 84 150 113 86 118 76 73 81 78 22 31 96 23 161 
+current vertex is: 150
+corresponding adjacencies are: 149 58 8 175 120 39 99 119 166 98 200 85 14 4 46 96 84 22 93 52 
+current vertex is: 151
+corresponding adjacencies are: 125 52 160 71 166 98 137 145 122 171 119 193 175 32 121 107 115 18 39 89 135 196 
+current vertex is: 152
+corresponding adjacencies are: 134 161 36 116 41 17 82 111 28 128 157 13 92 47 143 117 109 90 95 136 170 
+current vertex is: 153
+corresponding adjacencies are: 165 48 123 134 10 186 138 187 103 82 70 163 129 188 170 173 24 83 167 41 43 3 114 154 180 74 136 63 30 
+current vertex is: 154
+corresponding adjacencies are: 134 10 109 141 36 41 88 159 82 104 143 148 197 44 13 94 130 162 177 153 167 77 2 83 136 170 
+current vertex is: 155
+corresponding adjacencies are: 91 185 53 164 108 145 171 200 6 122 8 9 85 57 1 137 126 102 118 46 68 158 39 144 160 71 172 
+current vertex is: 156
+corresponding adjacencies are: 7 53 113 45 14 193 122 40 67 19 121 22 118 78 5 137 166 149 32 85 178 27 158 76 126 140 69 133 9 23 123 
+current vertex is: 157
+corresponding adjacencies are: 184 116 13 3 65 111 90 105 187 147 152 134 59 95 186 197 44 170 129 21 
+current vertex is: 158
+corresponding adjacencies are: 91 193 79 27 102 68 32 75 156 107 185 144 4 57 39 155 98 171 85 25 175 60 145 38 96 
+current vertex is: 159
+corresponding adjacencies are: 188 141 36 24 13 12 88 103 105 179 177 17 3 182 51 82 28 161 154 106 65 183 72 143 77 66 74 
+current vertex is: 160
+corresponding adjacencies are: 91 185 53 32 120 155 6 9 18 127 171 118 113 119 151 26 46 195 200 73 98 75 139 40 1 5 198 38 
+current vertex is: 161
+corresponding adjacencies are: 165 10 24 173 142 182 162 92 13 152 33 82 189 43 143 128 103 186 105 12 188 184 41 17 159 148 104 180 77 194 170 149 
+current vertex is: 162
+corresponding adjacencies are: 134 161 188 186 36 24 173 182 111 142 72 154 101 48 148 2 179 106 63 41 117 
+current vertex is: 163
+corresponding adjacencies are: 177 92 10 148 101 44 169 59 110 188 17 51 90 186 94 11 24 70 106 182 41 153 187 104 142 190 61 79 
+current vertex is: 164
+corresponding adjacencies are: 185 37 122 175 139 144 91 35 19 96 98 78 155 1 108 198 42 135 79 195 8 52 87 131 107 166 132 100 34 116 
+current vertex is: 165
+corresponding adjacencies are: 30 105 36 101 167 183 43 50 70 189 181 190 161 123 136 51 143 129 153 110 134 169 13 47 88 65 142 72 95 106 74 91 
+current vertex is: 166
+corresponding adjacencies are: 156 58 27 102 118 62 52 191 140 164 40 122 151 108 75 174 137 196 150 34 200 45 26 145 6 
+current vertex is: 167
+corresponding adjacencies are: 165 134 109 24 17 153 187 88 168 65 182 177 154 16 194 141 103 50 147 63 110 101 179 143 21 95 83 
+current vertex is: 168
+corresponding adjacencies are: 36 169 116 88 48 70 30 33 101 104 109 110 143 181 167 54 199 49 59 95 177 180 103 50 147 63 
+current vertex is: 169
+corresponding adjacencies are: 163 50 184 12 176 106 41 194 173 168 110 142 44 95 130 24 165 182 72 177 197 28 101 138 105 136 51 27 
+current vertex is: 170
+corresponding adjacencies are: 10 186 141 17 13 153 111 117 157 92 161 152 147 104 179 154 43 101 36 199 
+current vertex is: 171
+corresponding adjacencies are: 34 60 68 31 20 42 62 4 120 71 32 135 113 175 84 102 132 96 98 75 155 56 8 158 76 160 78 151 139 55 184 
+current vertex is: 172
+corresponding adjacencies are: 185 108 125 113 146 73 98 174 100 155 81 79 76 127 87 137 107 19 62 145 
+current vertex is: 173
+corresponding adjacencies are: 134 10 161 169 13 153 109 162 44 21 88 182 3 190 179 136 90 16 116 94 92 28 77 129 130 105 106 
+current vertex is: 174
+corresponding adjacencies are: 27 118 175 76 144 15 146 99 119 166 45 32 19 172 191 60 108 37 69 112 127 
+current vertex is: 175
+corresponding adjacencies are: 86 122 79 171 164 68 62 84 140 5 40 196 46 174 150 67 58 76 193 158 107 78 22 137 75 151 85 195 64 1 133 
+current vertex is: 176
+corresponding adjacencies are: 141 169 13 47 88 3 65 183 177 143 148 82 105 130 66 181 44 21 182 95 70 
+current vertex is: 177
+corresponding adjacencies are: 10 36 163 169 159 29 148 190 12 199 167 176 180 2 192 168 142 41 179 129 154 28 21 95 66 94 
+current vertex is: 178
+corresponding adjacencies are: 149 76 19 52 127 108 45 156 60 198 99 37 144 7 97 145 84 119 42 191 53 125 8 87 131 18 25 132 195 140 135 93 141 
+current vertex is: 179
+corresponding adjacencies are: 10 109 36 159 173 177 49 117 12 48 101 189 2 138 128 95 106 28 167 16 143 162 90 105 74 170 199 30 61 
+current vertex is: 180
+corresponding adjacencies are: 48 109 17 88 142 177 16 65 194 36 153 116 161 66 143 141 129 47 168 21 101 181 138 
+current vertex is: 181
+corresponding adjacencies are: 165 188 184 116 13 168 114 182 130 128 44 103 148 63 29 142 180 17 109 72 105 176 70 
+current vertex is: 182
+corresponding adjacencies are: 134 10 161 163 169 184 13 159 173 183 147 189 162 181 12 72 167 94 199 192 2 95 44 83 176 
+current vertex is: 183
+corresponding adjacencies are: 165 48 134 188 186 63 33 147 43 61 109 142 159 66 41 128 182 176 190 184 143 189 
+current vertex is: 184
+corresponding adjacencies are: 48 10 141 169 24 143 41 161 181 36 129 197 104 186 182 28 106 157 103 199 82 183 111 142 110 117 63 51 59 171 
+current vertex is: 185
+corresponding adjacencies are: 193 140 8 97 7 121 160 155 85 172 91 100 164 132 25 120 20 62 137 115 149 86 32 158 107 146 119 64 55 93 10 
+current vertex is: 186
+corresponding adjacencies are: 161 104 199 162 148 110 138 183 153 103 192 82 130 123 59 49 147 134 65 170 163 184 187 92 197 111 72 157 61 37 
+current vertex is: 187
+corresponding adjacencies are: 24 153 186 92 189 54 33 59 21 167 163 101 136 50 197 16 104 128 192 30 47 111 142 66 157 61 49 
+current vertex is: 188
+corresponding adjacencies are: 48 123 50 104 36 101 148 66 161 44 28 21 162 116 183 103 159 181 61 29 141 163 153 111 110 190 95 105 59 58 
+current vertex is: 189
+corresponding adjacencies are: 165 123 10 161 116 41 187 43 29 182 197 16 110 179 143 12 183 103 199 109 130 128 194 117 94 61 
+current vertex is: 190
+corresponding adjacencies are: 165 48 10 141 13 43 3 173 183 104 177 72 36 77 188 90 136 51 163 70 130 105 61 
+current vertex is: 191
+corresponding adjacencies are: 193 37 178 8 32 120 15 42 107 18 124 166 132 174 20 52 57 31 115 127 1 69 9 23 
+current vertex is: 192
+corresponding adjacencies are: 186 187 12 114 82 92 29 148 104 182 177 72 28 101 21 117 94 51 111 142 
+current vertex is: 193
+corresponding adjacencies are: 26 112 191 62 195 25 91 39 71 158 131 46 5 38 37 185 18 118 124 56 156 58 86 53 108 68 175 87 120 15 42 73 99 4 75 151 64 35 48 
+current vertex is: 194
+corresponding adjacencies are: 123 169 43 88 65 29 104 16 167 180 90 189 161 199 47 92 3 12 17 117 
+current vertex is: 195
+corresponding adjacencies are: 193 80 58 122 164 108 68 160 146 78 139 23 120 178 133 73 175 37 131 9 19 89 140 57 
+current vertex is: 196
+corresponding adjacencies are: 122 53 102 118 62 175 15 166 31 9 37 6 99 151 56 139 46 1 96 60 
+current vertex is: 197
+corresponding adjacencies are: 48 123 134 141 184 187 82 65 92 106 148 147 199 29 17 30 189 186 74 169 154 21 103 138 157 59 
+current vertex is: 198
+corresponding adjacencies are: 91 37 178 79 164 108 125 62 113 18 84 45 26 112 35 107 160 53 1 75 
+current vertex is: 199
+corresponding adjacencies are: 123 186 109 184 43 168 29 182 197 177 189 129 194 95 83 170 54 105 90 179 30 59 
+current vertex is: 200
+corresponding adjacencies are: 149 155 52 87 120 39 160 137 27 79 131 100 25 55 23 126 84 166 150 62 67 1 69 35 
+filling took: 0.0223945s
+will run 1200 of randomized cut
+On iteration 0
+This iterations min cut was 31
+On iteration 1
+This iterations min cut was 20
+On iteration 2
+This iterations min cut was 23
+On iteration 3
+This iterations min cut was 64
+On iteration 4
+This iterations min cut was 23
+On iteration 5
+This iterations min cut was 59
+On iteration 6
+This iterations min cut was 41
+On iteration 7
+This iterations min cut was 71
+On iteration 8
+This iterations min cut was 33
+On iteration 9
+This iterations min cut was 17
+On iteration 10
+This iterations min cut was 52
+On iteration 11
+This iterations min cut was 51
+On iteration 12
+This iterations min cut was 22
+On iteration 13
+This iterations min cut was 17
+On iteration 14
+This iterations min cut was 29
+On iteration 15
+This iterations min cut was 49
+On iteration 16
+This iterations min cut was 20
+On iteration 17
+This iterations min cut was 40
+On iteration 18
+This iterations min cut was 23
+On iteration 19
+This iterations min cut was 28
+On iteration 20
+This iterations min cut was 112
+On iteration 21
+This iterations min cut was 20
+On iteration 22
+This iterations min cut was 87
+On iteration 23
+This iterations min cut was 96
+On iteration 24
+This iterations min cut was 52
+On iteration 25
+This iterations min cut was 21
+On iteration 26
+This iterations min cut was 31
+On iteration 27
+This iterations min cut was 17
+On iteration 28
+This iterations min cut was 78
+On iteration 29
+This iterations min cut was 181
+On iteration 30
+This iterations min cut was 58
+On iteration 31
+This iterations min cut was 75
+On iteration 32
+This iterations min cut was 22
+On iteration 33
+This iterations min cut was 96
+On iteration 34
+This iterations min cut was 26
+On iteration 35
+This iterations min cut was 24
+On iteration 36
+This iterations min cut was 31
+On iteration 37
+This iterations min cut was 227
+On iteration 38
+This iterations min cut was 25
+On iteration 39
+This iterations min cut was 42
+On iteration 40
+This iterations min cut was 20
+On iteration 41
+This iterations min cut was 24
+On iteration 42
+This iterations min cut was 30
+On iteration 43
+This iterations min cut was 70
+On iteration 44
+This iterations min cut was 119
+On iteration 45
+This iterations min cut was 75
+On iteration 46
+This iterations min cut was 43
+On iteration 47
+This iterations min cut was 24
+On iteration 48
+This iterations min cut was 24
+On iteration 49
+This iterations min cut was 21
+On iteration 50
+This iterations min cut was 17
+On iteration 51
+This iterations min cut was 22
+On iteration 52
+This iterations min cut was 20
+On iteration 53
+This iterations min cut was 17
+On iteration 54
+This iterations min cut was 35
+On iteration 55
+This iterations min cut was 21
+On iteration 56
+This iterations min cut was 17
+On iteration 57
+This iterations min cut was 29
+On iteration 58
+This iterations min cut was 25
+On iteration 59
+This iterations min cut was 87
+On iteration 60
+This iterations min cut was 135
+On iteration 61
+This iterations min cut was 24
+On iteration 62
+This iterations min cut was 17
+On iteration 63
+This iterations min cut was 17
+On iteration 64
+This iterations min cut was 47
+On iteration 65
+This iterations min cut was 20
+On iteration 66
+This iterations min cut was 72
+On iteration 67
+This iterations min cut was 24
+On iteration 68
+This iterations min cut was 22
+On iteration 69
+This iterations min cut was 26
+On iteration 70
+This iterations min cut was 62
+On iteration 71
+This iterations min cut was 68
+On iteration 72
+This iterations min cut was 49
+On iteration 73
+This iterations min cut was 65
+On iteration 74
+This iterations min cut was 24
+On iteration 75
+This iterations min cut was 421
+On iteration 76
+This iterations min cut was 104
+On iteration 77
+This iterations min cut was 17
+On iteration 78
+This iterations min cut was 49
+On iteration 79
+This iterations min cut was 23
+On iteration 80
+This iterations min cut was 23
+On iteration 81
+This iterations min cut was 442
+On iteration 82
+This iterations min cut was 148
+On iteration 83
+This iterations min cut was 136
+On iteration 84
+This iterations min cut was 30
+On iteration 85
+This iterations min cut was 41
+On iteration 86
+This iterations min cut was 17
+On iteration 87
+This iterations min cut was 20
+On iteration 88
+This iterations min cut was 17
+On iteration 89
+This iterations min cut was 60
+On iteration 90
+This iterations min cut was 20
+On iteration 91
+This iterations min cut was 20
+On iteration 92
+This iterations min cut was 26
+On iteration 93
+This iterations min cut was 24
+On iteration 94
+This iterations min cut was 25
+On iteration 95
+This iterations min cut was 22
+On iteration 96
+This iterations min cut was 25
+On iteration 97
+This iterations min cut was 24
+On iteration 98
+This iterations min cut was 25
+On iteration 99
+This iterations min cut was 30
+On iteration 100
+This iterations min cut was 27
+On iteration 101
+This iterations min cut was 17
+On iteration 102
+This iterations min cut was 27
+On iteration 103
+This iterations min cut was 44
+On iteration 104
+This iterations min cut was 42
+On iteration 105
+This iterations min cut was 21
+On iteration 106
+This iterations min cut was 17
+On iteration 107
+This iterations min cut was 46
+On iteration 108
+This iterations min cut was 99
+On iteration 109
+This iterations min cut was 118
+On iteration 110
+This iterations min cut was 20
+On iteration 111
+This iterations min cut was 20
+On iteration 112
+This iterations min cut was 27
+On iteration 113
+This iterations min cut was 20
+On iteration 114
+This iterations min cut was 22
+On iteration 115
+This iterations min cut was 17
+On iteration 116
+This iterations min cut was 20
+On iteration 117
+This iterations min cut was 591
+On iteration 118
+This iterations min cut was 22
+On iteration 119
+This iterations min cut was 65
+On iteration 120
+This iterations min cut was 17
+On iteration 121
+This iterations min cut was 35
+On iteration 122
+This iterations min cut was 150
+On iteration 123
+This iterations min cut was 20
+On iteration 124
+This iterations min cut was 26
+On iteration 125
+This iterations min cut was 20
+On iteration 126
+This iterations min cut was 17
+On iteration 127
+This iterations min cut was 63
+On iteration 128
+This iterations min cut was 63
+On iteration 129
+This iterations min cut was 31
+On iteration 130
+This iterations min cut was 17
+On iteration 131
+This iterations min cut was 74
+On iteration 132
+This iterations min cut was 25
+On iteration 133
+This iterations min cut was 23
+On iteration 134
+This iterations min cut was 22
+On iteration 135
+This iterations min cut was 25
+On iteration 136
+This iterations min cut was 22
+On iteration 137
+This iterations min cut was 25
+On iteration 138
+This iterations min cut was 66
+On iteration 139
+This iterations min cut was 21
+On iteration 140
+This iterations min cut was 110
+On iteration 141
+This iterations min cut was 21
+On iteration 142
+This iterations min cut was 398
+On iteration 143
+This iterations min cut was 20
+On iteration 144
+This iterations min cut was 81
+On iteration 145
+This iterations min cut was 398
+On iteration 146
+This iterations min cut was 24
+On iteration 147
+This iterations min cut was 20
+On iteration 148
+This iterations min cut was 92
+On iteration 149
+This iterations min cut was 31
+On iteration 150
+This iterations min cut was 51
+On iteration 151
+This iterations min cut was 21
+On iteration 152
+This iterations min cut was 135
+On iteration 153
+This iterations min cut was 17
+On iteration 154
+This iterations min cut was 25
+On iteration 155
+This iterations min cut was 26
+On iteration 156
+This iterations min cut was 20
+On iteration 157
+This iterations min cut was 25
+On iteration 158
+This iterations min cut was 72
+On iteration 159
+This iterations min cut was 102
+On iteration 160
+This iterations min cut was 67
+On iteration 161
+This iterations min cut was 17
+On iteration 162
+This iterations min cut was 22
+On iteration 163
+This iterations min cut was 21
+On iteration 164
+This iterations min cut was 309
+On iteration 165
+This iterations min cut was 29
+On iteration 166
+This iterations min cut was 135
+On iteration 167
+This iterations min cut was 366
+On iteration 168
+This iterations min cut was 504
+On iteration 169
+This iterations min cut was 275
+On iteration 170
+This iterations min cut was 280
+On iteration 171
+This iterations min cut was 65
+On iteration 172
+This iterations min cut was 50
+On iteration 173
+This iterations min cut was 28
+On iteration 174
+This iterations min cut was 27
+On iteration 175
+This iterations min cut was 20
+On iteration 176
+This iterations min cut was 66
+On iteration 177
+This iterations min cut was 21
+On iteration 178
+This iterations min cut was 23
+On iteration 179
+This iterations min cut was 32
+On iteration 180
+This iterations min cut was 24
+On iteration 181
+This iterations min cut was 59
+On iteration 182
+This iterations min cut was 31
+On iteration 183
+This iterations min cut was 20
+On iteration 184
+This iterations min cut was 59
+On iteration 185
+This iterations min cut was 548
+On iteration 186
+This iterations min cut was 81
+On iteration 187
+This iterations min cut was 20
+On iteration 188
+This iterations min cut was 21
+On iteration 189
+This iterations min cut was 78
+On iteration 190
+This iterations min cut was 31
+On iteration 191
+This iterations min cut was 24
+On iteration 192
+This iterations min cut was 62
+On iteration 193
+This iterations min cut was 342
+On iteration 194
+This iterations min cut was 23
+On iteration 195
+This iterations min cut was 42
+On iteration 196
+This iterations min cut was 48
+On iteration 197
+This iterations min cut was 43
+On iteration 198
+This iterations min cut was 51
+On iteration 199
+This iterations min cut was 65
+On iteration 200
+This iterations min cut was 49
+On iteration 201
+This iterations min cut was 26
+On iteration 202
+This iterations min cut was 20
+On iteration 203
+This iterations min cut was 24
+On iteration 204
+This iterations min cut was 44
+On iteration 205
+This iterations min cut was 136
+On iteration 206
+This iterations min cut was 27
+On iteration 207
+This iterations min cut was 66
+On iteration 208
+This iterations min cut was 17
+On iteration 209
+This iterations min cut was 31
+On iteration 210
+This iterations min cut was 17
+On iteration 211
+This iterations min cut was 17
+On iteration 212
+This iterations min cut was 26
+On iteration 213
+This iterations min cut was 41
+On iteration 214
+This iterations min cut was 97
+On iteration 215
+This iterations min cut was 20
+On iteration 216
+This iterations min cut was 33
+On iteration 217
+This iterations min cut was 23
+On iteration 218
+This iterations min cut was 28
+On iteration 219
+This iterations min cut was 17
+On iteration 220
+This iterations min cut was 26
+On iteration 221
+This iterations min cut was 20
+On iteration 222
+This iterations min cut was 107
+On iteration 223
+This iterations min cut was 20
+On iteration 224
+This iterations min cut was 26
+On iteration 225
+This iterations min cut was 28
+On iteration 226
+This iterations min cut was 49
+On iteration 227
+This iterations min cut was 17
+On iteration 228
+This iterations min cut was 991
+On iteration 229
+This iterations min cut was 50
+On iteration 230
+This iterations min cut was 46
+On iteration 231
+This iterations min cut was 53
+On iteration 232
+This iterations min cut was 26
+On iteration 233
+This iterations min cut was 297
+On iteration 234
+This iterations min cut was 28
+On iteration 235
+This iterations min cut was 49
+On iteration 236
+This iterations min cut was 23
+On iteration 237
+This iterations min cut was 20
+On iteration 238
+This iterations min cut was 102
+On iteration 239
+This iterations min cut was 129
+On iteration 240
+This iterations min cut was 17
+On iteration 241
+This iterations min cut was 275
+On iteration 242
+This iterations min cut was 84
+On iteration 243
+This iterations min cut was 17
+On iteration 244
+This iterations min cut was 17
+On iteration 245
+This iterations min cut was 24
+On iteration 246
+This iterations min cut was 22
+On iteration 247
+This iterations min cut was 63
+On iteration 248
+This iterations min cut was 123
+On iteration 249
+This iterations min cut was 49
+On iteration 250
+This iterations min cut was 57
+On iteration 251
+This iterations min cut was 27
+On iteration 252
+This iterations min cut was 23
+On iteration 253
+This iterations min cut was 91
+On iteration 254
+This iterations min cut was 48
+On iteration 255
+This iterations min cut was 241
+On iteration 256
+This iterations min cut was 26
+On iteration 257
+This iterations min cut was 20
+On iteration 258
+This iterations min cut was 20
+On iteration 259
+This iterations min cut was 24
+On iteration 260
+This iterations min cut was 17
+On iteration 261
+This iterations min cut was 165
+On iteration 262
+This iterations min cut was 372
+On iteration 263
+This iterations min cut was 17
+On iteration 264
+This iterations min cut was 26
+On iteration 265
+This iterations min cut was 53
+On iteration 266
+This iterations min cut was 22
+On iteration 267
+This iterations min cut was 22
+On iteration 268
+This iterations min cut was 45
+On iteration 269
+This iterations min cut was 31
+On iteration 270
+This iterations min cut was 68
+On iteration 271
+This iterations min cut was 117
+On iteration 272
+This iterations min cut was 26
+On iteration 273
+This iterations min cut was 26
+On iteration 274
+This iterations min cut was 21
+On iteration 275
+This iterations min cut was 24
+On iteration 276
+This iterations min cut was 23
+On iteration 277
+This iterations min cut was 24
+On iteration 278
+This iterations min cut was 20
+On iteration 279
+This iterations min cut was 25
+On iteration 280
+This iterations min cut was 20
+On iteration 281
+This iterations min cut was 21
+On iteration 282
+This iterations min cut was 17
+On iteration 283
+This iterations min cut was 21
+On iteration 284
+This iterations min cut was 156
+On iteration 285
+This iterations min cut was 28
+On iteration 286
+This iterations min cut was 26
+On iteration 287
+This iterations min cut was 223
+On iteration 288
+This iterations min cut was 106
+On iteration 289
+This iterations min cut was 20
+On iteration 290
+This iterations min cut was 67
+On iteration 291
+This iterations min cut was 21
+On iteration 292
+This iterations min cut was 27
+On iteration 293
+This iterations min cut was 58
+On iteration 294
+This iterations min cut was 1052
+On iteration 295
+This iterations min cut was 21
+On iteration 296
+This iterations min cut was 31
+On iteration 297
+This iterations min cut was 73
+On iteration 298
+This iterations min cut was 30
+On iteration 299
+This iterations min cut was 98
+On iteration 300
+This iterations min cut was 133
+On iteration 301
+This iterations min cut was 44
+On iteration 302
+This iterations min cut was 112
+On iteration 303
+This iterations min cut was 20
+On iteration 304
+This iterations min cut was 80
+On iteration 305
+This iterations min cut was 120
+On iteration 306
+This iterations min cut was 22
+On iteration 307
+This iterations min cut was 70
+On iteration 308
+This iterations min cut was 421
+On iteration 309
+This iterations min cut was 17
+On iteration 310
+This iterations min cut was 239
+On iteration 311
+This iterations min cut was 26
+On iteration 312
+This iterations min cut was 20
+On iteration 313
+This iterations min cut was 52
+On iteration 314
+This iterations min cut was 45
+On iteration 315
+This iterations min cut was 17
+On iteration 316
+This iterations min cut was 110
+On iteration 317
+This iterations min cut was 20
+On iteration 318
+This iterations min cut was 24
+On iteration 319
+This iterations min cut was 27
+On iteration 320
+This iterations min cut was 17
+On iteration 321
+This iterations min cut was 74
+On iteration 322
+This iterations min cut was 24
+On iteration 323
+This iterations min cut was 40
+On iteration 324
+This iterations min cut was 124
+On iteration 325
+This iterations min cut was 28
+On iteration 326
+This iterations min cut was 224
+On iteration 327
+This iterations min cut was 21
+On iteration 328
+This iterations min cut was 71
+On iteration 329
+This iterations min cut was 21
+On iteration 330
+This iterations min cut was 124
+On iteration 331
+This iterations min cut was 109
+On iteration 332
+This iterations min cut was 27
+On iteration 333
+This iterations min cut was 26
+On iteration 334
+This iterations min cut was 20
+On iteration 335
+This iterations min cut was 29
+On iteration 336
+This iterations min cut was 54
+On iteration 337
+This iterations min cut was 214
+On iteration 338
+This iterations min cut was 17
+On iteration 339
+This iterations min cut was 238
+On iteration 340
+This iterations min cut was 22
+On iteration 341
+This iterations min cut was 47
+On iteration 342
+This iterations min cut was 33
+On iteration 343
+This iterations min cut was 20
+On iteration 344
+This iterations min cut was 630
+On iteration 345
+This iterations min cut was 31
+On iteration 346
+This iterations min cut was 23
+On iteration 347
+This iterations min cut was 88
+On iteration 348
+This iterations min cut was 670
+On iteration 349
+This iterations min cut was 180
+On iteration 350
+This iterations min cut was 21
+On iteration 351
+This iterations min cut was 20
+On iteration 352
+This iterations min cut was 100
+On iteration 353
+This iterations min cut was 229
+On iteration 354
+This iterations min cut was 17
+On iteration 355
+This iterations min cut was 74
+On iteration 356
+This iterations min cut was 40
+On iteration 357
+This iterations min cut was 17
+On iteration 358
+This iterations min cut was 458
+On iteration 359
+This iterations min cut was 20
+On iteration 360
+This iterations min cut was 39
+On iteration 361
+This iterations min cut was 551
+On iteration 362
+This iterations min cut was 58
+On iteration 363
+This iterations min cut was 140
+On iteration 364
+This iterations min cut was 40
+On iteration 365
+This iterations min cut was 21
+On iteration 366
+This iterations min cut was 30
+On iteration 367
+This iterations min cut was 73
+On iteration 368
+This iterations min cut was 28
+On iteration 369
+This iterations min cut was 107
+On iteration 370
+This iterations min cut was 479
+On iteration 371
+This iterations min cut was 31
+On iteration 372
+This iterations min cut was 87
+On iteration 373
+This iterations min cut was 55
+On iteration 374
+This iterations min cut was 75
+On iteration 375
+This iterations min cut was 111
+On iteration 376
+This iterations min cut was 26
+On iteration 377
+This iterations min cut was 20
+On iteration 378
+This iterations min cut was 21
+On iteration 379
+This iterations min cut was 128
+On iteration 380
+This iterations min cut was 68
+On iteration 381
+This iterations min cut was 30
+On iteration 382
+This iterations min cut was 47
+On iteration 383
+This iterations min cut was 20
+On iteration 384
+This iterations min cut was 21
+On iteration 385
+This iterations min cut was 17
+On iteration 386
+This iterations min cut was 42
+On iteration 387
+This iterations min cut was 20
+On iteration 388
+This iterations min cut was 150
+On iteration 389
+This iterations min cut was 25
+On iteration 390
+This iterations min cut was 129
+On iteration 391
+This iterations min cut was 17
+On iteration 392
+This iterations min cut was 41
+On iteration 393
+This iterations min cut was 20
+On iteration 394
+This iterations min cut was 26
+On iteration 395
+This iterations min cut was 27
+On iteration 396
+This iterations min cut was 21
+On iteration 397
+This iterations min cut was 20
+On iteration 398
+This iterations min cut was 17
+On iteration 399
+This iterations min cut was 44
+On iteration 400
+This iterations min cut was 20
+On iteration 401
+This iterations min cut was 22
+On iteration 402
+This iterations min cut was 67
+On iteration 403
+This iterations min cut was 108
+On iteration 404
+This iterations min cut was 26
+On iteration 405
+This iterations min cut was 24
+On iteration 406
+This iterations min cut was 73
+On iteration 407
+This iterations min cut was 140
+On iteration 408
+This iterations min cut was 144
+On iteration 409
+This iterations min cut was 39
+On iteration 410
+This iterations min cut was 72
+On iteration 411
+This iterations min cut was 27
+On iteration 412
+This iterations min cut was 29
+On iteration 413
+This iterations min cut was 41
+On iteration 414
+This iterations min cut was 86
+On iteration 415
+This iterations min cut was 187
+On iteration 416
+This iterations min cut was 17
+On iteration 417
+This iterations min cut was 48
+On iteration 418
+This iterations min cut was 23
+On iteration 419
+This iterations min cut was 100
+On iteration 420
+This iterations min cut was 17
+On iteration 421
+This iterations min cut was 28
+On iteration 422
+This iterations min cut was 20
+On iteration 423
+This iterations min cut was 21
+On iteration 424
+This iterations min cut was 44
+On iteration 425
+This iterations min cut was 22
+On iteration 426
+This iterations min cut was 30
+On iteration 427
+This iterations min cut was 27
+On iteration 428
+This iterations min cut was 24
+On iteration 429
+This iterations min cut was 26
+On iteration 430
+This iterations min cut was 22
+On iteration 431
+This iterations min cut was 17
+On iteration 432
+This iterations min cut was 365
+On iteration 433
+This iterations min cut was 17
+On iteration 434
+This iterations min cut was 17
+On iteration 435
+This iterations min cut was 30
+On iteration 436
+This iterations min cut was 516
+On iteration 437
+This iterations min cut was 31
+On iteration 438
+This iterations min cut was 17
+On iteration 439
+This iterations min cut was 22
+On iteration 440
+This iterations min cut was 43
+On iteration 441
+This iterations min cut was 144
+On iteration 442
+This iterations min cut was 24
+On iteration 443
+This iterations min cut was 21
+On iteration 444
+This iterations min cut was 25
+On iteration 445
+This iterations min cut was 46
+On iteration 446
+This iterations min cut was 17
+On iteration 447
+This iterations min cut was 25
+On iteration 448
+This iterations min cut was 272
+On iteration 449
+This iterations min cut was 70
+On iteration 450
+This iterations min cut was 20
+On iteration 451
+This iterations min cut was 57
+On iteration 452
+This iterations min cut was 28
+On iteration 453
+This iterations min cut was 112
+On iteration 454
+This iterations min cut was 20
+On iteration 455
+This iterations min cut was 104
+On iteration 456
+This iterations min cut was 32
+On iteration 457
+This iterations min cut was 22
+On iteration 458
+This iterations min cut was 154
+On iteration 459
+This iterations min cut was 26
+On iteration 460
+This iterations min cut was 20
+On iteration 461
+This iterations min cut was 161
+On iteration 462
+This iterations min cut was 66
+On iteration 463
+This iterations min cut was 98
+On iteration 464
+This iterations min cut was 43
+On iteration 465
+This iterations min cut was 17
+On iteration 466
+This iterations min cut was 21
+On iteration 467
+This iterations min cut was 46
+On iteration 468
+This iterations min cut was 235
+On iteration 469
+This iterations min cut was 66
+On iteration 470
+This iterations min cut was 58
+On iteration 471
+This iterations min cut was 562
+On iteration 472
+This iterations min cut was 20
+On iteration 473
+This iterations min cut was 144
+On iteration 474
+This iterations min cut was 44
+On iteration 475
+This iterations min cut was 76
+On iteration 476
+This iterations min cut was 20
+On iteration 477
+This iterations min cut was 20
+On iteration 478
+This iterations min cut was 23
+On iteration 479
+This iterations min cut was 20
+On iteration 480
+This iterations min cut was 26
+On iteration 481
+This iterations min cut was 24
+On iteration 482
+This iterations min cut was 206
+On iteration 483
+This iterations min cut was 25
+On iteration 484
+This iterations min cut was 45
+On iteration 485
+This iterations min cut was 24
+On iteration 486
+This iterations min cut was 506
+On iteration 487
+This iterations min cut was 20
+On iteration 488
+This iterations min cut was 17
+On iteration 489
+This iterations min cut was 23
+On iteration 490
+This iterations min cut was 68
+On iteration 491
+This iterations min cut was 21
+On iteration 492
+This iterations min cut was 21
+On iteration 493
+This iterations min cut was 73
+On iteration 494
+This iterations min cut was 245
+On iteration 495
+This iterations min cut was 208
+On iteration 496
+This iterations min cut was 20
+On iteration 497
+This iterations min cut was 49
+On iteration 498
+This iterations min cut was 26
+On iteration 499
+This iterations min cut was 52
+On iteration 500
+This iterations min cut was 48
+On iteration 501
+This iterations min cut was 17
+On iteration 502
+This iterations min cut was 22
+On iteration 503
+This iterations min cut was 25
+On iteration 504
+This iterations min cut was 142
+On iteration 505
+This iterations min cut was 27
+On iteration 506
+This iterations min cut was 22
+On iteration 507
+This iterations min cut was 31
+On iteration 508
+This iterations min cut was 27
+On iteration 509
+This iterations min cut was 20
+On iteration 510
+This iterations min cut was 170
+On iteration 511
+This iterations min cut was 17
+On iteration 512
+This iterations min cut was 90
+On iteration 513
+This iterations min cut was 27
+On iteration 514
+This iterations min cut was 20
+On iteration 515
+This iterations min cut was 200
+On iteration 516
+This iterations min cut was 54
+On iteration 517
+This iterations min cut was 236
+On iteration 518
+This iterations min cut was 198
+On iteration 519
+This iterations min cut was 85
+On iteration 520
+This iterations min cut was 22
+On iteration 521
+This iterations min cut was 25
+On iteration 522
+This iterations min cut was 137
+On iteration 523
+This iterations min cut was 43
+On iteration 524
+This iterations min cut was 95
+On iteration 525
+This iterations min cut was 62
+On iteration 526
+This iterations min cut was 46
+On iteration 527
+This iterations min cut was 26
+On iteration 528
+This iterations min cut was 20
+On iteration 529
+This iterations min cut was 20
+On iteration 530
+This iterations min cut was 64
+On iteration 531
+This iterations min cut was 17
+On iteration 532
+This iterations min cut was 68
+On iteration 533
+This iterations min cut was 113
+On iteration 534
+This iterations min cut was 65
+On iteration 535
+This iterations min cut was 45
+On iteration 536
+This iterations min cut was 21
+On iteration 537
+This iterations min cut was 22
+On iteration 538
+This iterations min cut was 226
+On iteration 539
+This iterations min cut was 44
+On iteration 540
+This iterations min cut was 27
+On iteration 541
+This iterations min cut was 17
+On iteration 542
+This iterations min cut was 62
+On iteration 543
+This iterations min cut was 641
+On iteration 544
+This iterations min cut was 26
+On iteration 545
+This iterations min cut was 77
+On iteration 546
+This iterations min cut was 25
+On iteration 547
+This iterations min cut was 25
+On iteration 548
+This iterations min cut was 78
+On iteration 549
+This iterations min cut was 24
+On iteration 550
+This iterations min cut was 55
+On iteration 551
+This iterations min cut was 59
+On iteration 552
+This iterations min cut was 26
+On iteration 553
+This iterations min cut was 116
+On iteration 554
+This iterations min cut was 63
+On iteration 555
+This iterations min cut was 89
+On iteration 556
+This iterations min cut was 17
+On iteration 557
+This iterations min cut was 43
+On iteration 558
+This iterations min cut was 20
+On iteration 559
+This iterations min cut was 31
+On iteration 560
+This iterations min cut was 97
+On iteration 561
+This iterations min cut was 17
+On iteration 562
+This iterations min cut was 71
+On iteration 563
+This iterations min cut was 312
+On iteration 564
+This iterations min cut was 17
+On iteration 565
+This iterations min cut was 217
+On iteration 566
+This iterations min cut was 32
+On iteration 567
+This iterations min cut was 245
+On iteration 568
+This iterations min cut was 27
+On iteration 569
+This iterations min cut was 184
+On iteration 570
+This iterations min cut was 27
+On iteration 571
+This iterations min cut was 44
+On iteration 572
+This iterations min cut was 69
+On iteration 573
+This iterations min cut was 40
+On iteration 574
+This iterations min cut was 17
+On iteration 575
+This iterations min cut was 447
+On iteration 576
+This iterations min cut was 51
+On iteration 577
+This iterations min cut was 179
+On iteration 578
+This iterations min cut was 17
+On iteration 579
+This iterations min cut was 17
+On iteration 580
+This iterations min cut was 131
+On iteration 581
+This iterations min cut was 31
+On iteration 582
+This iterations min cut was 20
+On iteration 583
+This iterations min cut was 22
+On iteration 584
+This iterations min cut was 156
+On iteration 585
+This iterations min cut was 25
+On iteration 586
+This iterations min cut was 85
+On iteration 587
+This iterations min cut was 17
+On iteration 588
+This iterations min cut was 69
+On iteration 589
+This iterations min cut was 17
+On iteration 590
+This iterations min cut was 30
+On iteration 591
+This iterations min cut was 22
+On iteration 592
+This iterations min cut was 22
+On iteration 593
+This iterations min cut was 20
+On iteration 594
+This iterations min cut was 50
+On iteration 595
+This iterations min cut was 71
+On iteration 596
+This iterations min cut was 30
+On iteration 597
+This iterations min cut was 24
+On iteration 598
+This iterations min cut was 74
+On iteration 599
+This iterations min cut was 17
+On iteration 600
+This iterations min cut was 99
+On iteration 601
+This iterations min cut was 42
+On iteration 602
+This iterations min cut was 17
+On iteration 603
+This iterations min cut was 22
+On iteration 604
+This iterations min cut was 23
+On iteration 605
+This iterations min cut was 17
+On iteration 606
+This iterations min cut was 24
+On iteration 607
+This iterations min cut was 20
+On iteration 608
+This iterations min cut was 98
+On iteration 609
+This iterations min cut was 20
+On iteration 610
+This iterations min cut was 23
+On iteration 611
+This iterations min cut was 22
+On iteration 612
+This iterations min cut was 22
+On iteration 613
+This iterations min cut was 158
+On iteration 614
+This iterations min cut was 462
+On iteration 615
+This iterations min cut was 20
+On iteration 616
+This iterations min cut was 74
+On iteration 617
+This iterations min cut was 26
+On iteration 618
+This iterations min cut was 28
+On iteration 619
+This iterations min cut was 25
+On iteration 620
+This iterations min cut was 69
+On iteration 621
+This iterations min cut was 49
+On iteration 622
+This iterations min cut was 557
+On iteration 623
+This iterations min cut was 21
+On iteration 624
+This iterations min cut was 52
+On iteration 625
+This iterations min cut was 466
+On iteration 626
+This iterations min cut was 21
+On iteration 627
+This iterations min cut was 28
+On iteration 628
+This iterations min cut was 41
+On iteration 629
+This iterations min cut was 44
+On iteration 630
+This iterations min cut was 20
+On iteration 631
+This iterations min cut was 17
+On iteration 632
+This iterations min cut was 82
+On iteration 633
+This iterations min cut was 70
+On iteration 634
+This iterations min cut was 310
+On iteration 635
+This iterations min cut was 22
+On iteration 636
+This iterations min cut was 26
+On iteration 637
+This iterations min cut was 20
+On iteration 638
+This iterations min cut was 20
+On iteration 639
+This iterations min cut was 22
+On iteration 640
+This iterations min cut was 17
+On iteration 641
+This iterations min cut was 23
+On iteration 642
+This iterations min cut was 27
+On iteration 643
+This iterations min cut was 20
+On iteration 644
+This iterations min cut was 24
+On iteration 645
+This iterations min cut was 31
+On iteration 646
+This iterations min cut was 306
+On iteration 647
+This iterations min cut was 216
+On iteration 648
+This iterations min cut was 292
+On iteration 649
+This iterations min cut was 20
+On iteration 650
+This iterations min cut was 22
+On iteration 651
+This iterations min cut was 62
+On iteration 652
+This iterations min cut was 43
+On iteration 653
+This iterations min cut was 24
+On iteration 654
+This iterations min cut was 161
+On iteration 655
+This iterations min cut was 22
+On iteration 656
+This iterations min cut was 74
+On iteration 657
+This iterations min cut was 198
+On iteration 658
+This iterations min cut was 77
+On iteration 659
+This iterations min cut was 20
+On iteration 660
+This iterations min cut was 69
+On iteration 661
+This iterations min cut was 26
+On iteration 662
+This iterations min cut was 28
+On iteration 663
+This iterations min cut was 621
+On iteration 664
+This iterations min cut was 17
+On iteration 665
+This iterations min cut was 307
+On iteration 666
+This iterations min cut was 21
+On iteration 667
+This iterations min cut was 25
+On iteration 668
+This iterations min cut was 26
+On iteration 669
+This iterations min cut was 20
+On iteration 670
+This iterations min cut was 38
+On iteration 671
+This iterations min cut was 17
+On iteration 672
+This iterations min cut was 30
+On iteration 673
+This iterations min cut was 59
+On iteration 674
+This iterations min cut was 27
+On iteration 675
+This iterations min cut was 20
+On iteration 676
+This iterations min cut was 131
+On iteration 677
+This iterations min cut was 29
+On iteration 678
+This iterations min cut was 64
+On iteration 679
+This iterations min cut was 65
+On iteration 680
+This iterations min cut was 69
+On iteration 681
+This iterations min cut was 17
+On iteration 682
+This iterations min cut was 39
+On iteration 683
+This iterations min cut was 50
+On iteration 684
+This iterations min cut was 20
+On iteration 685
+This iterations min cut was 34
+On iteration 686
+This iterations min cut was 20
+On iteration 687
+This iterations min cut was 83
+On iteration 688
+This iterations min cut was 57
+On iteration 689
+This iterations min cut was 24
+On iteration 690
+This iterations min cut was 20
+On iteration 691
+This iterations min cut was 26
+On iteration 692
+This iterations min cut was 25
+On iteration 693
+This iterations min cut was 26
+On iteration 694
+This iterations min cut was 93
+On iteration 695
+This iterations min cut was 47
+On iteration 696
+This iterations min cut was 51
+On iteration 697
+This iterations min cut was 54
+On iteration 698
+This iterations min cut was 24
+On iteration 699
+This iterations min cut was 71
+On iteration 700
+This iterations min cut was 21
+On iteration 701
+This iterations min cut was 52
+On iteration 702
+This iterations min cut was 80
+On iteration 703
+This iterations min cut was 33
+On iteration 704
+This iterations min cut was 94
+On iteration 705
+This iterations min cut was 289
+On iteration 706
+This iterations min cut was 17
+On iteration 707
+This iterations min cut was 31
+On iteration 708
+This iterations min cut was 20
+On iteration 709
+This iterations min cut was 44
+On iteration 710
+This iterations min cut was 20
+On iteration 711
+This iterations min cut was 270
+On iteration 712
+This iterations min cut was 172
+On iteration 713
+This iterations min cut was 27
+On iteration 714
+This iterations min cut was 41
+On iteration 715
+This iterations min cut was 679
+On iteration 716
+This iterations min cut was 21
+On iteration 717
+This iterations min cut was 43
+On iteration 718
+This iterations min cut was 201
+On iteration 719
+This iterations min cut was 57
+On iteration 720
+This iterations min cut was 26
+On iteration 721
+This iterations min cut was 38
+On iteration 722
+This iterations min cut was 25
+On iteration 723
+This iterations min cut was 17
+On iteration 724
+This iterations min cut was 17
+On iteration 725
+This iterations min cut was 24
+On iteration 726
+This iterations min cut was 20
+On iteration 727
+This iterations min cut was 117
+On iteration 728
+This iterations min cut was 108
+On iteration 729
+This iterations min cut was 93
+On iteration 730
+This iterations min cut was 28
+On iteration 731
+This iterations min cut was 442
+On iteration 732
+This iterations min cut was 44
+On iteration 733
+This iterations min cut was 105
+On iteration 734
+This iterations min cut was 383
+On iteration 735
+This iterations min cut was 20
+On iteration 736
+This iterations min cut was 27
+On iteration 737
+This iterations min cut was 24
+On iteration 738
+This iterations min cut was 48
+On iteration 739
+This iterations min cut was 83
+On iteration 740
+This iterations min cut was 26
+On iteration 741
+This iterations min cut was 372
+On iteration 742
+This iterations min cut was 17
+On iteration 743
+This iterations min cut was 17
+On iteration 744
+This iterations min cut was 29
+On iteration 745
+This iterations min cut was 66
+On iteration 746
+This iterations min cut was 20
+On iteration 747
+This iterations min cut was 23
+On iteration 748
+This iterations min cut was 31
+On iteration 749
+This iterations min cut was 341
+On iteration 750
+This iterations min cut was 22
+On iteration 751
+This iterations min cut was 20
+On iteration 752
+This iterations min cut was 24
+On iteration 753
+This iterations min cut was 265
+On iteration 754
+This iterations min cut was 26
+On iteration 755
+This iterations min cut was 17
+On iteration 756
+This iterations min cut was 64
+On iteration 757
+This iterations min cut was 20
+On iteration 758
+This iterations min cut was 46
+On iteration 759
+This iterations min cut was 157
+On iteration 760
+This iterations min cut was 60
+On iteration 761
+This iterations min cut was 26
+On iteration 762
+This iterations min cut was 40
+On iteration 763
+This iterations min cut was 17
+On iteration 764
+This iterations min cut was 26
+On iteration 765
+This iterations min cut was 42
+On iteration 766
+This iterations min cut was 23
+On iteration 767
+This iterations min cut was 158
+On iteration 768
+This iterations min cut was 20
+On iteration 769
+This iterations min cut was 31
+On iteration 770
+This iterations min cut was 148
+On iteration 771
+This iterations min cut was 20
+On iteration 772
+This iterations min cut was 35
+On iteration 773
+This iterations min cut was 33
+On iteration 774
+This iterations min cut was 45
+On iteration 775
+This iterations min cut was 21
+On iteration 776
+This iterations min cut was 61
+On iteration 777
+This iterations min cut was 46
+On iteration 778
+This iterations min cut was 34
+On iteration 779
+This iterations min cut was 23
+On iteration 780
+This iterations min cut was 17
+On iteration 781
+This iterations min cut was 26
+On iteration 782
+This iterations min cut was 115
+On iteration 783
+This iterations min cut was 489
+On iteration 784
+This iterations min cut was 222
+On iteration 785
+This iterations min cut was 43
+On iteration 786
+This iterations min cut was 27
+On iteration 787
+This iterations min cut was 23
+On iteration 788
+This iterations min cut was 106
+On iteration 789
+This iterations min cut was 17
+On iteration 790
+This iterations min cut was 21
+On iteration 791
+This iterations min cut was 61
+On iteration 792
+This iterations min cut was 117
+On iteration 793
+This iterations min cut was 153
+On iteration 794
+This iterations min cut was 137
+On iteration 795
+This iterations min cut was 21
+On iteration 796
+This iterations min cut was 23
+On iteration 797
+This iterations min cut was 24
+On iteration 798
+This iterations min cut was 29
+On iteration 799
+This iterations min cut was 45
+On iteration 800
+This iterations min cut was 25
+On iteration 801
+This iterations min cut was 27
+On iteration 802
+This iterations min cut was 35
+On iteration 803
+This iterations min cut was 21
+On iteration 804
+This iterations min cut was 186
+On iteration 805
+This iterations min cut was 23
+On iteration 806
+This iterations min cut was 27
+On iteration 807
+This iterations min cut was 17
+On iteration 808
+This iterations min cut was 69
+On iteration 809
+This iterations min cut was 21
+On iteration 810
+This iterations min cut was 20
+On iteration 811
+This iterations min cut was 24
+On iteration 812
+This iterations min cut was 28
+On iteration 813
+This iterations min cut was 17
+On iteration 814
+This iterations min cut was 51
+On iteration 815
+This iterations min cut was 551
+On iteration 816
+This iterations min cut was 30
+On iteration 817
+This iterations min cut was 44
+On iteration 818
+This iterations min cut was 69
+On iteration 819
+This iterations min cut was 32
+On iteration 820
+This iterations min cut was 28
+On iteration 821
+This iterations min cut was 17
+On iteration 822
+This iterations min cut was 22
+On iteration 823
+This iterations min cut was 85
+On iteration 824
+This iterations min cut was 17
+On iteration 825
+This iterations min cut was 20
+On iteration 826
+This iterations min cut was 80
+On iteration 827
+This iterations min cut was 645
+On iteration 828
+This iterations min cut was 70
+On iteration 829
+This iterations min cut was 27
+On iteration 830
+This iterations min cut was 27
+On iteration 831
+This iterations min cut was 24
+On iteration 832
+This iterations min cut was 25
+On iteration 833
+This iterations min cut was 31
+On iteration 834
+This iterations min cut was 23
+On iteration 835
+This iterations min cut was 26
+On iteration 836
+This iterations min cut was 20
+On iteration 837
+This iterations min cut was 244
+On iteration 838
+This iterations min cut was 40
+On iteration 839
+This iterations min cut was 43
+On iteration 840
+This iterations min cut was 27
+On iteration 841
+This iterations min cut was 38
+On iteration 842
+This iterations min cut was 26
+On iteration 843
+This iterations min cut was 66
+On iteration 844
+This iterations min cut was 23
+On iteration 845
+This iterations min cut was 17
+On iteration 846
+This iterations min cut was 193
+On iteration 847
+This iterations min cut was 56
+On iteration 848
+This iterations min cut was 27
+On iteration 849
+This iterations min cut was 26
+On iteration 850
+This iterations min cut was 26
+On iteration 851
+This iterations min cut was 54
+On iteration 852
+This iterations min cut was 67
+On iteration 853
+This iterations min cut was 45
+On iteration 854
+This iterations min cut was 24
+On iteration 855
+This iterations min cut was 113
+On iteration 856
+This iterations min cut was 31
+On iteration 857
+This iterations min cut was 132
+On iteration 858
+This iterations min cut was 30
+On iteration 859
+This iterations min cut was 45
+On iteration 860
+This iterations min cut was 132
+On iteration 861
+This iterations min cut was 21
+On iteration 862
+This iterations min cut was 104
+On iteration 863
+This iterations min cut was 488
+On iteration 864
+This iterations min cut was 29
+On iteration 865
+This iterations min cut was 47
+On iteration 866
+This iterations min cut was 24
+On iteration 867
+This iterations min cut was 40
+On iteration 868
+This iterations min cut was 28
+On iteration 869
+This iterations min cut was 22
+On iteration 870
+This iterations min cut was 59
+On iteration 871
+This iterations min cut was 22
+On iteration 872
+This iterations min cut was 170
+On iteration 873
+This iterations min cut was 20
+On iteration 874
+This iterations min cut was 191
+On iteration 875
+This iterations min cut was 24
+On iteration 876
+This iterations min cut was 42
+On iteration 877
+This iterations min cut was 31
+On iteration 878
+This iterations min cut was 275
+On iteration 879
+This iterations min cut was 230
+On iteration 880
+This iterations min cut was 22
+On iteration 881
+This iterations min cut was 26
+On iteration 882
+This iterations min cut was 20
+On iteration 883
+This iterations min cut was 28
+On iteration 884
+This iterations min cut was 23
+On iteration 885
+This iterations min cut was 20
+On iteration 886
+This iterations min cut was 21
+On iteration 887
+This iterations min cut was 50
+On iteration 888
+This iterations min cut was 46
+On iteration 889
+This iterations min cut was 208
+On iteration 890
+This iterations min cut was 31
+On iteration 891
+This iterations min cut was 22
+On iteration 892
+This iterations min cut was 25
+On iteration 893
+This iterations min cut was 77
+On iteration 894
+This iterations min cut was 17
+On iteration 895
+This iterations min cut was 46
+On iteration 896
+This iterations min cut was 47
+On iteration 897
+This iterations min cut was 34
+On iteration 898
+This iterations min cut was 26
+On iteration 899
+This iterations min cut was 23
+On iteration 900
+This iterations min cut was 27
+On iteration 901
+This iterations min cut was 22
+On iteration 902
+This iterations min cut was 26
+On iteration 903
+This iterations min cut was 160
+On iteration 904
+This iterations min cut was 49
+On iteration 905
+This iterations min cut was 22
+On iteration 906
+This iterations min cut was 174
+On iteration 907
+This iterations min cut was 20
+On iteration 908
+This iterations min cut was 21
+On iteration 909
+This iterations min cut was 17
+On iteration 910
+This iterations min cut was 21
+On iteration 911
+This iterations min cut was 17
+On iteration 912
+This iterations min cut was 25
+On iteration 913
+This iterations min cut was 62
+On iteration 914
+This iterations min cut was 21
+On iteration 915
+This iterations min cut was 24
+On iteration 916
+This iterations min cut was 23
+On iteration 917
+This iterations min cut was 90
+On iteration 918
+This iterations min cut was 25
+On iteration 919
+This iterations min cut was 153
+On iteration 920
+This iterations min cut was 77
+On iteration 921
+This iterations min cut was 21
+On iteration 922
+This iterations min cut was 17
+On iteration 923
+This iterations min cut was 20
+On iteration 924
+This iterations min cut was 20
+On iteration 925
+This iterations min cut was 24
+On iteration 926
+This iterations min cut was 17
+On iteration 927
+This iterations min cut was 17
+On iteration 928
+This iterations min cut was 24
+On iteration 929
+This iterations min cut was 17
+On iteration 930
+This iterations min cut was 20
+On iteration 931
+This iterations min cut was 72
+On iteration 932
+This iterations min cut was 23
+On iteration 933
+This iterations min cut was 21
+On iteration 934
+This iterations min cut was 17
+On iteration 935
+This iterations min cut was 45
+On iteration 936
+This iterations min cut was 41
+On iteration 937
+This iterations min cut was 26
+On iteration 938
+This iterations min cut was 55
+On iteration 939
+This iterations min cut was 20
+On iteration 940
+This iterations min cut was 23
+On iteration 941
+This iterations min cut was 21
+On iteration 942
+This iterations min cut was 27
+On iteration 943
+This iterations min cut was 71
+On iteration 944
+This iterations min cut was 40
+On iteration 945
+This iterations min cut was 27
+On iteration 946
+This iterations min cut was 24
+On iteration 947
+This iterations min cut was 24
+On iteration 948
+This iterations min cut was 17
+On iteration 949
+This iterations min cut was 53
+On iteration 950
+This iterations min cut was 114
+On iteration 951
+This iterations min cut was 34
+On iteration 952
+This iterations min cut was 22
+On iteration 953
+This iterations min cut was 23
+On iteration 954
+This iterations min cut was 25
+On iteration 955
+This iterations min cut was 17
+On iteration 956
+This iterations min cut was 207
+On iteration 957
+This iterations min cut was 20
+On iteration 958
+This iterations min cut was 31
+On iteration 959
+This iterations min cut was 31
+On iteration 960
+This iterations min cut was 49
+On iteration 961
+This iterations min cut was 152
+On iteration 962
+This iterations min cut was 26
+On iteration 963
+This iterations min cut was 28
+On iteration 964
+This iterations min cut was 23
+On iteration 965
+This iterations min cut was 24
+On iteration 966
+This iterations min cut was 25
+On iteration 967
+This iterations min cut was 101
+On iteration 968
+This iterations min cut was 75
+On iteration 969
+This iterations min cut was 17
+On iteration 970
+This iterations min cut was 20
+On iteration 971
+This iterations min cut was 20
+On iteration 972
+This iterations min cut was 21
+On iteration 973
+This iterations min cut was 195
+On iteration 974
+This iterations min cut was 28
+On iteration 975
+This iterations min cut was 61
+On iteration 976
+This iterations min cut was 31
+On iteration 977
+This iterations min cut was 62
+On iteration 978
+This iterations min cut was 46
+On iteration 979
+This iterations min cut was 20
+On iteration 980
+This iterations min cut was 106
+On iteration 981
+This iterations min cut was 17
+On iteration 982
+This iterations min cut was 21
+On iteration 983
+This iterations min cut was 27
+On iteration 984
+This iterations min cut was 31
+On iteration 985
+This iterations min cut was 156
+On iteration 986
+This iterations min cut was 24
+On iteration 987
+This iterations min cut was 22
+On iteration 988
+This iterations min cut was 27
+On iteration 989
+This iterations min cut was 69
+On iteration 990
+This iterations min cut was 40
+On iteration 991
+This iterations min cut was 20
+On iteration 992
+This iterations min cut was 20
+On iteration 993
+This iterations min cut was 24
+On iteration 994
+This iterations min cut was 66
+On iteration 995
+This iterations min cut was 17
+On iteration 996
+This iterations min cut was 84
+On iteration 997
+This iterations min cut was 282
+On iteration 998
+This iterations min cut was 267
+On iteration 999
+This iterations min cut was 28
+On iteration 1000
+This iterations min cut was 62
+On iteration 1001
+This iterations min cut was 47
+On iteration 1002
+This iterations min cut was 44
+On iteration 1003
+This iterations min cut was 23
+On iteration 1004
+This iterations min cut was 44
+On iteration 1005
+This iterations min cut was 25
+On iteration 1006
+This iterations min cut was 25
+On iteration 1007
+This iterations min cut was 26
+On iteration 1008
+This iterations min cut was 21
+On iteration 1009
+This iterations min cut was 22
+On iteration 1010
+This iterations min cut was 21
+On iteration 1011
+This iterations min cut was 89
+On iteration 1012
+This iterations min cut was 20
+On iteration 1013
+This iterations min cut was 23
+On iteration 1014
+This iterations min cut was 240
+On iteration 1015
+This iterations min cut was 17
+On iteration 1016
+This iterations min cut was 236
+On iteration 1017
+This iterations min cut was 42
+On iteration 1018
+This iterations min cut was 75
+On iteration 1019
+This iterations min cut was 20
+On iteration 1020
+This iterations min cut was 23
+On iteration 1021
+This iterations min cut was 31
+On iteration 1022
+This iterations min cut was 20
+On iteration 1023
+This iterations min cut was 27
+On iteration 1024
+This iterations min cut was 17
+On iteration 1025
+This iterations min cut was 17
+On iteration 1026
+This iterations min cut was 160
+On iteration 1027
+This iterations min cut was 22
+On iteration 1028
+This iterations min cut was 93
+On iteration 1029
+This iterations min cut was 66
+On iteration 1030
+This iterations min cut was 17
+On iteration 1031
+This iterations min cut was 22
+On iteration 1032
+This iterations min cut was 17
+On iteration 1033
+This iterations min cut was 33
+On iteration 1034
+This iterations min cut was 17
+On iteration 1035
+This iterations min cut was 20
+On iteration 1036
+This iterations min cut was 17
+On iteration 1037
+This iterations min cut was 25
+On iteration 1038
+This iterations min cut was 113
+On iteration 1039
+This iterations min cut was 31
+On iteration 1040
+This iterations min cut was 17
+On iteration 1041
+This iterations min cut was 24
+On iteration 1042
+This iterations min cut was 30
+On iteration 1043
+This iterations min cut was 26
+On iteration 1044
+This iterations min cut was 68
+On iteration 1045
+This iterations min cut was 64
+On iteration 1046
+This iterations min cut was 28
+On iteration 1047
+This iterations min cut was 17
+On iteration 1048
+This iterations min cut was 25
+On iteration 1049
+This iterations min cut was 24
+On iteration 1050
+This iterations min cut was 30
+On iteration 1051
+This iterations min cut was 78
+On iteration 1052
+This iterations min cut was 22
+On iteration 1053
+This iterations min cut was 162
+On iteration 1054
+This iterations min cut was 20
+On iteration 1055
+This iterations min cut was 17
+On iteration 1056
+This iterations min cut was 43
+On iteration 1057
+This iterations min cut was 22
+On iteration 1058
+This iterations min cut was 49
+On iteration 1059
+This iterations min cut was 27
+On iteration 1060
+This iterations min cut was 34
+On iteration 1061
+This iterations min cut was 23
+On iteration 1062
+This iterations min cut was 271
+On iteration 1063
+This iterations min cut was 49
+On iteration 1064
+This iterations min cut was 111
+On iteration 1065
+This iterations min cut was 23
+On iteration 1066
+This iterations min cut was 29
+On iteration 1067
+This iterations min cut was 21
+On iteration 1068
+This iterations min cut was 188
+On iteration 1069
+This iterations min cut was 45
+On iteration 1070
+This iterations min cut was 25
+On iteration 1071
+This iterations min cut was 20
+On iteration 1072
+This iterations min cut was 21
+On iteration 1073
+This iterations min cut was 356
+On iteration 1074
+This iterations min cut was 73
+On iteration 1075
+This iterations min cut was 24
+On iteration 1076
+This iterations min cut was 21
+On iteration 1077
+This iterations min cut was 34
+On iteration 1078
+This iterations min cut was 45
+On iteration 1079
+This iterations min cut was 34
+On iteration 1080
+This iterations min cut was 29
+On iteration 1081
+This iterations min cut was 43
+On iteration 1082
+This iterations min cut was 25
+On iteration 1083
+This iterations min cut was 31
+On iteration 1084
+This iterations min cut was 45
+On iteration 1085
+This iterations min cut was 322
+On iteration 1086
+This iterations min cut was 106
+On iteration 1087
+This iterations min cut was 112
+On iteration 1088
+This iterations min cut was 46
+On iteration 1089
+This iterations min cut was 21
+On iteration 1090
+This iterations min cut was 23
+On iteration 1091
+This iterations min cut was 71
+On iteration 1092
+This iterations min cut was 95
+On iteration 1093
+This iterations min cut was 96
+On iteration 1094
+This iterations min cut was 17
+On iteration 1095
+This iterations min cut was 76
+On iteration 1096
+This iterations min cut was 20
+On iteration 1097
+This iterations min cut was 185
+On iteration 1098
+This iterations min cut was 68
+On iteration 1099
+This iterations min cut was 26
+On iteration 1100
+This iterations min cut was 71
+On iteration 1101
+This iterations min cut was 17
+On iteration 1102
+This iterations min cut was 137
+On iteration 1103
+This iterations min cut was 49
+On iteration 1104
+This iterations min cut was 25
+On iteration 1105
+This iterations min cut was 25
+On iteration 1106
+This iterations min cut was 25
+On iteration 1107
+This iterations min cut was 24
+On iteration 1108
+This iterations min cut was 22
+On iteration 1109
+This iterations min cut was 22
+On iteration 1110
+This iterations min cut was 17
+On iteration 1111
+This iterations min cut was 17
+On iteration 1112
+This iterations min cut was 68
+On iteration 1113
+This iterations min cut was 24
+On iteration 1114
+This iterations min cut was 54
+On iteration 1115
+This iterations min cut was 22
+On iteration 1116
+This iterations min cut was 22
+On iteration 1117
+This iterations min cut was 26
+On iteration 1118
+This iterations min cut was 43
+On iteration 1119
+This iterations min cut was 22
+On iteration 1120
+This iterations min cut was 24
+On iteration 1121
+This iterations min cut was 34
+On iteration 1122
+This iterations min cut was 99
+On iteration 1123
+This iterations min cut was 33
+On iteration 1124
+This iterations min cut was 21
+On iteration 1125
+This iterations min cut was 47
+On iteration 1126
+This iterations min cut was 147
+On iteration 1127
+This iterations min cut was 98
+On iteration 1128
+This iterations min cut was 17
+On iteration 1129
+This iterations min cut was 17
+On iteration 1130
+This iterations min cut was 87
+On iteration 1131
+This iterations min cut was 31
+On iteration 1132
+This iterations min cut was 43
+On iteration 1133
+This iterations min cut was 27
+On iteration 1134
+This iterations min cut was 20
+On iteration 1135
+This iterations min cut was 160
+On iteration 1136
+This iterations min cut was 20
+On iteration 1137
+This iterations min cut was 21
+On iteration 1138
+This iterations min cut was 21
+On iteration 1139
+This iterations min cut was 222
+On iteration 1140
+This iterations min cut was 17
+On iteration 1141
+This iterations min cut was 73
+On iteration 1142
+This iterations min cut was 24
+On iteration 1143
+This iterations min cut was 26
+On iteration 1144
+This iterations min cut was 21
+On iteration 1145
+This iterations min cut was 102
+On iteration 1146
+This iterations min cut was 75
+On iteration 1147
+This iterations min cut was 31
+On iteration 1148
+This iterations min cut was 20
+On iteration 1149
+This iterations min cut was 84
+On iteration 1150
+This iterations min cut was 94
+On iteration 1151
+This iterations min cut was 23
+On iteration 1152
+This iterations min cut was 25
+On iteration 1153
+This iterations min cut was 22
+On iteration 1154
+This iterations min cut was 26
+On iteration 1155
+This iterations min cut was 39
+On iteration 1156
+This iterations min cut was 228
+On iteration 1157
+This iterations min cut was 72
+On iteration 1158
+This iterations min cut was 93
+On iteration 1159
+This iterations min cut was 49
+On iteration 1160
+This iterations min cut was 24
+On iteration 1161
+This iterations min cut was 17
+On iteration 1162
+This iterations min cut was 49
+On iteration 1163
+This iterations min cut was 20
+On iteration 1164
+This iterations min cut was 22
+On iteration 1165
+This iterations min cut was 20
+On iteration 1166
+This iterations min cut was 204
+On iteration 1167
+This iterations min cut was 22
+On iteration 1168
+This iterations min cut was 107
+On iteration 1169
+This iterations min cut was 69
+On iteration 1170
+This iterations min cut was 31
+On iteration 1171
+This iterations min cut was 47
+On iteration 1172
+This iterations min cut was 524
+On iteration 1173
+This iterations min cut was 71
+On iteration 1174
+This iterations min cut was 34
+On iteration 1175
+This iterations min cut was 20
+On iteration 1176
+This iterations min cut was 52
+On iteration 1177
+This iterations min cut was 29
+On iteration 1178
+This iterations min cut was 29
+On iteration 1179
+This iterations min cut was 17
+On iteration 1180
+This iterations min cut was 116
+On iteration 1181
+This iterations min cut was 17
+On iteration 1182
+This iterations min cut was 21
+On iteration 1183
+This iterations min cut was 20
+On iteration 1184
+This iterations min cut was 44
+On iteration 1185
+This iterations min cut was 47
+On iteration 1186
+This iterations min cut was 63
+On iteration 1187
+This iterations min cut was 20
+On iteration 1188
+This iterations min cut was 62
+On iteration 1189
+This iterations min cut was 20
+On iteration 1190
+This iterations min cut was 22
+On iteration 1191
+This iterations min cut was 133
+On iteration 1192
+This iterations min cut was 571
+On iteration 1193
+This iterations min cut was 26
+On iteration 1194
+This iterations min cut was 351
+On iteration 1195
+This iterations min cut was 20
+On iteration 1196
+This iterations min cut was 20
+On iteration 1197
+This iterations min cut was 55
+On iteration 1198
+This iterations min cut was 28
+On iteration 1199
+This iterations min cut was 21
+value is : 17
+minimum cut count is: 0
+
+ computation took 30.5829s

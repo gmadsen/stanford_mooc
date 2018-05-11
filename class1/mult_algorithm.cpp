@@ -3,16 +3,18 @@
 #include <algorithm>
 #include <cassert>
 #include <cmath>
+#include <cstdlib>
 #include <cstring>
 #include <iostream>
+#include <list>
 #include <string>
 #include <vector>
-#include <cstdlib>
-#include <list>
 
 using namespace std;
 
 // main.exe num1 num2
+
+typedef list<pair<int, list<int>>> graph_t;
 
 // continuous cstring of numbers to vector
 vector<int> cstring_num_to_vector(const char *p) {
@@ -235,8 +237,9 @@ vector<int> inversion_count(const vector<int> &input, long long &count) {
 }
 
 // Effects: inplace partition a vector with a chosen partition element
-vector<int>::iterator vector_partition(vector<int>::iterator begin, vector<int>::iterator end,
-                 vector<int>::iterator pivot) {
+vector<int>::iterator vector_partition(vector<int>::iterator begin,
+                                       vector<int>::iterator end,
+                                       vector<int>::iterator pivot) {
   if (begin != pivot) {
     std::swap(*begin, *pivot);
   }
@@ -255,22 +258,22 @@ vector<int>::iterator vector_partition(vector<int>::iterator begin, vector<int>:
 }
 
 // Effects: find median of medians of a vector
-vector<int>::iterator med_of_med(vector<int>::iterator begin, vector<int>::iterator end) {
+vector<int>::iterator med_of_med(vector<int>::iterator begin,
+                                 vector<int>::iterator end) {
   int size = end - begin;
   vector<int>::iterator mid = end;
   vector<int>::iterator last = end - 1;
   if (size % 2 == 0) {
-     mid = begin + size/2 - 1;
-  }
-  else {
-    mid = begin + (size - 1)/2;
+    mid = begin + size / 2 - 1;
+  } else {
+    mid = begin + (size - 1) / 2;
   }
 
-vector<vector<int>::iterator> drie {begin,mid,last};
-std::sort(drie.begin(), drie.end(), [](vector<int>::iterator a, vector<int>::iterator b) {
-        return *a < *b;   
-    });
-return drie[1];
+  vector<vector<int>::iterator> drie{begin, mid, last};
+  std::sort(
+      drie.begin(), drie.end(),
+      [](vector<int>::iterator a, vector<int>::iterator b) { return *a < *b; });
+  return drie[1];
 }
 
 // Effects: sort a vector inplace with QuickSort algorithm
@@ -284,38 +287,45 @@ void quicksort(vector<int>::iterator begin, vector<int>::iterator end,
   auto p = med_of_med(begin, end);
   vector<int>::iterator pivot = vector_partition(begin, end, p);
   // left
-  //cout << "pivot is: " << *pivot << endl;
+  // cout << "pivot is: " << *pivot << endl;
   quicksort(begin, pivot, comp_count);
   // right
-  quicksort(pivot +  1, end, comp_count);
+  quicksort(pivot + 1, end, comp_count);
 }
 
-// find minimum cut based on repeated randomized contraction algorithm
-int min_cut_contraction (list<pair<int,list<int>>> graph) {
-  typedef list<pair<int, list<int>>> graph_t;
-  // choose vertex
-  int head_idx = 0;
-  int tail_idx = 0;
-  int n = graph.size();
-  // contract once
-  // find appropriate iterators pointing to head and tail inside of head list
-  graph_t::iterator head_iter = graph.begin(); 
-  advance(head_iter,head_idx);
+// EFFECTS: perform a single random cut and update graph
+// MODIFIES: input graph
+void single_random_cut(graph_t &graph) {
+  // new element
+  int n = graph.back().first;
+
+  // choose edge  by choosing an adjacency randomly
+  // srand(time(NULL));
+  // find appropriate iterators pointing to head
+  int head_idx = rand() % graph.size();
+  graph_t::iterator head_iter = graph.begin();
+  advance(head_iter, head_idx);
   int head_val = head_iter->first;
-  
+
+  // find iterator for tail side
+  int tail_idx = rand() % head_iter->second.size();
   auto tail_iter = head_iter->second.begin();
   advance(tail_iter, tail_idx);
   int tail_val = *tail_iter;
-  cout << "head value is: " << head_val << endl;
-  cout << "tail value is: " << tail_val << endl;
+
+  // cout << "head value is: " << head_val << endl;
+  // cout << "tail value is: " << tail_val << endl;
 
   list<int> new_edges;
 
-  //find head vertices corresponding to edge choice
-  auto it = std::find_if( graph.begin(), graph.end(),
-    [&](const std::pair<int, list<int> > &element){ return element.first == tail_val;} );
+  // find head vertices corresponding to edge choice
+  auto it = std::find_if(graph.begin(), graph.end(),
+                         [&](const std::pair<int, list<int>> &element) {
+                           return element.first == tail_val;
+                         });
   const auto &head_verts = head_iter->second;
   const auto &tail_verts = it->second;
+
   // add all non tail/head edges to new list
   for (const auto &i : head_verts) {
     if (i != head_val && i != tail_val) {
@@ -328,17 +338,21 @@ int min_cut_contraction (list<pair<int,list<int>>> graph) {
     }
   }
 
-  //remove tail and head vertices from list
+  // remove tail and head vertices from list
   graph.erase(it);
   graph.erase(head_iter);
 
-  //update all other vertices
-  graph.push_back(make_pair(n+1, new_edges));
+  // update all other vertices
+  graph.push_back(make_pair(n + 1, new_edges));
   for (auto &i : graph) {
     auto &ad_list = i.second;
-    replace_if(ad_list.begin(),ad_list.end(), [&] (int element) {return element == head_val || element == tail_val;}, n + 1);  
-  } 
-
+    replace_if(
+        ad_list.begin(), ad_list.end(),
+        [&](int element) { return element == head_val || element == tail_val; },
+        n + 1);
+  }
+}
+void graph_print(const graph_t &graph) {
   // print
   for (auto i : graph) {
     cout << "vertex " << i.first << " has edges: ";
@@ -347,5 +361,15 @@ int min_cut_contraction (list<pair<int,list<int>>> graph) {
     }
     cout << endl;
   }
-return 0;
+}
+
+// find minimum cut based on repeated randomized contraction algorithm
+int min_cut_contraction(list<pair<int, list<int>>> graph) {
+  while (graph.size() > 2) {
+    single_random_cut(graph);
+    //graph_print(graph);
+  }
+  int min_cut = graph.front().second.size();
+  // cout << "min cut is: " << min_cut << endl;
+  return min_cut;
 }
