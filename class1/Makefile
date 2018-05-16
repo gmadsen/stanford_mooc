@@ -2,6 +2,7 @@
 
 CXX = g++
 CXXFLAGS = -Wall -Werror -pedantic --std=c++11 -g
+CXXFLAGSOPT = --std=c++11 -O3
 
 
 all: test
@@ -14,8 +15,16 @@ test: mult_algorithm_test.exe main.exe
 mult_algorithm_test.exe: mult_algorithm_test.cpp mult_algorithm.cpp unit_test_framework.cpp 
 	$(CXX) $(CXXFLAGS) $^ -o $@
 
+graph_test.exe: graph_test.cpp graph.cpp unit_test_framework.cpp 
+	$(CXX) $(CXXFLAGS) $^ -o $@
+
+
 main.exe: main.cpp mult_algorithm.cpp 
 	$(CXX) $(CXXFLAGS) $^ -o $@
+
+main_optimized.exe: main.cpp mult_algorithm.cpp 
+	$(CXX) $(CXXFLAGSOPT) $^ -o $@
+
 
 
 
