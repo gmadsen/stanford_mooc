@@ -1,11 +1,13 @@
 #pragma once
 // graph structure and algorithms
 
-#include <list>
-#include <vector>
 #include <fstream>
+#include <list>
+#include <utility>
+#include <vector>
+#include <memory>
 
-namespace GraphNS { 
+namespace GraphNS {
 typedef std::vector<std::list<int>> adj_t;
 class Graph {
  private:
@@ -31,7 +33,22 @@ class Graph {
   void add_edge(int u, int v);
   void get_vertex(int idx);
 
-}; // class Graph
+};  // class Graph
+
+class WeightedGraph {
+ private:
+  struct Vertex {
+    int label;
+    std::vector<std::pair<int, int>> adj_edges;
+    bool explored;
+  };  // class Vertex
+  std::vector<std::unique_ptr<Vertex>> vertices;
+public:
+WeightedGraph(std::ifstream &input);
+size_t size() const;
+
+void print() const;
+};  // class WeightedGraph
 
 //////////////////////////////////////////////////////////////////////////////////
 // Graph Algorithms
@@ -41,20 +58,19 @@ class Graph {
 void dfs(const Graph &g, int s, std::vector<bool> &explored);
 
 // EFFECTS: create a directed graph with reversed order
-Graph reverse_graph(const Graph &G);
+Graph reverse_graph(const Graph &g);
 
 // EFFECTS: create a directed graph with new indices
-Graph update_finishing_times();
+Graph update_labels(const Graph &g, const std::vector<int> &order);
 // EFFECTS: calculate finishing times using kosarjus
 std::vector<int> topological_sort(const Graph &g);
 
-// EFFECTS: explore all vertices in graph with Depth first search
-// MODIFIES: explored array
-// REQUIRES: assumes initial call has an explored array of all false
-void dfs_sort(const Graph &g, int s, std::vector<bool> &explored_array,
-              std::vector<int> &ordering, int &label); 
- 
+// EFFECTS: return a vector of SCC sizes
+std::vector<int> kosaraju(const Graph &g);
+
+// EFFECTS: return a vector of shortest paths from s to all Dijkstra's
+vector<int> dijkstra(WeightedGraph wg, int s);
 // == overload for class Graph
 bool operator==(const Graph &left, const Graph &right);
 
-} // namespace GraphNS
+}  // namespace GraphNS

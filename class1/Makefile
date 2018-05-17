@@ -1,8 +1,8 @@
 # Makefile for EECS 280 Project 4
 
 CXX = g++
-CXXFLAGS = -Wall -Werror -pedantic --std=c++11 -g
-CXXFLAGSOPT = --std=c++11 -O3
+CXXFLAGS = -Wall -Werror -pedantic --std=c++14 -g
+CXXFLAGSOPT = --std=c++11 -O3 
 
 
 all: test
@@ -19,10 +19,10 @@ graph_test.exe: graph_test.cpp graph.cpp unit_test_framework.cpp
 	$(CXX) $(CXXFLAGS) $^ -o $@
 
 
-main.exe: main.cpp mult_algorithm.cpp 
+main.exe: main.cpp mult_algorithm.cpp graph.cpp 
 	$(CXX) $(CXXFLAGS) $^ -o $@
 
-main_optimized.exe: main.cpp mult_algorithm.cpp 
+main_optimized.exe: main.cpp graph.cpp 
 	$(CXX) $(CXXFLAGSOPT) $^ -o $@
 
 
