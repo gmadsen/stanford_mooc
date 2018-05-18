@@ -3,9 +3,9 @@
 
 #include <fstream>
 #include <list>
+#include <memory>
 #include <utility>
 #include <vector>
-#include <memory>
 
 namespace GraphNS {
 typedef std::vector<std::list<int>> adj_t;
@@ -42,13 +42,35 @@ class WeightedGraph {
     std::vector<std::pair<int, int>> adj_edges;
     bool explored;
   };  // class Vertex
-  std::vector<std::unique_ptr<Vertex>> vertices;
-public:
-WeightedGraph(std::ifstream &input);
-size_t size() const;
 
-void print() const;
+ public:
+  std::vector<std::unique_ptr<Vertex>> vertices;
+  WeightedGraph(std::ifstream &input);
+  size_t size() const;
+
+  const std::vector<std::unique_ptr<Vertex>> &get_vertices() const;
+  void print() const;
 };  // class WeightedGraph
+
+class VertexHeap {
+ private:
+  typedef std::vector<std::pair<int, int>> heaplist;
+  heaplist heap;
+
+ public:
+  typedef heaplist::iterator iterator;
+  typedef heaplist::const_iterator const_iterator;
+  iterator begin() { return heap.begin(); }
+  iterator end() { return heap.end(); }
+  std::pair<int,int> top() const; 
+
+  void print() const;
+  void push(std::pair<int,int> v);
+  void pop();
+  void remove(int vertex);
+  int value_at(int vertex) const;
+  size_t size() const;
+};  // class VertexHeap
 
 //////////////////////////////////////////////////////////////////////////////////
 // Graph Algorithms
@@ -69,7 +91,7 @@ std::vector<int> topological_sort(const Graph &g);
 std::vector<int> kosaraju(const Graph &g);
 
 // EFFECTS: return a vector of shortest paths from s to all Dijkstra's
-vector<int> dijkstra(WeightedGraph wg, int s);
+std::vector<int> dijkstra(WeightedGraph &wg, int s);
 // == overload for class Graph
 bool operator==(const Graph &left, const Graph &right);
 

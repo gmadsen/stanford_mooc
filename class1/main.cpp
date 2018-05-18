@@ -12,10 +12,12 @@ using namespace std;
 using GraphNS::Graph;
 using GraphNS::kosaraju;
 using GraphNS::adj_t;
+using GraphNS::WeightedGraph;
+using GraphNS::dijkstra;
 
 int main(int argc, char **argv) {
   // open file
-  ifstream file("large_graph.txt");
+  ifstream file("dijkstraData.txt");
 
  //////////////// // start timer for filling
   chrono::time_point<chrono::system_clock> start_fill, end_fill, start_count,
@@ -23,8 +25,7 @@ int main(int argc, char **argv) {
   start_fill = chrono::system_clock::now();
 
   // open data file and create graph
-  Graph g(8757144, file);
-  //Graph g(11, file);
+  WeightedGraph wg(file); 
 
   ////////////////////// end fill timer//////////////////////
   end_fill = chrono::system_clock::now();
@@ -36,16 +37,15 @@ int main(int argc, char **argv) {
   start_count = chrono::system_clock::now();
 
   // DO main algorithm
-  vector<int> leader_sizes = kosaraju(g);
-
+auto a = dijkstra(wg,0);
   ////////////////////// end timer///////////////////////////
   end_count = chrono::system_clock::now();
   chrono::duration<double> elapsed_seconds = end_count - start_count;
   std::cout << "\n computation took " << elapsed_seconds.count() << "s" << endl;
-  cout << "leader sizes are " ;
-  for (auto i : leader_sizes) {
-    cout << i << " ";
-
+  vector<int> answer {a[6], a[36], a[58], a[81], a[98], a[114], a[132], a[164], a[187], a[196]};
+  cout << "answer is: " << endl;
+  for (auto i : answer) {
+    cout << i << ",";
   }
   cout << endl;
   return 0;

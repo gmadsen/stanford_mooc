@@ -4,13 +4,15 @@
 #include <algorithm>
 #include <cassert>
 #include <fstream>
-#include <sstream>
 #include <iostream>
+#include <limits>
 #include <list>
 #include <map>
-#include <vector>
 #include <memory>
+#include <set>
+#include <sstream>
 #include <utility>
+#include <vector>
 
 using namespace std;
 
@@ -30,25 +32,28 @@ void kosaraju_dfs(const Graph &g, int s, vector<bool> &explored_array,
 ////////////////////////////////////////////////////////////
 
 /////////////////////classs WeightedGraph//////////////////
+////////////////////////////////////////////////////////////
+
 WeightedGraph::WeightedGraph(ifstream &input) {
   string line;
   while (getline(input, line)) {
     istringstream str_ss(line);
-     vertices.push_back(make_unique<Vertex>());
+    vertices.push_back(make_unique<Vertex>());
     str_ss >> vertices.back()->label;
+    --vertices.back()->label;
     vertices.back()->explored = false;
     int outvertex = 0;
     int weight = 0;
     while (str_ss >> outvertex) {
       str_ss.ignore(1, ',');
       str_ss >> weight;
+      --outvertex;
       vertices.back()->adj_edges.emplace_back(make_pair(outvertex, weight));
     }
   }
 }
-size_t WeightedGraph::size() const {
-  return vertices.size();
-}
+size_t WeightedGraph::size() const { return vertices.size(); }
+
 void WeightedGraph::print() const {
   for (const auto &i : vertices) {
     cout << "vertex " << i->label << " has weighted edges ";
@@ -57,6 +62,11 @@ void WeightedGraph::print() const {
     }
     cout << endl;
   }
+}
+
+const vector<unique_ptr<WeightedGraph::Vertex>> &WeightedGraph::get_vertices()
+    const {
+  return vertices;
 }
 
 //////////////////////////////////////////////////////////
@@ -88,7 +98,57 @@ void Graph::print() const {
   }
   cout << endl;
 }
-//////////////////// class Graph
+/////////////////////////////////////////////////////////////////////////
+////////////////////  End of class Graph//////////////////////////////////////
+/////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////
+//////////// class VertexHeap /////////////////////////////////
+////////////////////////////////////////////////////////////////
+bool vert_compare(pair<int, int> a, pair<int, int> b) {
+  return (a.second > b.second);
+}
+
+pair<int, int> VertexHeap::top() const { return heap[0]; }
+
+void VertexHeap::print() const {
+  for (auto i : heap) {
+    cout << "vertex " << i.first << " greedy score " << i.second << endl;
+  }
+}
+void VertexHeap::push(pair<int, int> v) {
+  heap.push_back(v);
+  push_heap(heap.begin(), heap.end(), vert_compare);
+}
+void VertexHeap::pop() {
+  pop_heap(heap.begin(), heap.end(), vert_compare);
+  heap.pop_back();
+}
+void VertexHeap::remove(int vertex_value) {
+  auto it =
+      find_if(heap.begin(), heap.end(), [&vertex_value](const auto &vertex) {
+        return vertex.first == vertex_value;
+      });
+  if (it != heap.end()) {
+    *it = heap.back();
+    heap.pop_back();
+    make_heap(heap.begin(), heap.end(), vert_compare);
+  }
+}
+int VertexHeap::value_at(int vertex_value) const {
+  auto it =
+      find_if(heap.begin(), heap.end(), [&vertex_value](const auto &vertex) {
+        return vertex.first == vertex_value;
+      });
+  if (it != heap.end()) {
+    return it->second;
+  }
+  return -1;
+}
+size_t VertexHeap::size() const { return heap.size(); }
+/////////////////////////////////////////////////////////////
+/////////////// class VertexHeap////////////////////////////
+///////////////////////////////////////////////////////////
 
 //////////////////////////////////////////////////////////////////////////////////
 // Graph Algorithms
@@ -222,6 +282,48 @@ void dfs_sort(const Graph &g, int s, vector<bool> &explored_array,
   --label;
 }
 
+vector<int> dijkstra(WeightedGraph &wg, int s) {
+  /////// initialize
+  VertexHeap heap;
+  int size = wg.size();
+  const auto &pvertices = wg.get_vertices();
+
+  // set all distances to inf
+  vector<int> distance(size, numeric_limits<int>::max());
+  // fill untouched with all vertices
+  // make heap
+  for (const auto &i : pvertices) {
+    heap.push(make_pair(i->label, numeric_limits<int>::max()));
+  }
+  // add s to touched
+  distance[s] = 0;
+  pvertices[s]->explored = true;
+  heap.remove(s);
+  for (const auto &i : pvertices[s]->adj_edges) {
+    heap.remove(i.first);
+    int greedy_score = distance[s] + i.second;
+    heap.push(make_pair(i.first, greedy_score));
+  }
+
+  while (heap.size() > 0) {
+    pair<int, int> p(heap.top());
+    distance[p.first] = p.second;
+    heap.remove(p.first);
+    pvertices[p.first]->explored = true;
+    for (const auto &i : pvertices[p.first]->adj_edges) {
+      if (pvertices[i.first]->explored == false) {
+        int greedy_score = distance[p.first] + i.second;
+        int current_value = heap.value_at(i.first);
+        if (current_value > greedy_score) {
+          heap.remove(i.first);
+          heap.push(make_pair(i.first, greedy_score));
+        }
+      }
+    }
+  }
+
+  return distance;
+}
 ///////////////////////////////////////////////////////
 /////////////Overloads and Helpers////////////////////
 //////////////////////////////////////////////////////

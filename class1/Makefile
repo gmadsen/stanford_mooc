@@ -1,8 +1,8 @@
 # Makefile for EECS 280 Project 4
 
 CXX = g++
-CXXFLAGS = -Wall -Werror -pedantic --std=c++14 -g
-CXXFLAGSOPT = --std=c++11 -O3 
+CXXFLAGS = -Wall -Werror -pedantic --std=c++17 -g
+CXXFLAGSOPT = --std=c++17 -O3 
 
 
 all: test

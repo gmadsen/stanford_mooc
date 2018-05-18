@@ -4,6 +4,9 @@
 #include <fstream>
 #include <list>
 #include <vector>
+#include <utility>
+#include <algorithm>
+
 
 
 using namespace std;
@@ -113,11 +116,29 @@ TEST(test_kosaraju_mediun) {
   cout << endl;
 }
 
- TEST(test_fstream_ctor_weighted) {
-   ifstream file("dijkstraData.txt");
+ TEST(test_dijkstra_small_weighted_graph) {
+   ifstream file("small_weighted_graph.txt");
     WeightedGraph wg(file);
-    wg.print();
-    cout << "size is " << wg.size() << endl;
+     auto a = dijkstra(wg,0);
+     vector<int> expected {0,5,6,7,7};
+     for (auto i : a) {
+       cout << i << " ";
+     }
+    ASSERT_EQUAL(a, expected);
  }
+
+ TEST(test_class_VertexHeap) {
+   VertexHeap heap;
+   ifstream file("small_weighted_graph.txt");
+    WeightedGraph wg(file);
+
+   heap.push(make_pair<int,int>(0,0));
+   heap.push(make_pair<int,int>(1,5));
+   heap.push(make_pair<int,int>(2,6));
+   heap.push(make_pair<int,int>(3,7));
+   heap.push(make_pair<int,int>(4,7));
+  heap.remove(3);
+ }
+
 TEST_MAIN()
 
